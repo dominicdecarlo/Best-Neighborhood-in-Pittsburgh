@@ -1,0 +1,1195 @@
+﻿_id,container_id,receptacle_model_id,assignment_date,last_updated_date,group_name,address,city,state,zip,neighborhood,dpw_division,council_district,ward,fire_zone,x,y
+342805,1,74,2017-09-14T13:24:40,2022-11-24T13:17:19,1st Division,122 E North Ave,Pittsburgh,Pennsylvania,15212,Central Northside,1,1,22,1-6,-80.00401762,40.45607267
+342806,2,74,2017-09-14T13:24:40,2022-12-31T01:54:25,1st Division,2507 Brighton Rd,Pittsburgh,Pennsylvania,15212,Marshall-Shadeland,1,1,27,1-9,-80.02513248,40.46721344
+342807,3,74,2017-09-14T13:24:40,2022-04-14T01:59:18,1st Division,1300 Federal St,Pittsburgh,Pennsylvania,15212,Central Northside,1,1,22,1-6,-80.00687163,40.45662511
+342808,4,74,2017-09-14T13:24:40,2022-10-24T12:40:24,1st Division,110 Federal St,Pittsburgh,Pennsylvania,15212,Allegheny Center,1,1,22,1-6,-80.00625,40.45452
+342809,5,74,2017-09-19T12:22:45,2022-12-31T01:58:16,1st Division,490 E North Ave,Pittsburgh,Pennsylvania,15212,Central Northside,1,1,22,1-6,-80.00208255,40.45644352
+342810,6,74,2017-09-19T12:22:46,2022-10-15T13:09:34,1st Division,1501 Brighton Rd,Pittsburgh,Pennsylvania,15212,California-Kirkbride,1,6,25,1-21,-80.01575801,40.45702497
+342811,7,74,2017-09-19T12:22:46,2022-06-01T01:34:21,1st Division,3113 Brighton Rd,Pittsburgh,Pennsylvania,15212,Marshall-Shadeland,1,1,27,1-14,-80.02904,40.47382
+342812,8,74,2017-09-19T12:22:46,2022-12-30T13:07:16,1st Division,1729 Brighton Rd,Pittsburgh,Pennsylvania,15212,California-Kirkbride,1,6,25,1-21,-80.016706,40.459364
+342813,9,74,2017-09-19T12:22:46,2022-12-30T13:27:56,1st Division,710 W North Ave,Pittsburgh,Pennsylvania,15212,Allegheny Center,1,1,22,1-21,-80.01409467,40.4539686
+342814,10,74,2017-09-19T12:22:46,2022-10-15T13:19:20,1st Division,919 Fulton St,Pittsburgh,Pennsylvania,15233,Manchester,1,6,21,1-8,-80.0239315,40.45166308
+342815,11,74,2017-09-19T12:22:46,2022-12-31T01:30:24,1st Division,3900 Perrysville Ave,Pittsburgh,Pennsylvania,15214,Perry North,1,1,26,1-15,-80.01844,40.48941
+342816,12,74,2017-09-19T12:22:46,2022-10-21T01:38:20,1st Division,2515 Preble Ave,Pittsburgh,Pennsylvania,15233,Marshall-Shadeland,1,1,27,1-14,-80.03675,40.46314
+342817,13,74,2017-09-19T12:22:46,2022-12-31T01:31:18,1st Division,3876 Perrysville Ave,Pittsburgh,Pennsylvania,15214,Perry North,1,1,26,1-15,-80.01830412,40.48929458
+342818,14,74,2022-03-09T15:04:33,2022-10-24T02:25:22,1st Division,1729 Eckert Street,Pittsburgh,Pennsylvania,15212,Marshall-Shadeland,1,1,27,1-14,-80.03736464,40.47177337
+342819,15,74,2017-09-19T12:22:46,2022-12-31T01:59:22,1st Division,2344 Perrysville Ave,Pittsburgh,Pennsylvania,15214,Perry South,1,6,26,1-12,-80.00985725,40.46755881
+342820,16,74,2017-09-19T12:22:46,2022-12-31T01:38:40,1st Division,308 Catoma Street,Pittsburgh,Pennsylvania,15212,Fineview,1,6,25,1-10,-80.00420064,40.46053854
+342821,17,74,2017-09-19T12:22:46,2022-12-30T13:06:50,1st Division,1438 Columbus Ave,Pittsburgh,Pennsylvania,15233,Manchester,1,6,21,1-8,-80.02884,40.45738
+342822,18,74,2017-09-19T12:22:46,2022-12-31T01:34:34,1st Division,2639 Perrysville Ave,Pittsburgh,Pennsylvania,15214,Perry South,1,6,26,1-23,-80.00994486,40.47174057
+342823,19,74,2017-09-19T12:22:47,2022-09-17T13:15:08,1st Division,910 Galveston Ave,Pittsburgh,Pennsylvania,15233,Allegheny West,1,1,22,1-7,-80.01660954,40.4523624
+342824,20,74,2017-09-19T12:22:47,2022-12-30T13:29:17,1st Division,3957 Perrysville Ave,Pittsburgh,Pennsylvania,15214,Perry North,1,1,26,1-15,-80.01977679,40.4909868
+342825,21,74,2017-09-19T12:22:47,2022-12-31T02:15:24,1st Division,2909 Perrysville Ave,Pittsburgh,Pennsylvania,15214,Perry North,1,1,26,1-23,-80.01160545,40.47516151
+342826,22,74,2017-09-19T12:22:47,2022-09-03T13:17:20,1st Division,3472 Perrysville Ave,Pittsburgh,Pennsylvania,15214,Perry North,1,1,26,1-15,-80.01348486,40.48421285
+342827,23,74,2017-09-19T12:22:47,2022-08-05T13:17:25,1st Division,1305 Allegheny Ave,Pittsburgh,Pennsylvania,15233,Manchester,1,6,21,1-8,-80.01994,40.45429
+342828,24,74,2017-09-19T12:22:47,2022-12-15T13:09:39,1st Division,1414 Brighton Rd,Pittsburgh,Pennsylvania,15212,Central Northside,1,6,25,1-21,-80.01546,40.45676
+342829,25,74,2017-09-19T12:22:47,2022-12-31T01:52:21,1st Division,1211 Troy Hill Rd,Pittsburgh,Pennsylvania,15212,Troy Hill,1,1,24,1-5,-79.98943988,40.45755571
+342830,26,74,2017-09-19T12:22:47,2022-12-31T01:52:21,1st Division,2320 California Ave,Pittsburgh,Pennsylvania,15233,Marshall-Shadeland,1,6,21,1-9,-80.03105677,40.4621584
+342831,27,74,2017-09-19T12:22:47,2022-12-31T01:59:23,1st Division,404 Cedar Avenue,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-20,-80.0011,40.45187
+342832,28,74,2017-09-19T12:22:47,2022-12-30T13:23:34,1st Division,320 E North Ave,Pittsburgh,Pennsylvania,15212,Allegheny Center,1,1,22,1-6,-80.00298,40.45612
+342833,29,74,2017-09-19T12:22:47,2022-11-06T01:56:08,1st Division,3461 Perrysville Ave,Pittsburgh,Pennsylvania,15214,Perry North,1,1,26,1-15,-80.01329,40.48383
+342834,30,74,2017-09-19T12:22:47,2022-12-31T01:37:48,1st Division,3607 Brighton Rd,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.03426,40.48179
+342835,31,74,2017-09-19T12:22:47,2022-12-30T13:23:21,1st Division,1814 Homer St,Pittsburgh,Pennsylvania,15212,Spring Hill-City View,1,1,24,1-24,-79.991222,40.465255
+342836,32,74,2017-09-19T12:22:47,2022-12-07T13:23:30,1st Division,1819 Manhattan St,Pittsburgh,Pennsylvania,15233,Manchester,1,6,21,1-8,-80.02782829,40.45853148
+342837,33,74,2017-09-19T12:22:47,2022-10-12T13:24:28,1st Division,3159 Shadeland Ave,Pittsburgh,Pennsylvania,15212,Marshall-Shadeland,1,1,27,1-14,-80.03200221,40.47488079
+342838,34,74,2017-09-19T12:22:47,2022-12-31T01:31:31,1st Division,862 Spring Garden Ave,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-5,-79.99548343,40.45769103
+342839,35,74,2017-09-19T12:22:47,2022-12-06T13:15:26,1st Division,1483 Benton Ave,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.04044388,40.4844099
+342840,36,74,2017-09-19T12:22:47,2022-12-31T02:01:22,1st Division,1800 Meadville St,Pittsburgh,Pennsylvania,15214,Fineview,1,1,25,1-10,-80.00553206,40.46200898
+342841,37,74,2017-09-19T12:22:47,2022-11-10T22:14:21,1st Division,208 Jacksonia Street,Pittsburgh,Pennsylvania,15212,Central Northside,1,6,25,1-21,-80.00962178,40.45793057
+342842,38,74,2017-09-19T12:22:47,2022-10-13T01:34:30,1st Division,1108 Federal Street,Pittsburgh,Pennsylvania,15212,Central Northside,1,1,22,1-6,-80.00664,40.45584
+342843,39,74,2017-09-19T12:22:47,2022-11-04T13:23:21,1st Division,1201 Woods Run Avenue,Pittsburgh,Pennsylvania,15212,Marshall-Shadeland,1,1,27,1-14,-80.03038624,40.47636429
+342844,40,74,2017-09-19T12:22:47,2022-12-20T01:38:29,1st Division,416 West North Avenue,Pittsburgh,Pennsylvania,15212,Central Northside,1,1,22,1-21,-80.01144,40.45461
+342845,41,74,2017-09-19T12:22:47,2022-12-31T01:55:20,1st Division,623 E Ohio St,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-6,-79.99814805,40.4538645
+342846,42,74,2017-09-19T12:22:47,2022-08-27T17:47:38,1st Division,6 W North Ave,Pittsburgh,Pennsylvania,15212,Allegheny Center,1,1,22,1-21,-80.00690988,40.45531316
+342847,43,74,2017-09-19T12:22:48,2022-08-05T13:20:20,1st Division,2919 California Ave,Pittsburgh,Pennsylvania,15212,Marshall-Shadeland,1,1,27,1-14,-80.03630773,40.47076996
+342848,44,74,2017-09-19T12:22:48,2022-12-30T13:41:25,1st Division,2101 Perrysville Ave,Pittsburgh,Pennsylvania,15214,Perry South,1,6,25,1-10,-80.01213758,40.46377353
+342849,45,74,2017-09-19T12:22:48,2022-12-30T13:16:43,1st Division,3934 Brighton Rd,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.03811,40.48721
+342850,46,74,2017-09-19T12:22:48,2022-09-03T13:24:34,1st Division,1200 Spring Garden Ave,Pittsburgh,Pennsylvania,15212,Spring Garden,1,1,24,1-5,-79.9915477,40.46016318
+342851,47,74,2017-09-19T12:22:48,2022-06-22T13:28:18,1st Division,924 Spring Garden Ave,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-5,-79.99456497,40.45810862
+342852,48,74,2017-09-19T12:22:48,2022-12-30T13:30:12,1st Division,1709 Lowrie St,Pittsburgh,Pennsylvania,15212,Troy Hill,1,1,24,1-2,-79.98226,40.46409
+342853,50,74,2017-09-19T12:22:48,2022-12-29T13:12:25,1st Division,1442 Lowrie St,Pittsburgh,Pennsylvania,15212,Troy Hill,1,1,24,1-2,-79.98507309,40.46125804
+342854,51,74,2017-09-19T12:22:48,2022-12-30T01:42:22,1st Division,3302 Fleming Ave,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.03763581,40.47537435
+342855,52,74,2017-09-19T12:22:48,2022-12-30T13:20:47,1st Division,2441 Perrysville Ave,Pittsburgh,Pennsylvania,15214,Perry South,1,6,26,1-12,-80.00952306,40.46880532
+342856,53,74,2017-09-19T12:22:48,2022-12-31T01:46:16,1st Division,1034 Peralta Street,Pittsburgh,Pennsylvania,15212,Troy Hill,1,1,23,1-5,-79.99160852,40.45652112
+342857,54,74,2017-09-19T12:22:48,2022-12-30T13:43:26,1st Division,1918 Lowrie St,Pittsburgh,Pennsylvania,15212,Troy Hill,1,1,24,1-2,-79.98086558,40.46625873
+342858,55,74,2017-09-19T12:22:48,2022-08-05T13:04:23,1st Division,2625 Shadeland Ave,Pittsburgh,Pennsylvania,15212,Marshall-Shadeland,1,1,27,1-14,-80.03017453,40.46911638
+342859,56,74,2017-09-19T12:22:48,2022-11-06T13:09:28,1st Division,3400 Shadeland Ave,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.03335239,40.47715614
+342860,57,74,2017-09-19T12:22:48,2022-12-31T01:53:23,1st Division,1800 Lowrie St,Pittsburgh,Pennsylvania,15212,Troy Hill,1,1,24,1-2,-79.98197,40.46467
+342861,58,74,2017-09-19T12:22:48,2022-12-31T02:01:23,1st Division,East Street,Pittsburgh,Pennsylvania,15214,Perry North,1,1,26,1-15,-80.00995,40.48626
+342862,59,74,2017-09-19T12:22:48,2022-12-31T01:45:21,1st Division,620 E Ohio St,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-6,-79.99840786,40.4539445
+342863,60,74,2017-09-19T12:22:48,2022-12-30T14:30:23,1st Division,600 E Ohio St,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-6,-79.99902274,40.45385506
+342864,62,74,2017-09-19T12:22:48,2022-11-06T01:55:27,1st Division,1440 Spring Garden Ave,Pittsburgh,Pennsylvania,15212,Spring Garden,1,1,24,1-24,-79.986772,40.462838
+342865,63,74,2017-09-19T12:22:48,2022-06-29T09:35:23,1st Division,3572 Brighton Rd,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.03281454,40.48101198
+342866,64,74,2017-09-19T12:22:48,2022-12-31T01:52:19,1st Division,848 E Ohio St,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-5,-79.99532499,40.45459974
+342867,65,74,2017-09-19T12:22:48,2022-08-03T13:26:52,1st Division,3152 Brighton Rd,Pittsburgh,Pennsylvania,15212,Marshall-Shadeland,1,1,27,1-14,-80.02989303,40.4751136
+342868,66,74,2017-09-19T12:22:48,2022-06-01T01:45:36,1st Division,3141 Brighton Rd,Pittsburgh,Pennsylvania,15212,Marshall-Shadeland,1,1,27,1-14,-80.02980672,40.47484042
+342869,67,74,2017-09-19T12:22:49,2022-12-03T13:22:42,1st Division,3878 Brighton Rd,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.03658,40.48629
+342870,68,74,2017-09-19T12:22:49,2022-10-12T13:28:21,1st Division,3801 Brighton Rd,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.03603,40.48451
+342871,69,74,2017-09-19T12:22:49,2022-08-29T13:10:22,1st Division,1351 Damas Street,Pittsburgh,Pennsylvania,15212,Spring Hill-City View,1,1,24,1-11,-79.98967,40.4654
+342872,70,74,2017-09-19T12:22:49,2022-12-30T13:18:36,1st Division,2703 Brighton Rd,Pittsburgh,Pennsylvania,15212,Marshall-Shadeland,1,1,27,1-14,-80.02571592,40.47001158
+342873,71,74,2017-09-19T12:22:49,2022-10-14T13:20:26,1st Division,705 Brighton Rd,Pittsburgh,Pennsylvania,15233,Allegheny West,1,1,22,1-7,-80.01359392,40.4507338
+342874,73,74,2017-09-19T12:22:49,2022-12-30T13:30:25,1st Division,632 E Ohio St,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-6,-79.99784197,40.45405152
+342875,74,74,2017-09-19T12:22:49,2022-12-31T01:42:21,1st Division,1620 Spring Garden Ave,Pittsburgh,Pennsylvania,15212,Spring Garden,1,1,26,1-11,-79.98535325,40.46644398
+342876,75,74,2017-09-19T12:22:49,2022-11-06T12:10:22,1st Division,863 Peralta Street,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-5,-79.99490475,40.45576316
+342877,76,74,2017-09-19T12:22:49,2022-09-17T13:27:51,1st Division,2403 Perrysville Ave,Pittsburgh,Pennsylvania,15214,Perry South,1,6,26,1-12,-80.00998385,40.46766993
+342878,77,74,2017-09-19T12:22:49,2022-12-30T10:53:24,1st Division,1246 Brighton Rd,Pittsburgh,Pennsylvania,15233,Central Northside,1,1,22,1-21,-80.015151,40.455852
+342879,78,74,2017-09-19T12:22:49,2022-09-06T13:12:36,1st Division,2723 Brighton Rd,Pittsburgh,Pennsylvania,15212,Marshall-Shadeland,1,1,27,1-14,-80.02596616,40.47079648
+342880,80,74,2017-09-19T12:22:49,2022-12-30T01:39:35,1st Division,1300 Federal St,Pittsburgh,Pennsylvania,15212,Central Northside,1,1,22,1-6,-80.00693724,40.45672884
+342881,81,74,2017-09-19T12:22:49,2022-09-17T13:05:46,1st Division,500 Cedar Avenue,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-20,-80.00127,40.45211
+342882,82,74,2017-09-19T12:22:49,2022-10-06T11:53:04,1st Division,2117 Lowrie St,Pittsburgh,Pennsylvania,15212,Troy Hill,1,1,24,1-2,-79.97854,40.46926
+342883,83,74,2017-09-19T12:22:49,2022-08-11T14:35:22,1st Division,401 W Commons St,Pittsburgh,Pennsylvania,15212,Allegheny Center,1,1,22,1-6,-80.00720844,40.45056798
+342884,85,74,2017-09-19T12:22:49,2022-12-31T01:56:23,1st Division,402 Catoma Street,Pittsburgh,Pennsylvania,15212,Fineview,1,6,25,1-10,-80.00398461,40.46058128
+342885,86,74,2017-09-19T12:22:49,2022-10-17T01:54:19,1st Division,1619 Manhattan St,Pittsburgh,Pennsylvania,15233,Manchester,1,6,21,1-8,-80.02717312,40.45676285
+342886,87,74,2017-09-19T12:22:49,2022-10-16T13:20:25,1st Division,2515 Preble Ave,Pittsburgh,Pennsylvania,15233,Marshall-Shadeland,1,1,27,1-14,-80.03568,40.46292
+342887,88,74,2017-09-19T12:22:49,2022-12-16T13:12:25,1st Division,4000 Brighton Rd,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.0410521,40.48761211
+342888,89,74,2017-09-19T12:22:49,2022-12-31T01:35:21,1st Division,3414 East Street,Pittsburgh,Pennsylvania,15214,Northview Heights,1,1,26,1-15,-80.0059,40.48232
+342889,90,74,2017-09-19T12:22:49,2022-12-31T01:55:35,1st Division,3244 Brighton Rd,Pittsburgh,Pennsylvania,15212,Marshall-Shadeland,1,1,27,1-14,-80.03161787,40.47639992
+342890,91,74,2017-09-19T12:22:49,2022-08-05T11:35:23,1st Division,3202 Brighton Road,Pittsburgh,Pennsylvania,15212,Marshall-Shadeland,1,1,27,1-14,-80.03065,40.47558
+342891,92,74,2017-09-19T12:22:50,2022-10-24T13:17:20,1st Division,1603 Beaver Avenue,Pittsburgh,Pennsylvania,15233,Chateau,1,6,21,1-8,-80.03007,40.4563
+342892,93,74,2017-09-19T12:22:50,2022-12-31T01:53:24,1st Division,3243 Brighton Rd,Pittsburgh,Pennsylvania,15212,Marshall-Shadeland,1,1,27,1-14,-80.0317893,40.47642722
+342893,94,74,2017-09-19T12:22:50,2022-10-23T13:01:21,1st Division,632 E Ohio St,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-6,-79.99809336,40.45401323
+342894,95,74,2017-09-19T12:22:50,2022-11-06T01:54:08,1st Division,1845 Ley St,Pittsburgh,Pennsylvania,15212,Troy Hill,1,1,24,1-2,-79.981788,40.465942
+342895,96,74,2017-09-19T12:22:50,2022-12-31T01:52:30,1st Division,1320 Troy Hill Rd,Pittsburgh,Pennsylvania,15212,Troy Hill,1,1,24,1-2,-79.98577,40.45967
+342896,97,74,2017-09-19T12:22:50,2022-12-31T02:30:24,1st Division,1413 Troy Hill Rd,Pittsburgh,Pennsylvania,15212,Troy Hill,1,1,24,1-2,-79.98580613,40.45987165
+342897,98,74,2018-02-06T15:18:08,2022-12-30T13:31:02,1st Division,1310 Benton Ave,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.03636,40.48439
+342898,99,74,2017-09-19T12:22:50,2022-11-08T13:04:34,1st Division,1612 Lowrie St,Pittsburgh,Pennsylvania,15212,Troy Hill,1,1,24,1-2,-79.98314,40.46307
+342899,100,74,2017-09-19T12:22:50,2022-09-17T13:10:58,1st Division,862 Western Ave,Pittsburgh,Pennsylvania,15233,Allegheny West,1,1,22,1-7,-80.01630793,40.45206211
+342900,101,74,2017-09-19T12:22:50,2022-08-23T13:13:22,1st Division,857 Western Ave,Pittsburgh,Pennsylvania,15233,Allegheny West,1,1,22,1-7,-80.01619774,40.4519991
+342901,102,74,2017-09-19T12:22:50,2022-10-15T10:35:32,1st Division,900 Western Ave,Pittsburgh,Pennsylvania,15233,Allegheny West,1,1,22,1-7,-80.01669,40.45191
+342902,103,74,2017-09-19T12:22:50,2022-11-05T13:14:00,1st Division,818 Western Ave,Pittsburgh,Pennsylvania,15233,Allegheny West,1,1,22,1-7,-80.01482,40.45233
+342903,105,74,2017-09-19T12:22:50,2022-11-05T13:06:23,1st Division,540 E Ohio St,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-6,-79.99926793,40.45381161
+342904,107,74,2017-09-19T12:22:50,2022-11-09T13:26:25,1st Division,528 E Ohio St,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-6,-79.99955012,40.45375282
+342905,108,74,2017-09-19T12:22:50,2022-08-08T13:37:18,3rd Division,902 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Bluff,6,6,1,2-4,-79.99160511,40.4387796
+342906,109,74,2017-09-19T12:22:50,2022-12-30T13:18:40,3rd Division,1208 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-4,-79.98850448,40.43864755
+342907,110,74,2017-09-19T12:22:50,2022-11-08T12:35:35,3rd Division,1000 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-4,-79.99081945,40.43873336
+342908,112,74,2017-09-19T12:22:50,2022-12-31T01:55:35,1st Division,537 Suismon Street,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-6,-79.99988,40.45527
+342909,115,74,2017-09-19T12:22:50,2022-12-30T13:18:23,1st Division,624 Cedar Ave,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-6,-80.00154951,40.45318982
+342910,116,74,2017-09-19T12:22:50,2022-09-21T13:03:21,1st Division,3573 Shadeland Ave,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.03476832,40.4814657
+342911,117,74,2017-09-19T12:22:51,2022-12-31T02:11:16,1st Division,3301 Brighton Rd,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.03182239,40.47659041
+342912,118,74,2017-09-19T12:22:51,2022-12-20T01:59:55,1st Division,600 W North Ave,Pittsburgh,Pennsylvania,15212,Allegheny Center,1,1,22,1-21,-80.01265084,40.45428324
+342913,119,74,2017-09-19T12:22:51,2022-12-31T02:00:25,1st Division,613 E Ohio St,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-6,-79.99870555,40.45380933
+342914,121,74,2017-09-19T12:22:51,2022-11-04T14:35:26,2nd Division,5201 Penn Avenue,Pittsburgh,Pennsylvania,15224,Garfield,2,9,10,3-23,-79.93994734,40.46466717
+342915,122,74,2017-09-19T12:22:51,2022-12-31T01:31:23,4th Division,2940 Arlington Ave,Pittsburgh,Pennsylvania,15210,Arlington,3,3,16,4-22,-79.96573423,40.41728661
+342916,123,74,2017-09-19T12:22:51,2022-10-12T01:53:28,3rd Division,130 Saline Street,Pittsburgh,Pennsylvania,15207,Greenfield,3,5,15,2-12,-79.95213408,40.42508516
+342917,125,74,2017-09-19T12:22:51,2022-12-31T01:50:47,2nd Division,6325 Penn Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-13,-79.92009464,40.45943808
+342918,126,74,2017-09-19T12:22:51,2022-12-31T01:48:23,2nd Division,1820 Morningside Avenue,Pittsburgh,Pennsylvania,15206,Morningside,2,7,10,3-7,-79.92649903,40.48693982
+342919,127,74,2017-09-19T12:22:51,2022-12-30T13:10:32,4th Division,405 Saint Joseph Street,Pittsburgh,Pennsylvania,15210,Mt. Oliver,3,3,16,4-8,-79.98170389,40.41351025
+342920,128,74,2017-09-19T12:22:51,2022-10-29T14:30:39,4th Division,2635 Brownsville Rd,Pittsburgh,Pennsylvania,15227,Carrick,3,4,29,4-23,-79.97785175,40.3845801
+342921,129,74,2017-09-19T12:22:51,2022-12-30T14:37:23,2nd Division,6101 Penn Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92355116,40.46104289
+342922,130,74,2017-09-19T12:22:51,2022-10-12T01:36:19,3rd Division,517 Greenfield Ave,Pittsburgh,Pennsylvania,15207,Greenfield,3,5,15,2-12,-79.94181287,40.42576919
+342923,132,74,2017-09-19T12:22:51,2022-10-11T13:22:16,3rd Division,4041 Boulevard Drive,Pittsburgh,Pennsylvania,15217,Greenfield,3,5,15,2-15,-79.93797049,40.42666017
+342924,133,74,2017-09-19T12:22:51,2022-12-30T13:07:18,2nd Division,6135 Penn Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92302705,40.46084456
+342925,134,74,2017-09-19T12:22:51,2022-12-31T01:31:17,2nd Division,6244 Penn Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-10,-79.92194757,40.460524
+342926,136,74,2017-09-19T12:22:51,2022-06-03T13:36:40,5th Division,1616 Broadway Ave,Pittsburgh,Pennsylvania,15216,Beechview,5,4,19,4-28,-80.0247874,40.41001816
+342927,137,74,2017-09-19T12:22:51,2022-12-30T01:37:14,2nd Division,7103 Reynolds Street,Pittsburgh,Pennsylvania,15208,Point Breeze,3,9,14,3-14,-79.9054631,40.44712748
+342928,138,74,2017-09-19T12:22:51,2022-11-06T11:47:23,1st Division,1304 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Central Business District,6,6,3,2-4,-79.98795084,40.43873634
+342929,139,74,2017-09-19T12:22:51,2022-12-31T01:49:29,2nd Division,6024 Penn Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92381376,40.46113262
+342930,141,74,2017-09-19T12:22:52,2022-12-31T01:50:46,3rd Division,1402 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-4,-79.98637,40.43857
+342931,143,74,2017-09-19T12:22:52,2022-12-31T01:54:25,5th Division,1616 Broadway Ave,Pittsburgh,Pennsylvania,15216,Beechview,5,4,19,4-28,-80.02479895,40.41017426
+342932,145,74,2017-09-19T12:22:52,2022-12-31T01:55:18,2nd Division,6361 Penn Avenue,Pittsburgh,Pennsylvania,15206,Shadyside,2,8,7,3-13,-79.91881369,40.45834289
+342933,146,74,2017-09-19T12:22:52,2022-12-30T01:43:31,2nd Division,5231 Centre Ave,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-1,-79.94032478,40.45546486
+342934,147,74,2017-09-19T12:22:52,2022-12-31T02:02:36,4th Division,620 Brookline Blvd,Pittsburgh,Pennsylvania,15226,Brookline,5,4,19,4-26,-80.02182698,40.39492614
+342935,148,74,2017-09-19T12:22:52,2022-12-31T01:39:35,2nd Division,5300 Penn Avenue,Pittsburgh,Pennsylvania,15224,Garfield,2,9,10,3-23,-79.93847949,40.46464053
+342936,149,74,2017-09-19T12:22:52,2022-12-31T01:43:08,2nd Division,221 South Highland Avenue,Pittsburgh,Pennsylvania,15206,Shadyside,2,8,7,3-11,-79.92505,40.4583
+342937,150,74,2017-09-19T12:22:52,2022-12-30T22:20:03,2nd Division,216 South Highland Avenue,Pittsburgh,Pennsylvania,15206,Shadyside,2,8,7,3-11,-79.92517,40.4584
+342938,151,74,2019-04-09T12:54:15,2022-12-31T01:56:37,2nd Division,232 South Highland Avenue,Pittsburgh,Pennsylvania,15206,Shadyside,2,8,7,3-11,-79.92520752,40.45788012
+342939,152,74,2017-09-19T12:22:52,2022-10-11T13:08:41,4th Division,542 Brookline Blvd,Pittsburgh,Pennsylvania,15226,Brookline,5,4,19,4-26,-80.02245688,40.39539958
+342940,153,74,2017-09-19T12:22:52,2022-12-07T13:25:51,3rd Division,3360 Fifth Avenue,Pittsburgh,Pennsylvania,15213,South Oakland,3,6,4,2-14,-79.96211496,40.43902629
+342941,156,74,2017-09-19T12:22:52,2022-08-28T13:16:21,1st Division,1276 Benton Ave,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.03543152,40.48464566
+342942,157,74,2017-09-19T12:22:52,2022-12-31T01:56:50,2nd Division,238 Spahr Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-11,-79.92748774,40.45794636
+342943,158,74,2017-09-19T12:22:52,2022-12-31T01:50:36,2nd Division,1210 Mellon Street,Pittsburgh,Pennsylvania,15206,Highland Park,2,7,11,3-9,-79.92165095,40.47656681
+342944,159,74,2017-09-19T12:22:52,2022-12-31T01:45:34,2nd Division,5800 Bryant Street,Pittsburgh,Pennsylvania,15206,Highland Park,2,7,11,3-9,-79.92063577,40.47599149
+342945,161,74,2017-09-19T12:22:52,2021-12-21T15:10:14,1st Division,910 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Central Business District,6,6,3,2-4,-79.9911995,40.43888656
+342946,163,74,2017-09-19T12:22:52,2022-12-31T01:42:40,1st Division,3518 Brighton Rd,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.03116,40.47961
+342947,164,74,2017-09-19T12:22:52,2022-09-12T13:33:00,3rd Division,1046 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-4,-79.98931219,40.43868112
+342948,166,74,2017-09-20T15:03:18,2022-08-07T01:50:12,4th Division,2305 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,16,4-24,-79.97284157,40.42838906
+342949,167,74,2017-09-20T15:03:18,2022-12-31T02:06:15,1st Division,1815 North Charles Street,Pittsburgh,Pennsylvania,15214,Perry South,1,6,25,1-9,-80.01690656,40.45973027
+342950,168,74,2018-02-06T15:18:08,2022-12-31T01:35:49,1st Division,3507 California Ave,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.04057085,40.47812996
+342951,169,74,2017-09-20T15:03:18,2022-12-31T01:35:34,4th Division,635 E Warrington Ave,Pittsburgh,Pennsylvania,15210,Allentown,5,3,18,4-21,-79.99598672,40.42171869
+342952,170,74,2017-09-20T15:03:18,2022-10-11T13:00:20,4th Division,2100 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,16,4-24,-79.97609377,40.42858331
+342953,171,74,2017-09-20T15:03:18,2022-12-31T01:59:20,4th Division,2003 Arlington Ave,Pittsburgh,Pennsylvania,15210,South Side Slopes,3,3,16,4-22,-79.97853938,40.41800182
+342954,172,74,2017-09-21T10:50:19,2022-10-12T13:18:20,4th Division,2000 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.97755051,40.42852625
+342955,173,74,2017-09-21T10:50:19,2022-12-14T01:59:58,4th Division,1409 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98374,40.42887
+342956,174,74,2017-09-21T10:50:19,2022-11-13T13:11:17,4th Division,1831 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.97935,40.4289
+342957,175,74,2017-09-21T10:50:19,2022-10-12T17:36:40,4th Division,511 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-2,-79.99474732,40.42877415
+342958,176,74,2017-09-21T10:50:19,2022-08-26T01:49:48,5th Division,13 Wabash St,Pittsburgh,Pennsylvania,15220,West End,5,2,20,1-17,-80.03475713,40.44100275
+342959,177,74,2017-09-21T10:50:19,2022-11-07T13:28:21,4th Division,1101 Brookline Blvd,Pittsburgh,Pennsylvania,15226,Brookline,5,4,19,4-26,-80.0151711,40.39203422
+342960,178,74,2017-09-21T10:50:19,2022-08-12T13:24:50,4th Division,128 Knox Ave,Pittsburgh,Pennsylvania,15210,Knoxville,5,3,30,4-7,-79.99062566,40.41431063
+342961,179,74,2017-09-21T10:50:19,2022-12-05T13:07:07,4th Division,2135 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.98671,40.39152
+342962,180,74,2017-09-21T10:50:19,2022-12-30T13:18:16,4th Division,1503 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.9893,40.40105
+342963,181,74,2017-09-21T10:50:19,2022-12-31T02:15:25,4th Division,128 S 18th St,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98075358,40.42701998
+342964,182,74,2017-09-21T10:50:19,2022-09-25T13:27:20,4th Division,2601 Brownsville Rd,Pittsburgh,Pennsylvania,15227,Carrick,3,4,29,4-23,-79.97877541,40.38582354
+342965,183,74,2017-09-21T10:50:19,2022-09-18T13:27:06,4th Division,1150 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.99019001,40.40391478
+342966,184,74,2017-09-21T10:50:19,2022-12-31T01:50:21,4th Division,2806 Brownsville Rd,Pittsburgh,Pennsylvania,15227,Carrick,3,4,29,4-23,-79.97701,40.38301
+342967,186,74,2017-09-21T10:50:20,2022-12-31T01:44:04,4th Division,1900 W Liberty Ave,Pittsburgh,Pennsylvania,15226,Brookline,5,4,19,4-26,-80.018799,40.405087
+342968,188,74,2017-09-21T10:50:20,2022-09-18T13:03:27,4th Division,2626 Brownsville Rd,Pittsburgh,Pennsylvania,15227,Carrick,3,4,29,4-23,-79.97804409,40.38457587
+342969,190,74,2017-09-21T10:50:20,2022-10-24T13:09:34,4th Division,2361 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.98406884,40.38742048
+342970,191,74,2017-09-21T10:50:20,2022-12-31T01:44:22,4th Division,2727 Brownsville Rd,Pittsburgh,Pennsylvania,15227,Carrick,3,4,29,4-23,-79.97736025,40.38356797
+342971,192,74,2017-09-21T10:50:20,2022-12-31T01:39:23,4th Division,1401 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98406376,40.42885766
+342972,193,74,2017-09-21T10:50:20,2022-09-10T13:07:01,4th Division,2700 Pioneer Ave,Pittsburgh,Pennsylvania,15226,Brookline,5,4,19,4-26,-80.02508,40.39481
+342973,194,74,2017-09-21T10:50:20,2022-12-14T13:17:42,4th Division,106 S 18th St,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98073,40.42794
+342974,195,74,2017-09-21T10:50:20,2022-10-09T15:40:30,1st Division,400 Cherry Way,Pittsburgh,Pennsylvania,15219,Central Business District,6,6,1,1-4,-79.9989,40.43804
+342975,196,74,2017-09-21T10:50:20,2022-12-30T13:31:37,4th Division,2320 Arlington Ave,Pittsburgh,Pennsylvania,15210,Arlington,3,3,16,4-22,-79.9736505,40.41729637
+342976,197,74,2017-09-21T10:50:20,2022-10-13T01:45:38,4th Division,1417 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98348094,40.42886974
+342977,200,74,2017-09-21T10:50:20,2022-06-04T01:39:33,4th Division,2300 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,16,4-24,-79.97290646,40.42823955
+342978,201,74,2017-09-21T10:50:20,2022-12-30T13:09:33,4th Division,1039 Brookline Blvd,Pittsburgh,Pennsylvania,15226,Brookline,5,4,19,4-26,-80.01594,40.39188
+342979,202,74,2017-09-21T10:50:20,2022-09-03T13:01:48,4th Division,1914 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.9871,40.395585
+342980,203,74,2017-09-21T10:50:20,2022-11-10T13:21:56,4th Division,1802 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.98795831,40.39731077
+342981,204,74,2017-09-21T10:50:20,2022-09-03T13:26:08,4th Division,2022 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.98630216,40.39433933
+342982,206,74,2017-09-21T10:50:20,2022-11-24T13:13:19,4th Division,1707 Arlington Ave,Pittsburgh,Pennsylvania,15210,South Side Slopes,3,3,17,4-6,-79.98628756,40.41763008
+342983,207,74,2017-09-21T10:50:20,2022-09-09T15:35:22,4th Division,1501 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98338,40.42883
+342984,208,74,2017-09-21T10:50:20,2022-10-12T02:01:30,4th Division,2401 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,16,4-24,-79.97102462,40.42825708
+342985,209,74,2017-09-21T10:50:20,2022-12-31T01:59:17,4th Division,1800 Pioneer Ave,Pittsburgh,Pennsylvania,15226,Brookline,5,4,19,4-26,-80.01500189,40.40546384
+342986,210,74,2017-09-21T10:50:20,2022-12-31T01:47:07,4th Division,1300 Breining Street,Pittsburgh,Pennsylvania,15226,Brookline,5,4,19,4-26,-80.01082,40.39223
+342987,211,74,2017-09-21T10:50:20,2022-12-31T01:38:23,4th Division,2801 S 18th St,Pittsburgh,Pennsylvania,15210,South Side Slopes,3,3,17,4-6,-79.98647296,40.41788314
+342988,212,74,2017-09-21T10:50:21,2022-10-12T01:36:25,4th Division,1117 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98654914,40.42878578
+342989,213,74,2017-09-21T10:50:21,2022-12-31T01:51:47,4th Division,570 E Warrington Ave,Pittsburgh,Pennsylvania,15210,Beltzhoover,5,3,18,4-21,-79.99764,40.42157
+342990,214,74,2017-09-21T10:50:21,2022-10-12T13:09:22,4th Division,911 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-2,-79.98896955,40.42864375
+342991,215,74,2017-09-21T10:50:21,2022-12-31T01:54:06,4th Division,1222 Arlington Ave,Pittsburgh,Pennsylvania,15210,Allentown,5,3,18,4-6,-79.99210003,40.42122326
+342992,216,74,2017-09-21T10:50:21,2022-10-16T01:44:01,4th Division,2001 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.97748197,40.4286674
+342993,217,74,2017-09-21T10:50:21,2022-10-12T01:35:23,4th Division,2340 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,16,4-24,-79.97131755,40.42816931
+342994,218,74,2017-09-21T10:50:21,2022-09-06T01:43:19,4th Division,1324 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98423415,40.42876745
+342995,219,74,2017-09-21T10:50:21,2022-11-23T13:23:19,4th Division,300 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Knoxville,5,3,30,4-7,-79.98822884,40.41424587
+342996,220,74,2017-09-21T10:50:21,2022-10-26T01:43:11,4th Division,1100 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.99077,40.40499
+342997,221,74,2017-09-21T10:50:21,2022-12-31T01:36:22,4th Division,2508 Brownsville Road,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-23,-79.98068,40.38675
+342998,222,74,2017-09-21T10:50:21,2022-12-31T01:44:21,4th Division,2317 Arlington Ave,Pittsburgh,Pennsylvania,15210,South Side Slopes,3,3,16,4-22,-79.97364711,40.417429
+342999,223,74,2017-09-21T10:50:21,2022-12-31T01:58:24,4th Division,1633 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.98863086,40.39859341
+343000,224,74,2017-09-21T10:50:21,2022-12-31T01:53:49,4th Division,1230 Arlington Ave,Pittsburgh,Pennsylvania,15210,Allentown,5,3,18,4-6,-79.99197,40.420959
+343001,225,74,2017-09-21T10:50:21,2022-12-31T01:50:33,1st Division,2535 North Charles Street,Pittsburgh,Pennsylvania,15214,Perry South,1,6,26,1-12,-80.01764109,40.46735414
+343002,226,74,2017-09-21T10:50:21,2022-10-12T16:36:13,4th Division,1201 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98631207,40.42879623
+343003,227,74,2017-09-21T10:50:21,2022-12-30T13:06:49,4th Division,601 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Knoxville,5,3,30,4-7,-79.99039,40.41049
+343004,228,74,2017-09-21T10:50:21,2022-12-31T01:30:14,4th Division,120 Beltzhoover Ave,Pittsburgh,Pennsylvania,15210,Beltzhoover,5,3,18,4-21,-79.99745353,40.42135558
+343005,229,74,2017-09-21T10:50:21,2022-10-12T01:38:22,4th Division,1820 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.97963,40.42863
+343006,230,74,2017-09-21T10:50:21,2022-10-12T01:36:28,4th Division,1301 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98522788,40.42883944
+343007,232,74,2017-09-21T10:50:21,2022-10-12T13:10:34,4th Division,2130 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,16,4-24,-79.97477286,40.42850417
+343008,233,74,2017-09-21T10:50:21,2022-10-12T13:22:27,4th Division,1800 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98019,40.42867
+343009,234,74,2017-09-21T10:50:21,2022-12-31T01:56:08,4th Division,2400 Arlington Avenue,Pittsburgh,Pennsylvania,15210,Arlington,3,3,16,4-22,-79.97280029,40.41734387
+343010,235,74,2017-09-21T10:53:41,2022-08-18T01:39:21,4th Division,300 Beltzhoover Avenue,Pittsburgh,Pennsylvania,15210,Beltzhoover,5,3,18,4-21,-79.99737735,40.42004041
+343011,236,74,2017-09-21T10:53:41,2022-12-31T01:52:03,4th Division,54 South 13th Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98539458,40.42884211
+343012,237,74,2017-09-21T10:53:41,2022-10-24T13:03:33,4th Division,2439 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-23,-79.98175,40.38694
+343013,238,74,2017-09-21T16:27:31,2022-11-06T12:00:23,1st Division,3801 Brighton Rd,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.03585057,40.48426509
+343014,239,74,2017-09-21T16:27:31,2022-08-20T13:21:51,1st Division,929 Western Ave,Pittsburgh,Pennsylvania,15233,Allegheny West,1,1,22,1-7,-80.01763705,40.45170562
+343015,240,74,2017-09-21T16:27:31,2022-12-30T13:01:53,2nd Division,5230 Penn Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-23,-79.93873258,40.46451228
+343016,241,74,2017-09-21T16:27:31,2022-12-31T01:48:45,2nd Division,4801 Centre Ave,Pittsburgh,Pennsylvania,15213,Shadyside,2,8,7,2-23,-79.94733644,40.45323344
+343017,242,74,2017-09-21T16:27:31,2022-12-05T13:41:45,2nd Division,5173 Penn Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-23,-79.94016274,40.46457931
+343018,244,74,2017-09-21T16:27:31,2022-12-31T01:36:07,2nd Division,5854 Ellsworth Avenue,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-11,-79.92924048,40.45725443
+343019,245,74,2017-09-21T16:27:31,2022-10-15T10:35:50,1st Division,1018 W North Ave,Pittsburgh,Pennsylvania,15233,Manchester,1,6,21,1-8,-80.02042,40.45322
+343020,246,74,2017-09-21T16:27:31,2022-08-27T13:08:20,1st Division,920 Western Ave,Pittsburgh,Pennsylvania,15233,Allegheny West,1,1,22,1-7,-80.01743,40.45187
+343021,247,74,2017-09-21T16:27:31,2022-08-31T12:35:39,1st Division,947 Western Ave,Pittsburgh,Pennsylvania,15233,Allegheny West,1,1,22,1-7,-80.01857,40.45154
+343022,248,74,2017-09-21T16:27:31,2022-12-31T01:42:15,1st Division,3639 California Ave,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.04153571,40.48124045
+343023,249,74,2017-09-21T16:27:31,2022-08-05T13:29:50,1st Division,3800 Brighton Rd,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.03571451,40.4842565
+343024,250,74,2017-09-21T16:27:31,2022-12-17T02:03:58,1st Division,806 Western Ave,Pittsburgh,Pennsylvania,15233,Allegheny West,1,1,22,1-7,-80.0142558,40.45244274
+343025,251,74,2017-09-21T16:27:32,2022-09-03T13:30:35,1st Division,820 Western Ave,Pittsburgh,Pennsylvania,15233,Allegheny West,1,1,22,1-7,-80.01492568,40.45222978
+343026,252,74,2017-09-21T16:27:32,2022-11-06T13:40:23,1st Division,427 E Ohio St,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-6,-80.00069195,40.45341677
+343027,253,74,2017-09-21T16:27:32,2022-06-01T01:45:21,1st Division,948 Western Ave,Pittsburgh,Pennsylvania,15233,Allegheny West,1,1,22,1-7,-80.018684,40.451625
+343028,254,74,2017-09-21T16:27:32,2022-12-30T13:27:23,1st Division,607 E Ohio St,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-6,-79.99894173,40.45377262
+343029,255,74,2017-09-21T16:27:32,2022-12-31T01:45:19,1st Division,1549 Lowrie St,Pittsburgh,Pennsylvania,15212,Troy Hill,1,1,24,1-2,-79.98354,40.46238
+343030,256,74,2017-09-21T16:27:32,2022-12-31T01:30:18,1st Division,1706 Lowrie St,Pittsburgh,Pennsylvania,15212,Troy Hill,1,1,24,1-2,-79.98259,40.46398
+343031,257,74,2017-09-21T16:27:32,2022-08-26T15:35:24,1st Division,510 E Ohio St,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-6,-80.00015878,40.45363094
+343032,258,74,2017-09-21T16:27:32,2022-11-05T13:02:46,1st Division,502 E Ohio St,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-6,-80.00045466,40.45358711
+343033,259,74,2017-09-21T16:27:32,2022-12-30T13:29:25,1st Division,1614 Lowrie St,Pittsburgh,Pennsylvania,15212,Troy Hill,1,1,24,1-2,-79.98303461,40.46313304
+343034,260,74,2017-09-21T16:27:32,2022-12-31T01:50:23,1st Division,402 East Ohio Street,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-6,-80.00146,40.45332
+343035,261,74,2017-09-21T16:27:32,2022-12-30T14:50:17,1st Division,519 E Ohio St,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-6,-80.00004863,40.45354321
+343036,262,74,2017-09-21T16:27:32,2022-12-31T01:56:16,1st Division,507 E Ohio St,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-6,-80.00023969,40.45351383
+343037,263,74,2017-09-21T16:27:32,2022-09-03T13:09:23,1st Division,1619 Lowrie St,Pittsburgh,Pennsylvania,15212,Troy Hill,1,1,24,1-2,-79.98282347,40.46323169
+343038,264,74,2017-09-21T16:27:32,2022-11-09T14:35:23,1st Division,426 E Ohio St,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-6,-80.00075501,40.45352466
+343039,265,74,2017-09-21T16:27:32,2022-12-31T01:43:21,1st Division,3615 California Ave,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.041347,40.480562
+343040,266,74,2017-09-21T16:27:32,2022-09-21T13:29:42,1st Division,3645 California Ave,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.041684,40.481591
+343041,267,74,2017-09-21T16:27:32,2022-11-06T12:22:24,1st Division,3713 Brighton Rd,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.03550997,40.48311361
+343042,268,74,2017-09-21T16:27:32,2022-12-30T12:11:34,1st Division,541 E Ohio St,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-6,-79.99929315,40.45370863
+343043,269,74,2017-09-21T16:27:32,2022-10-25T13:08:25,4th Division,736 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Knoxville,5,3,30,4-7,-79.99114653,40.40886635
+343044,270,74,2017-09-21T16:27:32,2022-09-10T13:20:20,4th Division,2100 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,16,4-24,-79.97618522,40.4284604
+343045,271,74,2017-09-21T16:27:32,2022-09-13T13:14:39,4th Division,2222 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,16,4-24,-79.97373473,40.42831536
+343046,272,74,2017-09-21T16:27:32,2022-11-24T13:05:56,4th Division,2533 Pioneer Ave,Pittsburgh,Pennsylvania,15226,Brookline,5,4,19,4-26,-80.02319079,40.39720327
+343047,273,74,2017-09-21T16:27:32,2022-12-31T01:57:03,4th Division,1530 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.98918306,40.39996092
+343048,274,74,2017-09-21T16:27:33,2022-12-07T14:35:34,4th Division,2528 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,16,4-24,-79.96828,40.42735
+343049,275,74,2017-09-21T16:27:33,2022-09-28T13:29:34,4th Division,1938 S 18th St,Pittsburgh,Pennsylvania,15203,South Side Slopes,3,3,17,4-3,-79.97778631,40.42400912
+343050,276,74,2017-09-21T16:27:33,2022-10-11T13:38:23,4th Division,1100 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98743,40.42875
+343051,277,74,2017-09-21T16:27:33,2022-11-10T13:19:24,4th Division,2028 S 18th St,Pittsburgh,Pennsylvania,15203,South Side Slopes,3,3,17,4-3,-79.97932,40.42157
+343052,278,74,2017-09-21T16:27:33,2022-09-28T13:11:43,4th Division,2026 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.97636677,40.42845378
+343053,279,74,2017-09-21T16:27:33,2022-09-09T13:13:52,4th Division,153 S 18th St,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.9808622,40.42612533
+343054,280,74,2017-09-21T16:27:33,2022-12-31T01:51:33,4th Division,601 Brownsville Road,Pittsburgh,Pennsylvania,15210,Knoxville,5,3,30,4-7,-79.99028,40.41074
+343055,281,74,2017-09-21T16:27:33,2022-09-12T13:05:25,4th Division,1734 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98069923,40.4286895
+343056,282,74,2017-09-21T16:27:33,2022-10-24T16:30:52,4th Division,2116 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.98669,40.3927
+343057,283,74,2017-09-21T16:27:33,2022-12-31T01:35:20,4th Division,2523 S 18th St,Pittsburgh,Pennsylvania,15210,South Side Slopes,3,3,17,4-6,-79.98459934,40.42134905
+343058,284,74,2017-09-22T15:33:40,2022-12-30T01:48:31,2nd Division,5817 Bryant Street,Pittsburgh,Pennsylvania,15206,Highland Park,2,7,11,3-9,-79.92037949,40.47602494
+343059,286,74,2017-09-22T15:33:41,2022-11-06T12:23:50,2nd Division,5115 Coral Street,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.94282075,40.4643974
+343060,288,74,2017-09-29T09:56:14,2022-12-30T13:12:56,2nd Division,5724 Ellsworth Avenue,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-11,-79.93160597,40.45527259
+343061,289,74,2017-09-22T15:33:41,2022-08-29T13:24:04,1st Division,10 Childrens Way,Pittsburgh,Pennsylvania,15212,Allegheny Center,1,1,22,1-6,-80.006477,40.452218
+343062,290,74,2017-09-22T15:33:41,2022-08-23T13:41:08,3rd Division,806 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Bluff,6,6,1,2-4,-79.99243757,40.43880694
+343063,291,74,2017-09-22T15:33:41,2022-10-21T01:46:21,1st Division,806 Western Ave,Pittsburgh,Pennsylvania,15233,Allegheny West,1,1,22,1-7,-80.01420761,40.45233636
+343064,292,74,2017-09-22T15:33:41,2022-12-31T01:31:00,4th Division,814 Brookline Blvd,Pittsburgh,Pennsylvania,15226,Brookline,5,4,19,4-26,-80.01994927,40.39360033
+343065,293,74,2017-09-22T15:33:41,2022-12-30T13:24:38,2nd Division,5400 Penn Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-23,-79.93663887,40.46462117
+343066,294,74,2017-09-22T15:33:41,2022-12-31T01:39:49,2nd Division,5906 Bryant Street,Pittsburgh,Pennsylvania,15206,Highland Park,2,7,11,3-9,-79.91974938,40.4756545
+343067,296,74,2017-09-22T15:33:41,2022-12-30T13:08:16,2nd Division,5724 Ellsworth Avenue,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-11,-79.93171927,40.4553318
+343068,297,74,2017-09-22T15:33:41,2022-12-15T01:45:00,2nd Division,5819 Ellsworth Avenue,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-11,-79.93033629,40.45655239
+343069,298,74,2017-09-22T15:33:41,2022-12-05T13:03:29,2nd Division,1801 Chislett Street,Pittsburgh,Pennsylvania,15206,Morningside,2,7,10,3-7,-79.92579201,40.48550878
+343070,301,74,2017-09-22T15:33:41,2022-12-31T01:50:19,3rd Division,3445 Ward Street,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-11,-79.95433364,40.43608744
+343071,303,74,2017-09-22T15:33:41,2022-05-03T01:42:16,3rd Division,1304 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-4,-79.98810961,40.43863268
+343072,304,74,2017-09-22T15:33:41,2022-12-23T01:51:00,2nd Division,5215 Centre Ave,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-1,-79.94147783,40.45515357
+343073,305,74,2017-09-22T15:33:41,2022-12-30T13:19:36,2nd Division,5901 Ellsworth Avenue,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-11,-79.92716072,40.45837599
+343074,306,74,2017-09-22T15:33:41,2022-12-27T01:46:59,3rd Division,547 Greenfield Ave,Pittsburgh,Pennsylvania,15207,Greenfield,3,5,15,2-12,-79.94081382,40.42599371
+343075,308,74,2017-09-22T15:33:41,2022-11-24T13:08:19,2nd Division,5941 Penn Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92528113,40.4616818
+343076,309,74,2017-09-22T15:33:41,2022-12-30T13:44:43,2nd Division,5752 Ellsworth Avenue,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-11,-79.93082793,40.45601752
+343077,310,74,2017-09-22T15:33:41,2022-12-30T13:28:52,2nd Division,5849 Ellsworth Avenue,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-11,-79.92944207,40.45712522
+343078,311,74,2017-09-22T15:33:41,2022-12-31T01:36:31,3rd Division,1030 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-4,-79.98981687,40.43869522
+343079,312,74,2017-09-22T15:33:41,2022-06-25T14:36:14,2nd Division,5901 Bryant Street,Pittsburgh,Pennsylvania,15206,Highland Park,2,7,11,3-9,-79.91961842,40.47572417
+343080,313,74,2017-09-22T15:33:42,2022-11-10T13:00:21,3rd Division,1420 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-4,-79.98565933,40.43852387
+343081,315,74,2017-09-22T15:33:42,2022-12-05T13:29:13,4th Division,301 Charles Street,Pittsburgh,Pennsylvania,15210,Knoxville,5,3,30,4-21,-79.99319676,40.41656069
+343082,316,74,2017-09-22T15:33:42,2022-12-30T01:34:22,2nd Division,7106 Edgerton Avenue,Pittsburgh,Pennsylvania,15208,Point Breeze,3,9,14,3-14,-79.90582587,40.44628349
+343083,317,74,2017-09-22T15:33:42,2022-12-23T05:35:23,2nd Division,5850 Ellsworth Avenue,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-11,-79.92937474,40.45701218
+343084,318,74,2017-09-22T15:33:42,2022-12-31T01:44:02,2nd Division,5430 Penn Avenue,Pittsburgh,Pennsylvania,15206,Bloomfield,2,9,8,3-23,-79.93524198,40.46469395
+343085,319,74,2017-09-22T15:33:42,2022-12-06T13:04:23,2nd Division,5743 Ellsworth Avenue,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-11,-79.93123186,40.45578644
+343086,320,74,2017-09-22T15:33:42,2022-06-29T01:35:23,2nd Division,6519 Penn Avenue,Pittsburgh,Pennsylvania,15206,Larimer,2,9,12,3-13,-79.91556131,40.45630028
+343087,321,74,2017-09-22T15:33:42,2022-12-31T03:35:39,3rd Division,1506 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-4,-79.98493118,40.43848638
+343088,322,74,2017-09-22T15:33:42,2022-12-31T01:35:48,2nd Division,6235 Penn Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,8,3-8,-79.92396402,40.46105829
+343089,324,74,2017-09-22T15:33:42,2022-12-30T12:36:43,2nd Division,5883 Ellsworth Avenue,Pittsburgh,Pennsylvania,15206,Shadyside,2,8,7,3-11,-79.92815,40.45793
+343090,325,74,2017-09-22T15:33:42,2022-11-24T13:01:23,2nd Division,5890 Ellsworth Avenue,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-11,-79.92789136,40.45794831
+343091,327,74,2017-09-22T15:33:42,2022-10-12T13:22:19,1st Division,3625 California Ave,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.04144347,40.48094435
+343092,328,74,2017-09-26T12:36:24,2022-11-09T12:25:12,5th Division,1197 West Carson Street,Pittsburgh,Pennsylvania,15219,South Shore,5,2,19,4-2,-80.01710711,40.43987283
+343093,329,74,2017-09-26T12:36:25,2022-12-31T01:43:23,5th Division,113 Merrimac Street,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-1,-80.0130609,40.43517314
+343094,330,74,2017-09-26T12:36:25,2022-11-23T13:08:13,5th Division,720 Sherwood Ave,Pittsburgh,Pennsylvania,15204,Sheraden,5,2,20,1-16,-80.05655538,40.4550128
+343095,331,74,2017-09-26T12:36:25,2022-12-30T13:19:54,5th Division,1437 E Steuben St,Pittsburgh,Pennsylvania,15205,Crafton Heights,5,2,28,1-17,-80.052891,40.443015
+343096,332,74,2017-09-26T12:36:25,2022-12-30T13:18:25,5th Division,1338 Chartiers Ave,Pittsburgh,Pennsylvania,15220,Elliott,5,2,20,1-17,-80.044382,40.448886
+343097,333,74,2017-09-26T12:36:25,2022-12-30T13:22:21,5th Division,3131 Chartiers Ave,Pittsburgh,Pennsylvania,15204,Sheraden,5,2,20,1-16,-80.06218039,40.45339523
+343098,334,74,2017-09-26T12:36:25,2022-12-30T02:30:36,5th Division,2827 Chartiers Ave,Pittsburgh,Pennsylvania,15204,Sheraden,5,2,20,1-16,-80.05480887,40.45334168
+343099,335,74,2017-09-26T12:36:25,2022-12-30T13:53:20,5th Division,1607 Broadway Ave,Pittsburgh,Pennsylvania,15216,Beechview,5,4,19,4-28,-80.02456487,40.41027109
+343100,336,74,2017-09-26T12:36:25,2022-10-18T01:32:20,5th Division,2601 Chartiers Ave,Pittsburgh,Pennsylvania,15204,Crafton Heights,5,2,20,1-16,-80.05055468,40.45134893
+343101,337,74,2017-09-26T12:36:25,2022-11-11T13:38:38,5th Division,2625 Chartiers Ave,Pittsburgh,Pennsylvania,15204,Crafton Heights,5,2,20,1-16,-80.05280538,40.45211616
+343102,338,74,2017-09-26T12:36:25,2022-12-31T01:48:00,5th Division,2269 Noblestown Road,Pittsburgh,Pennsylvania,15205,Westwood,5,2,28,1-18,-80.05375,40.42817
+343103,339,74,2017-09-26T12:36:25,2022-11-06T12:34:12,5th Division,1942 Broadway Ave,Pittsburgh,Pennsylvania,15216,Beechview,5,2,20,4-28,-80.02837601,40.40652623
+343104,340,74,2017-09-26T12:36:25,2022-12-31T01:46:29,5th Division,1621 Broadway Ave,Pittsburgh,Pennsylvania,15216,Beechview,5,4,19,4-28,-80.0244955,40.40963668
+343105,341,74,2017-09-26T12:36:25,2022-10-25T13:39:41,3rd Division,4028 Beechwood Boulevard,Pittsburgh,Pennsylvania,15217,Greenfield,3,5,15,2-15,-79.93771,40.42686
+343106,342,74,2017-09-26T12:36:25,2022-11-05T13:04:30,2nd Division,1805 Morningside Avenue,Pittsburgh,Pennsylvania,15206,Morningside,2,7,10,3-7,-79.92717,40.48644
+343107,343,74,2017-09-26T12:36:25,2022-12-29T13:32:30,5th Division,1001 Chartiers Ave,Pittsburgh,Pennsylvania,15220,Elliott,5,2,20,1-17,-80.04076355,40.44400757
+343108,344,74,2017-09-26T12:36:25,2022-12-30T13:23:28,1st Division,1044 Goehring Street,Pittsburgh,Pennsylvania,15212,Spring Hill-City View,1,1,24,1-24,-79.99348,40.46113
+343109,345,74,2017-09-26T12:36:26,2022-12-30T13:35:27,5th Division,930 Chartiers Ave,Pittsburgh,Pennsylvania,15220,Elliott,5,2,20,1-17,-80.0406,40.44387
+343110,346,74,2017-11-03T14:14:09,2022-12-31T01:45:20,5th Division,111 Grandview Avenue,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-27,-80.00693974,40.43164846
+343111,347,74,2017-09-26T12:36:26,2022-12-31T01:38:20,5th Division,2102 Broadway Ave,Pittsburgh,Pennsylvania,15216,Beechview,5,4,19,4-28,-80.03000816,40.40537749
+343112,348,74,2017-09-26T12:36:26,2022-12-30T13:04:33,5th Division,1553 Broadway Ave,Pittsburgh,Pennsylvania,15216,Beechview,5,4,19,4-28,-80.02457,40.41102
+343113,349,74,2017-09-26T12:36:26,2022-12-30T13:03:26,5th Division,122 Shiloh Street,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-27,-80.00711654,40.43117719
+343114,350,74,2017-09-26T12:36:26,2022-12-31T02:00:30,5th Division,218 Shiloh Street,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-27,-80.00746385,40.43028436
+343115,351,74,2017-09-26T12:36:26,2022-08-26T01:45:21,5th Division,167 Wabash St,Pittsburgh,Pennsylvania,15220,West End,5,2,20,1-17,-80.03368,40.43583
+343116,352,74,2017-09-26T12:36:26,2022-12-31T01:39:15,5th Division,3045 Chartiers Ave,Pittsburgh,Pennsylvania,15204,Sheraden,5,2,20,1-16,-80.05957749,40.45389068
+343117,353,74,2017-09-26T12:36:26,2022-10-15T13:10:06,5th Division,1461 Chartiers Ave,Pittsburgh,Pennsylvania,15204,Crafton Heights,5,2,20,1-16,-80.047493,40.450804
+343118,354,74,2017-09-26T12:36:26,2022-12-30T13:22:02,5th Division,301 Virginia Ave,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-27,-80.01070738,40.43113387
+343119,355,74,2017-09-26T12:36:26,2022-06-28T13:11:25,5th Division,162 Steuben St,Pittsburgh,Pennsylvania,15220,Elliott,5,2,20,1-17,-80.03553571,40.44170353
+343120,356,74,2017-09-26T12:36:26,2022-11-24T13:35:10,5th Division,1461 E Steuben St,Pittsburgh,Pennsylvania,15205,Crafton Heights,5,2,28,1-17,-80.053822,40.443502
+343121,357,74,2017-09-26T12:36:26,2022-09-17T16:30:23,5th Division,3860 Chartiers Ave,Pittsburgh,Pennsylvania,15204,Windgap,5,2,28,1-16,-80.07712916,40.45886175
+343122,358,74,2017-09-26T12:36:26,2022-11-05T13:06:07,5th Division,725 Sherwood Ave,Pittsburgh,Pennsylvania,15204,Sheraden,5,2,20,1-16,-80.056769,40.455
+343123,359,74,2017-09-26T12:36:26,2022-10-24T13:32:49,5th Division,122 Shiloh Street,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-27,-80.00740398,40.4308605
+343124,360,74,2017-09-26T12:36:26,2022-08-26T01:54:24,5th Division,123 Steuben St,Pittsburgh,Pennsylvania,15220,West End,5,2,20,1-17,-80.033105,40.44246
+343125,361,74,2017-09-26T12:36:26,2022-12-30T01:33:24,5th Division,5 Grandview Avenue,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-27,-80.00652365,40.43154931
+343126,362,74,2017-09-26T12:36:26,2022-09-09T11:35:25,5th Division,1427 Chartiers Ave,Pittsburgh,Pennsylvania,15220,Crafton Heights,5,2,20,1-16,-80.045597,40.450461
+343127,363,74,2017-09-26T12:36:26,2022-12-30T01:59:23,5th Division,913 Chartiers Ave,Pittsburgh,Pennsylvania,15220,Elliott,5,2,20,1-17,-80.0401321,40.44345766
+343128,364,74,2017-09-26T12:36:26,2022-12-30T13:07:23,5th Division,3018 Chartiers Ave,Pittsburgh,Pennsylvania,15204,Sheraden,5,2,20,1-16,-80.0589914,40.45437628
+343129,365,74,2017-09-26T12:36:26,2022-12-30T16:35:22,3rd Division,331 South Bouquet Street,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95348177,40.44037161
+343130,367,74,2017-09-26T12:36:26,2022-12-30T13:06:48,3rd Division,3400 Fifth Avenue,Pittsburgh,Pennsylvania,15213,Central Oakland,3,6,4,2-14,-79.96194252,40.43915028
+343131,368,74,2017-09-26T12:36:26,2022-10-05T13:04:49,5th Division,2912 Sheraden Blvd,Pittsburgh,Pennsylvania,15204,Sheraden,5,2,20,1-16,-80.0541017,40.45373133
+343132,371,74,2017-09-26T12:36:27,2022-12-31T01:49:57,5th Division,6 Bailey Avenue,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-5,-80.00523214,40.42699126
+343133,372,74,2017-09-26T12:36:27,2022-08-25T13:04:22,5th Division,39 Wabash St,Pittsburgh,Pennsylvania,15220,West End,5,2,20,1-17,-80.03438,40.44041
+343134,373,74,2017-09-26T12:36:27,2022-08-26T02:01:30,5th Division,500 South Main Street,Pittsburgh,Pennsylvania,15220,West End,5,2,20,1-17,-80.03487909,40.44083352
+343135,374,74,2017-09-26T12:36:27,2022-12-31T01:54:21,5th Division,96 Virginia Ave,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-27,-80.0071321,40.42931026
+343136,375,74,2017-09-26T12:36:27,2022-12-29T13:22:03,5th Division,175 Steuben St,Pittsburgh,Pennsylvania,15220,West End,5,2,20,1-17,-80.03532185,40.44169482
+343137,378,74,2017-10-25T14:40:26,2022-09-03T13:22:28,5th Division,1505 Stratmore Ave,Pittsburgh,Pennsylvania,15205,Crafton Heights,5,2,28,1-18,-80.055941,40.437892
+343138,379,74,2017-09-28T16:08:25,2022-12-31T01:49:22,5th Division,863 Steuben St,Pittsburgh,Pennsylvania,15220,Elliott,5,2,20,1-17,-80.0425106,40.44282313
+343139,380,74,2017-09-28T16:08:25,2022-12-31T01:37:24,5th Division,212 Stratmore Ave,Pittsburgh,Pennsylvania,15205,Crafton Heights,5,2,28,1-18,-80.05607,40.43977
+343140,381,74,2017-09-28T16:08:26,2022-12-27T01:55:42,5th Division,501 Alter St,Carnegie,Pennsylvania,15106,East Carnegie,5,2,28,1-19,-80.07477,40.41489
+343141,382,74,2017-09-28T16:08:26,2022-06-28T12:40:21,5th Division,234 Shiloh Street,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-27,-80.007407,40.429736
+343142,383,74,2017-09-28T16:08:26,2022-12-30T13:19:25,5th Division,2855 Chartiers Ave,Pittsburgh,Pennsylvania,15204,Sheraden,5,2,20,1-16,-80.05576869,40.45379529
+343143,384,74,2017-09-28T16:08:26,2022-09-20T13:19:37,5th Division,1330 Hassler Street,Pittsburgh,Pennsylvania,15220,Elliott,5,2,20,1-17,-80.0451,40.43967
+343144,385,74,2017-09-29T09:56:31,2022-01-27T01:49:13,5th Division,2966 Chartiers Ave,Pittsburgh,Pennsylvania,15204,Sheraden,5,2,20,1-16,-80.058293,40.454355
+343145,386,74,2017-09-28T16:08:26,2022-12-31T01:55:21,5th Division,5 Grandview Avenue,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-27,-80.00648,40.43141
+343146,387,74,2017-09-28T16:08:26,2022-11-10T13:14:21,5th Division,3032 Chartiers Ave,Pittsburgh,Pennsylvania,15204,Sheraden,5,2,20,1-16,-80.05951165,40.45405925
+343147,388,74,2017-09-28T16:08:26,2022-12-03T01:48:20,5th Division,131 Shiloh Street,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-27,-80.00733312,40.43079325
+343148,389,74,2017-09-28T16:08:26,2022-06-27T01:50:22,5th Division,1036 Chartiers Ave,Pittsburgh,Pennsylvania,15220,Elliott,5,2,20,1-17,-80.04144362,40.444881
+343149,390,74,2017-09-28T16:08:26,2022-11-27T13:30:34,5th Division,1550 Beechview Avenue,Pittsburgh,Pennsylvania,15216,Beechview,5,4,19,4-28,-80.0248,40.41093
+343150,391,74,2017-09-28T16:08:26,2022-09-21T13:21:45,5th Division,649 Hillsboro Street,Pittsburgh,Pennsylvania,15204,Sheraden,5,2,20,1-16,-80.05428799,40.45342374
+343151,392,74,2017-09-28T16:08:26,2022-09-09T13:31:37,3rd Division,3636 Boulevard of the Allies,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-11,-79.95306,40.43443
+343152,393,74,2017-09-28T16:08:26,2022-12-30T13:15:00,5th Division,2912 Sheraden Blvd,Pittsburgh,Pennsylvania,15204,Sheraden,5,2,20,1-16,-80.05392121,40.4536867
+343153,394,74,2017-09-28T16:08:26,2022-12-31T01:55:25,4th Division,1137 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.99027519,40.40437975
+343154,395,74,2017-09-28T16:08:26,2022-12-31T01:36:23,2nd Division,7113 Reynolds Street,Pittsburgh,Pennsylvania,15208,Point Breeze,3,9,14,3-14,-79.90463219,40.44699037
+343155,396,74,2017-09-28T16:08:26,2022-12-31T01:58:20,5th Division,930 Chartiers Ave,Pittsburgh,Pennsylvania,15220,Elliott,5,2,20,1-17,-80.04050224,40.44397495
+343156,397,74,2017-09-28T16:08:26,2022-12-31T01:36:20,3rd Division,1835 Centre Ave,Pittsburgh,Pennsylvania,15219,Crawford-Roberts,3,6,3,2-1,-79.98144542,40.44290271
+343157,399,74,2017-09-28T16:08:26,2022-12-31T01:57:21,3rd Division,341 South Bouquet Street,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95294118,40.44009177
+343158,401,74,2017-09-28T16:08:26,2022-11-04T13:05:11,4th Division,518 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Knoxville,5,3,30,4-7,-79.98993919,40.41155443
+343159,402,74,2017-09-28T16:08:26,2022-12-31T01:30:44,2nd Division,1141 North Highland Avenue,Pittsburgh,Pennsylvania,15206,Highland Park,2,7,11,3-9,-79.91847683,40.4751262
+343160,403,74,2017-09-28T16:08:26,2022-12-23T01:32:25,5th Division,1000 Chartiers Ave,Pittsburgh,Pennsylvania,15220,Elliott,5,2,20,1-17,-80.04067285,40.44410772
+343161,404,74,2017-09-28T16:08:26,2022-12-31T01:57:42,2nd Division,201 South Highland Avenue,Pittsburgh,Pennsylvania,15206,Shadyside,2,8,7,3-11,-79.92503376,40.45876092
+343162,405,74,2017-09-28T16:08:26,2022-12-30T13:24:40,2nd Division,235 South Highland Avenue,Pittsburgh,Pennsylvania,15206,Shadyside,2,8,7,3-11,-79.92507852,40.45786967
+343163,407,74,2017-09-28T16:08:27,2022-12-31T01:51:25,4th Division,1101 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.99101341,40.40554017
+343164,408,74,2018-10-11T09:45:17,2022-12-31T01:32:59,2nd Division,301 South Negley Avenue,Pittsburgh,Pennsylvania,15232,East Liberty,2,7,8,3-23,-79.93237973,40.46059245
+343165,409,74,2017-09-28T16:08:27,2022-12-30T15:36:44,2nd Division,5865 Ellsworth Avenue,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-11,-79.92886626,40.45745936
+343166,410,74,2017-09-28T16:08:27,2022-12-31T01:46:55,2nd Division,5842 Ellsworth Avenue,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-11,-79.93005329,40.45660854
+343167,413,74,2018-03-05T16:31:05,2022-12-31T01:44:21,1st Division,3900 Perrysville Ave,Pittsburgh,Pennsylvania,15214,Perry North,1,1,26,1-15,-80.01834,40.48957
+343168,414,74,2018-03-16T15:12:25,2022-06-29T14:40:26,1st Division,525 North Shore Drive,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01370492,40.4451538
+343169,416,74,2018-03-16T15:12:25,2022-12-30T13:28:11,1st Division,3300 Brighton Road,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.0316788,40.4765567
+343170,417,74,2018-03-16T15:12:25,2022-08-29T01:59:20,1st Division,20 East General Robinson Street,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-20,-80.00309983,40.44843271
+343171,418,74,2018-03-16T15:12:25,2022-11-07T02:39:24,1st Division,100 Mazeroski Way,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.00742,40.44753
+343172,419,74,2018-03-16T15:12:25,2022-08-02T01:39:08,1st Division,525 North Shore Drive,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01331898,40.44531271
+343173,420,74,2018-03-16T15:12:25,2022-08-04T13:00:37,1st Division,419 North Shore Drive,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01247,40.44559
+343174,421,74,2018-03-16T15:12:25,2022-11-29T13:21:57,1st Division,103 Federal St,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.004267,40.44796975
+343175,422,74,2018-03-16T15:12:25,2022-12-31T01:53:25,1st Division,1808 Penn Ave,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-3,-79.98476,40.45048
+343176,423,74,2018-03-16T15:12:26,2022-12-31T01:34:57,1st Division,1700 Penn Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-3,-79.98592926,40.44972331
+343177,424,74,2018-03-16T15:12:26,2022-12-28T13:36:11,5th Division,243 Grandview Avenue,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-27,-80.00950071,40.4332008
+343178,425,74,2018-03-16T15:12:26,2022-06-01T01:57:21,1st Division,1809 Penn Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-3,-79.98479,40.45058
+343179,426,74,2018-03-16T15:12:26,2022-08-03T09:36:12,1st Division,North Shore Drive,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.0164711,40.44528148
+343180,427,74,2018-03-16T15:12:26,2022-09-03T13:27:24,1st Division,1907 Penn Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-3,-79.98431123,40.45096256
+343181,428,74,2018-03-16T15:12:26,2022-09-24T13:11:29,1st Division,2125 Penn Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-25,-79.98245427,40.45222995
+343182,429,74,2018-03-16T15:12:26,2022-10-21T01:41:22,5th Division,3272 Surban Street,Pittsburgh,Pennsylvania,15204,Sheraden,5,2,20,1-16,-80.05971,40.45847
+343183,430,74,2018-03-16T15:12:26,2022-12-31T02:15:24,1st Division,2031 Penn Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-3,-79.98343664,40.45156072
+343184,431,74,2018-03-16T15:12:26,2022-09-16T13:18:43,5th Division,229 Grandview Avenue,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-27,-80.00869413,40.43274317
+343185,432,74,2018-03-16T15:12:26,2022-08-28T13:25:29,1st Division,950 Ridge Avenue,Pittsburgh,Pennsylvania,15233,Allegheny West,1,1,22,1-8,-80.01826252,40.44973777
+343186,433,74,2018-03-16T15:12:26,2022-08-08T01:40:45,1st Division,792 West General Robinson Street,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01149,40.44716
+343187,434,74,2018-03-16T15:12:26,2022-08-02T01:51:07,1st Division,525 North Shore Drive,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01378356,40.44528935
+343188,435,74,2018-03-16T15:12:26,2022-12-07T13:29:14,2nd Division,714 Culloden Way,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.9335,40.45153
+343189,436,74,2018-03-16T15:12:26,2022-12-31T01:47:10,3rd Division,4181 Centre Ave,Pittsburgh,Pennsylvania,15213,Upper Hill,3,6,5,2-23,-79.95757376,40.449143
+343190,438,74,2018-03-16T15:12:26,2022-11-07T13:22:23,1st Division,2330 Penn Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-25,-79.98072,40.45328
+343191,439,74,2018-03-16T15:12:26,2022-12-31T01:36:25,3rd Division,3138 Dobson St,Pittsburgh,Pennsylvania,15219,Polish Hill,6,7,6,2-6,-79.96587993,40.45751943
+343192,440,74,2018-03-16T15:12:26,2022-11-23T13:26:09,3rd Division,1720 Centre Ave,Pittsburgh,Pennsylvania,15219,Crawford-Roberts,3,6,3,2-1,-79.98320737,40.44229447
+343193,441,74,2018-03-16T15:12:26,2022-09-22T01:40:30,3rd Division,2603 Shady Avenue,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92111787,40.42919398
+343194,443,74,2018-03-16T15:12:26,2022-08-29T13:16:21,1st Division,1711 Liberty Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-3,-79.98535458,40.44910517
+343195,445,74,2018-03-16T15:12:27,2022-09-10T13:02:21,3rd Division,4201 Murray Ave,Pittsburgh,Pennsylvania,15217,Greenfield,3,5,15,2-15,-79.92859764,40.42306495
+343196,446,74,2022-03-09T15:04:33,2022-09-14T02:20:54,1st Division,355 Allegheny Avenue,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01752427,40.4479691
+343197,447,74,2018-03-16T15:12:27,2022-08-02T13:19:20,1st Division, North Shore Drive,Pittsburgh,Pennsylvania,15212,Chateau,6,6,21,1-8,-80.0173,40.44622
+343198,448,74,2018-03-16T15:12:27,2022-08-12T01:50:23,1st Division,574 West General Robinson Street,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.00569036,40.44795309
+343199,449,74,2018-03-16T15:12:27,2022-10-14T15:37:43,1st Division,2220 Penn Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-25,-79.98155,40.45267
+343200,450,74,2018-03-16T15:12:27,2022-12-31T01:47:20,1st Division,1630 Penn Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-3,-79.98650845,40.44936915
+343201,451,74,2018-03-16T15:12:27,2022-06-29T13:00:34,3rd Division,1901 Centre Ave,Pittsburgh,Pennsylvania,15219,Crawford-Roberts,3,6,3,2-1,-79.98092742,40.44314095
+343202,452,74,2018-03-16T15:12:27,2022-12-30T01:31:22,3rd Division,470 30th Street,Pittsburgh,Pennsylvania,15219,Polish Hill,6,7,6,2-6,-79.9694567,40.45590484
+343203,453,74,2018-03-16T15:12:27,2022-11-23T13:04:59,1st Division,100 Federal St,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.00417841,40.44763594
+343204,454,74,2018-03-16T15:12:27,2022-06-29T09:35:25,1st Division,Chuck Noll Way,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01193,40.4468
+343205,455,74,2018-03-16T15:12:27,2022-09-14T02:13:28,1st Division,Chuck Noll Way,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01184083,40.44597416
+343206,456,74,2018-03-16T15:12:27,2022-12-30T16:35:37,3rd Division,3223 Brereton Street,Pittsburgh,Pennsylvania,15219,Polish Hill,6,7,6,2-6,-79.96524994,40.45682277
+343207,457,74,2018-03-16T15:12:27,2022-12-31T01:45:18,2nd Division,5120 Stanton Avenue,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-5,-79.95529608,40.47802333
+343208,458,74,2018-03-16T15:12:27,2022-11-10T13:13:23,1st Division,12 Federal St,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.00403454,40.44717858
+343209,459,74,2018-03-16T15:12:27,2022-11-26T13:21:09,1st Division,12 Federal St,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.00412642,40.44743856
+343210,460,74,2018-03-16T15:12:27,2022-11-06T01:47:19,1st Division,2121 Smallman Street,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-25,-79.98328,40.45274
+343211,461,74,2018-03-16T15:12:27,2022-08-12T08:35:24,1st Division,644 West General Robinson Street,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.00927503,40.4475269
+343212,462,74,2018-03-16T15:12:27,2022-11-26T13:31:20,5th Division,1435 Grandview Avenue,Pittsburgh,Pennsylvania,15211,Duquesne Heights,5,2,19,4-1,-80.02138627,40.43933907
+343213,463,74,2018-03-16T15:12:27,2022-10-24T13:11:38,3rd Division,1801 Centre Ave,Pittsburgh,Pennsylvania,15219,Crawford-Roberts,3,6,3,2-1,-79.98262963,40.44253749
+343214,464,74,2018-03-16T15:12:28,2022-08-03T01:56:47,1st Division,355 Allegheny Ave,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-8,-80.01743734,40.44701189
+343215,465,74,2018-03-16T15:12:28,2022-12-31T01:35:26,1st Division,1603 Penn Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-3,-79.98767055,40.44881093
+343216,466,74,2018-03-16T15:12:28,2022-11-06T12:21:14,1st Division,100 Mazeroski Way,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.0074026,40.44651676
+343217,467,74,2018-03-16T15:12:28,2022-11-06T16:35:23,3rd Division,3119 Brereton Street,Pittsburgh,Pennsylvania,15219,Polish Hill,6,7,6,2-6,-79.96651197,40.4567706
+343218,468,74,2018-03-16T15:12:28,2022-12-31T01:42:24,1st Division,Liberty Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-3,-79.98931755,40.44668426
+343219,469,74,2018-03-16T15:12:28,2022-10-10T13:11:21,3rd Division,3001 Brereton Street,Pittsburgh,Pennsylvania,15219,Polish Hill,6,7,6,2-6,-79.97039826,40.45658506
+343220,470,74,2018-03-16T15:12:28,2022-08-03T01:35:12,1st Division,355 Allegheny Ave,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-8,-80.01755647,40.44747589
+343221,471,74,2018-03-16T15:12:28,2022-12-31T01:34:21,5th Division,325 Grandview Avenue,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-27,-80.01043387,40.43377923
+343222,472,74,2018-03-16T15:12:28,2022-08-08T01:37:24,1st Division,355 Allegheny Ave,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-8,-80.0176,40.4477
+343223,473,74,2018-03-16T15:12:28,2022-11-23T12:41:26,1st Division,574 West General Robinson Street,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.00663658,40.44778043
+343224,474,74,2018-03-16T15:12:28,2022-10-10T13:04:22,1st Division,3103 Penn Avenue,Pittsburgh,Pennsylvania,15201,Strip District,6,7,6,3-2,-79.97123601,40.45999566
+343225,475,74,2018-03-16T15:12:28,2022-12-31T01:53:24,3rd Division,3237 Dobson Street,Pittsburgh,Pennsylvania,15219,Polish Hill,6,7,6,2-6,-79.96436,40.45834
+343226,476,74,2018-03-16T15:12:28,2022-12-31T01:34:16,3rd Division,1901 Centre Ave,Pittsburgh,Pennsylvania,15219,Crawford-Roberts,3,6,3,2-1,-79.98110388,40.44318212
+343227,477,74,2018-03-16T15:12:28,2022-08-07T15:35:35,1st Division,419 North Shore Drive,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01193809,40.44572147
+343228,478,74,2018-03-16T15:12:28,2022-08-05T13:22:25,3rd Division,265 Devilliers Street,Pittsburgh,Pennsylvania,15219,Bedford Dwellings,3,6,5,2-1,-79.98246,40.44653
+343229,479,74,2018-03-16T15:12:28,2022-11-04T13:29:19,3rd Division,3279 Bigelow Boulevard,Pittsburgh,Pennsylvania,15219,Polish Hill,6,7,6,2-6,-79.96613892,40.45577322
+343230,480,74,2018-03-16T15:12:28,2022-12-31T01:46:03,4th Division,2000 Brownsville Road,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.98669884,40.39509088
+343231,481,74,2018-03-16T15:12:28,2022-09-06T13:44:31,1st Division,247 North Shore Drive,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.00824775,40.44655927
+343232,482,74,2018-03-16T15:12:28,2022-08-08T13:43:21,1st Division,355 Allegheny Ave,Pittsburgh,Pennsylvania,15212,Chateau,6,6,21,1-8,-80.01794991,40.44823165
+343233,483,74,2018-03-16T15:12:28,2022-09-20T22:20:06,1st Division,353 North Shore Drive,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01075903,40.44608288
+343234,484,74,2018-03-16T15:12:29,2022-09-17T13:31:54,2nd Division,5023 Bayard Street,Pittsburgh,Pennsylvania,15213,Shadyside,2,8,7,3-22,-79.94202,40.45214
+343235,485,74,2018-03-16T15:12:29,2022-12-30T13:30:27,1st Division,2020 Smallman Street,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-3,-79.98382,40.45237
+343236,486,74,2018-03-16T15:12:29,2022-08-03T01:35:20,1st Division,North Shore Drive,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-8,-80.01730997,40.4466735
+343237,487,74,2018-03-16T15:12:29,2022-12-30T16:39:21,1st Division,1908 Smallman Street,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-3,-79.98509239,40.45128599
+343238,488,74,2018-03-16T15:12:29,2022-12-30T13:21:23,3rd Division,3001 Brereton Street,Pittsburgh,Pennsylvania,15219,Polish Hill,6,7,6,2-6,-79.97030329,40.45647373
+343239,489,74,2018-03-16T15:12:29,2022-08-09T01:31:22,1st Division,684 West General Robinson Street,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01049,40.44715
+343240,490,74,2018-03-16T15:12:29,2022-10-05T13:36:27,1st Division,2801 Penn Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,6,2-25,-79.97568,40.45699
+343241,491,74,2018-03-16T15:12:29,2022-09-19T01:51:26,1st Division,275 North Shore Drive,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.00974759,40.44616905
+343242,492,74,2018-03-16T15:12:29,2022-12-31T01:38:18,1st Division,2329 Penn Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-25,-79.98065529,40.45348698
+343243,493,74,2018-03-16T15:12:29,2022-11-25T13:21:05,1st Division,100 Mazeroski Way,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.00753387,40.44700328
+343244,494,74,2018-03-16T15:12:29,2022-12-31T06:35:22,3rd Division,128 North Craig Street,Pittsburgh,Pennsylvania,15213,North Oakland,3,8,4,2-9,-79.94920009,40.44715737
+343245,495,74,2018-03-16T15:12:29,2022-12-31T01:51:16,1st Division,3880 Perrysville Ave,Pittsburgh,Pennsylvania,15214,Perry North,1,1,26,1-15,-80.01774611,40.48902533
+343246,496,74,2018-03-16T15:12:29,2022-08-03T03:03:01,1st Division, North Shore Drive,Pittsburgh,Pennsylvania,15212,Chateau,6,6,21,1-8,-80.01727,40.44613
+343247,497,74,2022-03-09T15:04:34,2022-12-31T02:16:33,1st Division,2801 Liberty Avenue,Pittsburgh,Pennsylvania,15222,Polish Hill,6,7,6,3-2,-79.97466,40.45649
+343248,499,74,2018-03-16T15:12:29,2022-06-01T01:47:23,3rd Division,1012 Greenfield Ave,Pittsburgh,Pennsylvania,15217,Greenfield,3,5,15,2-12,-79.92987,40.42189
+343249,500,74,2018-03-16T15:12:29,2022-08-28T01:47:32,1st Division,100 Mazeroski Way,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.00725001,40.4466587
+343250,501,74,2018-03-16T15:12:29,2022-12-30T13:05:22,3rd Division,3616 Fifth Avenue,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95829689,40.44178299
+343251,503,74,2018-03-16T15:12:29,2022-08-09T06:36:21,1st Division,684 West General Robinson Street,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01050054,40.44730671
+343252,504,74,2018-03-16T15:12:29,2022-11-06T12:03:19,3rd Division,2431 Wylie Avenue,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-5,-79.9722,40.44792
+343253,505,74,2018-03-16T15:12:30,2022-12-31T01:47:22,1st Division,3300 Liberty Avenue,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,6,7,6,3-2,-79.9673,40.46138
+343254,506,74,2018-03-16T15:12:30,2022-08-29T13:48:21,1st Division,106 East General Robinson Street,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-20,-80.00286883,40.44858873
+343255,507,74,2018-03-16T15:12:30,2022-12-31T01:57:22,1st Division,2115 Penn Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-25,-79.98279299,40.45201027
+343256,508,74,2018-03-16T15:12:30,2022-08-23T13:40:08,1st Division,1725 Penn Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-3,-79.98529326,40.45013802
+343257,509,74,2018-03-16T15:12:30,2022-12-31T01:32:19,3rd Division,3060 Brereton Street,Pittsburgh,Pennsylvania,15219,Polish Hill,6,7,6,2-6,-79.96768547,40.45658972
+343258,510,74,2018-03-16T15:12:30,2022-12-02T12:35:26,1st Division,West General Robinson Street,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.00445,40.44817
+343259,511,74,2018-03-16T15:12:30,2022-12-30T13:09:25,1st Division,2904 Penn Avenue,Pittsburgh,Pennsylvania,15201,Strip District,6,7,6,3-2,-79.97414,40.45797
+343260,512,74,2018-03-16T15:12:30,2022-10-30T13:20:15,4th Division,1817 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.9875558,40.39664111
+343261,513,74,2018-03-16T15:12:30,2022-12-31T01:39:21,3rd Division,3602 Forbes Ave,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95820029,40.44060337
+343262,514,74,2018-03-16T15:12:30,2022-08-08T01:46:46,1st Division,355 Allegheny Ave,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-8,-80.01772573,40.44796184
+343263,515,74,2018-03-16T15:12:30,2022-08-08T13:28:54,1st Division,Tony Dorsett Drive,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01055756,40.44782805
+343264,516,74,2018-03-16T15:12:30,2022-12-31T01:32:24,3rd Division,935 Herron Avenue,Pittsburgh,Pennsylvania,15219,Polish Hill,6,7,6,2-6,-79.96584,40.45596
+343265,517,74,2018-03-16T15:12:30,2022-06-29T13:30:26,1st Division,100 Art Rooney Avenue,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01397,40.44672
+343266,518,74,2018-03-16T15:12:30,2022-11-26T13:25:25,1st Division,West General Robinson Street,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.00479,40.44809
+343267,519,74,2018-03-16T15:12:30,2022-12-30T13:45:23,3rd Division,3533 Forbes Ave,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95847102,40.44054393
+343268,520,74,2018-03-16T15:12:30,2022-12-31T01:43:29,1st Division,2120 Penn Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-25,-79.98259509,40.45195969
+343269,521,74,2018-03-16T15:12:30,2022-09-09T13:28:47,4th Division,1811 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.98777697,40.39702026
+343270,522,74,2018-03-16T15:12:30,2022-10-24T13:24:38,1st Division,1916 Smallman Street,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-3,-79.98504,40.45163
+343271,525,74,2018-03-16T15:12:30,2022-12-30T13:28:16,3rd Division,3530 Forbes Ave,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95837133,40.44049259
+343272,531,74,2018-03-16T15:12:31,2022-06-27T02:30:27,3rd Division,905 Watson Street,Pittsburgh,Pennsylvania,15219,Bluff,6,6,1,2-4,-79.99130536,40.43842484
+343273,532,74,2018-03-16T15:12:31,2022-12-30T13:35:26,3rd Division,3101 Brereton Street,Pittsburgh,Pennsylvania,15219,Polish Hill,6,7,6,2-6,-79.9672244,40.45675265
+343274,533,74,2018-03-16T15:12:31,2022-12-31T01:39:21,1st Division,2505 Penn Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-25,-79.9798379,40.45405792
+343275,534,74,2018-03-16T15:12:31,2022-12-30T13:28:32,1st Division,220 22nd Street,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-25,-79.9821239,40.45211724
+343276,535,74,2018-03-16T15:12:31,2022-10-05T13:16:55,1st Division,2205 Penn Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-25,-79.98204347,40.45252945
+343277,536,74,2018-03-16T15:12:31,2022-11-10T13:28:21,5th Division,201 Grandview Avenue,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-27,-80.00796597,40.43233759
+343278,537,74,2018-03-16T15:12:31,2022-11-10T12:30:28,1st Division,1728 Smallman Street,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-3,-79.98587019,40.4507812
+343279,538,74,2018-03-16T15:12:31,2022-12-29T13:24:22,1st Division,3000 Penn Avenue,Pittsburgh,Pennsylvania,15201,Strip District,6,7,6,3-2,-79.9727128,40.458982
+343280,540,74,2018-03-16T15:12:31,2022-12-31T01:48:18,1st Division,2315 Penn Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-25,-79.98116,40.45313
+343281,541,74,2018-03-16T15:12:31,2022-12-31T01:52:24,1st Division,2301 Smallman Street,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-25,-79.98191216,40.45384406
+343282,542,74,2018-03-16T15:12:31,2022-09-21T13:01:30,1st Division,3888 East Street,Pittsburgh,Pennsylvania,15214,Perry North,1,1,26,1-15,-80.01785,40.48924
+343283,543,74,2018-03-16T15:12:31,2022-12-31T01:51:31,3rd Division,415 South Craig Street,Pittsburgh,Pennsylvania,15213,North Oakland,3,8,4,2-9,-79.94861716,40.44462808
+343284,544,74,2018-03-16T15:12:32,2022-10-21T01:33:38,1st Division,1100 Allegheny Ave,Pittsburgh,Pennsylvania,15233,Allegheny West,1,1,22,1-8,-80.01932703,40.45304435
+343285,546,74,2018-03-16T15:12:32,2022-12-30T17:35:34,1st Division,2400 Smallman Street,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-25,-79.98115663,40.45424122
+343286,547,74,2018-03-16T15:12:32,2022-10-25T13:46:24,1st Division,2020 Smallman Street,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-3,-79.98405421,40.45234925
+343287,548,74,2018-03-16T15:12:32,2022-10-31T14:09:40,1st Division, Mazeroski Statue,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.00699,40.44593
+343288,549,74,2018-03-16T15:12:32,2022-08-14T15:35:28,1st Division,100 Federal St,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-20,-80.00395944,40.44771252
+343289,551,74,2018-03-16T15:12:32,2022-09-14T02:13:12,1st Division,Tony Dorsett Drive,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01035128,40.44814702
+343290,552,74,2018-03-16T15:12:32,2022-10-11T13:09:37,1st Division,2301 Smallman Street,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-25,-79.98224816,40.45361333
+343291,553,74,2018-03-16T15:12:32,2022-12-31T01:41:20,2nd Division,2603 Shady Avenue,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92119613,40.42922557
+343292,554,74,2018-03-16T15:12:32,2022-12-31T01:51:34,3rd Division,1226 Herron Avenue,Pittsburgh,Pennsylvania,15219,Polish Hill,6,7,6,2-6,-79.96597,40.45897
+343293,555,74,2018-03-16T15:12:32,2022-09-11T01:54:14,1st Division,Tony Dorsett Drive,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.00996182,40.44633774
+343294,556,74,2018-03-16T15:12:32,2022-12-31T01:52:16,5th Division,115 Grandview Avenue,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-27,-80.00725529,40.43198628
+343295,557,74,2018-03-16T15:12:32,2022-10-10T13:05:28,1st Division,2608 Penn Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-25,-79.97844297,40.45503184
+343296,558,74,2022-03-09T15:04:33,2022-12-31T02:07:23,1st Division,2050 Liberty Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-25,-79.98218,40.45122
+343297,559,74,2018-03-16T15:12:32,2022-11-08T13:04:20,3rd Division,547 Roberts Street,Pittsburgh,Pennsylvania,15219,Crawford-Roberts,3,6,3,2-1,-79.98406087,40.44347397
+343298,560,74,2018-03-16T15:12:32,2022-08-23T01:34:13,1st Division,419 North Shore Drive,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01258834,40.44573453
+343299,561,74,2018-03-16T15:12:32,2022-06-15T13:23:39,3rd Division,2621 Centre Ave,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-5,-79.96765285,40.44707863
+343300,562,74,2019-06-10T13:25:08,2022-12-31T01:54:21,2nd Division,1801 Jancey Street,Pittsburgh,Pennsylvania,15206,Morningside,2,7,10,3-7,-79.92650457,40.48601299
+343301,563,74,2018-03-16T15:12:32,2022-12-31T01:40:57,1st Division,1668 Perrysville Ave,Pittsburgh,Pennsylvania,15212,Central Northside,1,6,25,1-10,-80.00881609,40.46117992
+343302,564,74,2018-03-16T15:12:32,2022-08-09T01:43:23,1st Division,684 West General Robinson Street,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.0098751,40.44740872
+343303,565,74,2018-03-16T15:12:32,2022-12-31T01:55:00,1st Division,2026 Penn Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-3,-79.98323535,40.45153928
+343304,567,74,2018-03-16T15:12:33,2022-08-03T02:01:21,1st Division,355 Allegheny Ave,Pittsburgh,Pennsylvania,15212,Chateau,6,6,21,1-8,-80.01763399,40.44694271
+343305,569,74,2018-03-16T15:12:33,2022-06-29T13:32:35,1st Division,792 West General Robinson Street,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01148,40.44698
+343306,570,74,2018-03-16T15:12:33,2022-08-07T01:58:43,1st Division,525 North Shore Drive,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01340625,40.44543694
+343307,571,74,2018-03-16T15:12:33,2022-06-01T01:45:23,1st Division,1736 Penn Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-3,-79.98501,40.45032
+343308,572,74,2018-03-16T15:12:33,2022-12-30T14:47:24,1st Division, 20th Street,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-3,-79.98405,40.45114
+343309,573,74,2018-03-16T15:12:33,2022-11-26T13:03:32,1st Division,West General Robinson Street,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.00454426,40.44831617
+343310,574,74,2018-03-16T15:12:33,2022-08-03T13:28:01,1st Division,1711 Liberty Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,2,2-3,-79.98535222,40.44928109
+343311,575,74,2018-03-16T15:12:33,2022-10-29T13:10:26,1st Division,393 North Shore Drive,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01188743,40.44588858
+343312,576,74,2018-03-16T15:12:33,2022-06-29T01:32:21,1st Division,792 West General Robinson Street,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01226,40.44697
+343313,578,74,2018-03-16T15:12:33,2022-10-31T13:26:34,1st Division,353 North Shore Drive,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01051,40.44578
+343314,579,74,2018-03-16T15:12:33,2022-10-25T13:22:20,3rd Division,4215 Fifth Avenue,Pittsburgh,Pennsylvania,15213,North Oakland,3,8,4,2-7,-79.95471211,40.44459973
+343315,580,74,2018-03-16T15:12:33,2022-12-31T01:34:47,4th Division,1828 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.98751297,40.39628204
+343316,581,74,2018-03-16T15:12:33,2022-06-29T01:53:14,1st Division,790-792 West General Robinson Street,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.01305,40.44666
+343317,582,74,2018-03-16T15:12:33,2022-11-23T13:42:01,4th Division,1532 Brownsville Road,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.9891,40.39987
+343318,584,74,2018-04-06T10:23:36,2022-11-24T13:07:18,3rd Division,3501 Boulevard of the Allies,Pittsburgh,Pennsylvania,15213,South Oakland,3,3,4,2-11,-79.95630719,40.43503325
+343319,585,74,2018-04-06T10:23:36,2022-08-17T13:15:22,3rd Division,3218 Camp Street,Pittsburgh,Pennsylvania,15219,Upper Hill,3,6,5,2-22,-79.95880878,40.45192017
+343320,586,74,2018-04-06T10:23:36,2022-10-12T13:04:36,4th Division,2520 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,16,4-24,-79.96885041,40.42751422
+343321,587,74,2018-04-06T10:23:36,2022-12-31T01:38:25,5th Division,1 Bailey Avenue,Pittsburgh,Pennsylvania,15211,Mount Washington,5,3,18,4-5,-80.00527486,40.42709088
+343322,588,74,2018-04-06T10:23:36,2022-12-30T13:04:48,5th Division,3145 Banksville Road,Pittsburgh,Pennsylvania,15216,Banksville,5,2,20,4-9,-80.04412,40.39966
+343323,589,74,2018-04-06T10:23:36,2022-08-19T18:35:22,4th Division,2338 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,16,4-24,-79.97111203,40.42814024
+343324,590,74,2018-04-06T10:23:36,2022-06-22T13:07:44,3rd Division,2546 Centre Ave,Pittsburgh,Pennsylvania,15219,Terrace Village,3,6,5,2-5,-79.96906117,40.4459366
+343325,591,74,2018-04-06T10:23:36,2022-12-31T01:41:07,2nd Division,115 North Highland Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92486618,40.46161786
+343326,592,74,2018-04-06T10:23:36,2022-12-31T02:01:20,2nd Division,6566 Forbes Ave,Pittsburgh,Pennsylvania,15217,Point Breeze,3,9,14,2-21,-79.91279793,40.43811224
+343327,593,74,2018-04-06T10:23:36,2022-12-31T01:33:16,1st Division,2828 Perrysville Avenue,Pittsburgh,Pennsylvania,15214,Perry South,1,1,26,1-23,-80.01041,40.47443
+343328,594,74,2018-04-06T10:23:36,2022-12-31T01:44:23,3rd Division,4618 Baum Boulevard,Pittsburgh,Pennsylvania,15213,North Oakland,3,6,5,2-23,-79.95268286,40.45394424
+343329,595,74,2018-04-06T10:23:36,2022-12-31T02:02:59,2nd Division,110 North Beatty Street,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92679,40.46233
+343330,597,74,2018-04-06T10:23:36,2022-08-03T13:14:03,4th Division,2502 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,16,4-24,-79.96971978,40.42773508
+343331,598,74,2018-04-06T10:23:36,2022-12-31T01:56:36,3rd Division,5042 Second Avenue,Pittsburgh,Pennsylvania,15207,Hazelwood,3,5,15,2-13,-79.94339147,40.40717892
+343332,599,74,2018-04-06T10:23:36,2022-11-27T13:17:21,3rd Division,1817 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Crawford-Roberts,3,6,3,2-1,-79.98026,40.43843
+343333,600,74,2018-04-06T10:23:37,2022-10-11T17:35:38,3rd Division,4208 Centre Ave,Pittsburgh,Pennsylvania,15219,Terrace Village,3,6,5,2-22,-79.95890682,40.44828044
+343334,603,74,2018-04-06T10:23:37,2022-12-31T01:38:20,4th Division,1941 S 18th St,Pittsburgh,Pennsylvania,15203,South Side Slopes,3,3,17,4-3,-79.97758312,40.42366806
+343335,607,74,2018-04-06T10:23:37,2022-11-23T13:28:07,2nd Division,6012 Centre Ave,Pittsburgh,Pennsylvania,15206,Shadyside,2,8,7,3-11,-79.92444242,40.46006108
+343336,608,74,2018-04-06T10:23:37,2022-12-31T01:46:23,3rd Division,612 Watt Street,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-5,-79.97043262,40.44876222
+343337,610,74,2018-04-06T10:23:37,2022-10-11T13:03:35,2nd Division,6001 Penn Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92458781,40.46141994
+343338,611,74,2018-04-06T10:23:37,2022-09-20T13:26:25,3rd Division,1940 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92292862,40.43482352
+343339,613,74,2018-04-06T10:23:37,2022-12-31T01:51:45,2nd Division,5403 Friendship Avenue,Pittsburgh,Pennsylvania,15206,Bloomfield,2,9,8,3-23,-79.93749452,40.46194704
+343340,614,74,2018-04-06T10:23:37,2022-12-31T01:36:54,5th Division,122 Virginia Ave,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-27,-80.00808901,40.429802
+343341,616,74,2018-04-06T10:23:37,2022-12-31T01:44:15,3rd Division,3219 Terrace Street,Pittsburgh,Pennsylvania,15213,West Oakland,3,6,4,2-10,-79.96529,40.44035
+343342,617,74,2018-04-06T10:23:37,2022-06-01T01:43:22,3rd Division,3864 Second Avenue,Pittsburgh,Pennsylvania,15219,South Oakland,3,3,4,2-2,-79.95807,40.43022
+343343,618,74,2018-04-06T10:23:37,2022-10-24T13:04:21,3rd Division,5327 Second Avenue,Pittsburgh,Pennsylvania,15207,Hazelwood,3,5,15,2-13,-79.94222,40.40364
+343344,619,74,2018-04-06T10:23:37,2022-09-22T12:35:22,3rd Division,5739 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,8,14,2-18,-79.92348321,40.43814168
+343345,620,74,2018-04-06T10:23:37,2022-12-31T01:49:23,3rd Division,1000 Bryn Mawr Road,Pittsburgh,Pennsylvania,15219,Upper Hill,3,6,5,2-22,-79.95685954,40.45110741
+343346,622,74,2018-04-06T10:23:38,2022-12-31T01:55:21,4th Division,5840 Buttermilk Hollow Road,Pittsburgh,Pennsylvania,15207,Lincoln Place,3,5,31,4-20,-79.9081256,40.36464376
+343347,625,74,2018-04-06T10:23:38,2022-12-31T01:56:23,3rd Division,422 Semple Street,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-11,-79.95438,40.43655
+343348,627,74,2018-04-06T10:23:38,2022-12-30T19:20:34,2nd Division,5947 Penn Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,8,3-8,-79.92508734,40.46143881
+343349,628,74,2018-04-06T10:23:38,2022-10-30T13:27:36,2nd Division,4506 Penn Avenue,Pittsburgh,Pennsylvania,15224,Central Lawrenceville,2,7,9,3-6,-79.95217394,40.46626763
+343350,629,74,2018-04-06T10:23:38,2022-09-22T02:35:30,3rd Division,1688 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,5,14,2-18,-79.92291862,40.43839313
+343351,630,74,2018-04-06T10:23:38,2022-11-10T13:07:29,2nd Division,6018 Centre Ave,Pittsburgh,Pennsylvania,15206,Shadyside,2,8,7,3-11,-79.92416988,40.46015245
+343352,631,74,2018-04-06T10:23:38,2022-12-31T01:35:30,3rd Division,509 Stevenson Street,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-4,-79.98652124,40.43696491
+343353,632,74,2018-04-06T10:23:38,2022-06-01T01:47:26,3rd Division,4376 Murray Ave,Pittsburgh,Pennsylvania,15217,Greenfield,3,5,15,2-12,-79.92840594,40.41980628
+343354,633,74,2018-04-06T10:23:38,2022-12-31T01:59:18,3rd Division,4800 Second Avenue,Pittsburgh,Pennsylvania,15207,Hazelwood,3,5,15,2-13,-79.94474203,40.41121734
+343355,634,74,2018-04-06T10:23:38,2022-12-31T01:59:31,5th Division,11 Bailey Avenue,Pittsburgh,Pennsylvania,15211,Mount Washington,5,3,18,4-5,-80.00482518,40.42696208
+343356,635,74,2018-04-06T10:23:38,2022-06-29T13:20:27,3rd Division,4910 Second Avenue,Pittsburgh,Pennsylvania,15207,Hazelwood,3,5,15,2-13,-79.94388607,40.40960076
+343357,636,74,2018-04-06T10:23:38,2022-08-29T13:00:22,3rd Division,3235 Fifth Avenue,Pittsburgh,Pennsylvania,15213,West Oakland,3,6,4,2-10,-79.96525778,40.43779848
+343358,637,74,2018-04-06T10:23:38,2022-12-31T05:46:42,3rd Division,2030 Centre Avenue,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-1,-79.9793,40.44411
+343359,638,74,2018-04-06T10:23:38,2022-12-31T01:48:18,3rd Division,4901 Second Avenue,Pittsburgh,Pennsylvania,15207,Hazelwood,3,5,15,2-13,-79.94397218,40.4098716
+343360,642,74,2018-04-06T10:23:38,2022-12-31T01:45:24,3rd Division,5041 Second Avenue,Pittsburgh,Pennsylvania,15207,Hazelwood,3,5,15,2-13,-79.94317848,40.40703455
+343361,643,74,2018-04-06T10:23:38,2022-12-31T01:37:21,3rd Division,137 Johnston Avenue,Pittsburgh,Pennsylvania,15207,Hazelwood,3,5,15,2-13,-79.9412867,40.40659451
+343362,644,74,2018-04-06T10:23:39,2022-06-09T19:17:24,3rd Division,2105 Centre Ave,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-1,-79.97871133,40.44451366
+343363,646,74,2018-04-06T10:23:39,2022-11-10T14:35:25,3rd Division,2316 Webster Avenue,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-5,-79.9752224,40.44842179
+343364,647,74,2018-04-06T10:23:39,2022-10-25T15:37:17,3rd Division,1324 Forbes Ave,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-4,-79.98675982,40.43768359
+343365,648,74,2018-04-06T10:23:39,2022-12-28T02:03:59,2nd Division,5968 Baum Boulevard,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,8,3-11,-79.92517,40.46056
+343366,650,74,2018-04-06T10:23:39,2022-12-31T01:59:21,3rd Division, Melancthon Street,Pittsburgh,Pennsylvania,15207,Hazelwood,3,5,15,2-13,-79.94244,40.40391
+343367,651,74,2018-04-09T10:29:08,2022-08-04T13:17:23,3rd Division,2176 Centre Ave,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-1,-79.97634428,40.44524158
+343368,652,74,2018-04-09T10:29:08,2022-08-29T13:01:50,1st Division,3919 Perrysville Ave,Pittsburgh,Pennsylvania,15214,Perry North,1,1,26,1-15,-80.01878,40.49035
+343369,653,74,2018-04-09T10:29:08,2022-08-28T13:09:46,1st Division,4025 Perrysville Ave,Pittsburgh,Pennsylvania,15214,Perry North,1,1,26,1-15,-80.02038684,40.49140979
+343370,654,74,2018-04-09T10:29:08,2022-08-05T13:11:24,1st Division,4061 Perrysville Ave,Pittsburgh,Pennsylvania,15214,Perry North,1,1,26,1-15,-80.02171746,40.49255899
+343371,655,74,2018-04-09T10:29:08,2022-09-18T13:14:38,3rd Division,2200 Centre Ave,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-1,-79.97607744,40.44522341
+343372,656,74,2018-04-09T10:29:08,2022-09-04T13:09:16,4th Division,710 E Warrington Ave,Pittsburgh,Pennsylvania,15210,Allentown,5,3,18,4-21,-79.99519682,40.42173451
+343373,657,74,2018-04-09T10:29:08,2022-08-29T14:35:32,1st Division,1901 Brighton Rd,Pittsburgh,Pennsylvania,15212,California-Kirkbride,1,6,25,1-9,-80.01829589,40.46034448
+343374,658,74,2018-04-09T10:29:08,2022-09-22T01:41:24,3rd Division,5864 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-18,-79.92043589,40.43800658
+343375,659,74,2018-04-09T10:29:08,2022-06-14T01:58:34,3rd Division,2297 Centre Ave,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-5,-79.9741214,40.44513438
+343376,660,74,2018-04-09T10:29:08,2022-12-31T01:38:25,5th Division,3272 Surban Street,Pittsburgh,Pennsylvania,15204,Sheraden,5,2,20,1-16,-80.05983,40.45853
+343377,661,74,2018-04-09T10:29:08,2022-09-20T13:08:00,5th Division,1218 Grandview Avenue,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-1,-80.01880265,40.43814901
+343378,662,74,2018-04-09T10:29:08,2022-12-31T01:36:21,5th Division,501 Grandview Avenue,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-27,-80.01178487,40.43489489
+343379,663,74,2018-04-09T10:29:08,2022-12-31T01:54:21,5th Division,515 Grandview Avenue,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-27,-80.01197854,40.43506106
+343380,664,74,2018-04-09T10:29:08,2022-12-31T01:39:34,4th Division,12 East Meyers Street,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.9884607,40.40000092
+343381,665,74,2018-04-09T10:29:08,2022-11-06T12:41:01,2nd Division,7147 Hamilton Avenue,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.8981642,40.45483969
+343382,667,74,2018-04-18T14:06:25,2022-08-24T13:25:04,3rd Division,3219 Terrace Street,Pittsburgh,Pennsylvania,15213,West Oakland,3,6,4,2-10,-79.96497964,40.44047048
+343383,668,74,2018-04-09T10:29:08,2022-11-06T12:31:23,2nd Division,6210 Penn Avenue,Pittsburgh,Pennsylvania,15206,Shadyside,2,8,7,3-8,-79.92271782,40.46056132
+343384,670,74,2018-04-09T10:29:08,2022-11-24T13:19:32,3rd Division,1605 Centre Ave,Pittsburgh,Pennsylvania,15219,Crawford-Roberts,3,6,3,2-1,-79.98492909,40.44156331
+343385,672,74,2018-04-09T10:29:09,2022-09-09T13:22:39,1st Division,2330 North Charles Street,Pittsburgh,Pennsylvania,15214,Perry South,1,6,26,1-12,-80.020556,40.46508182
+343386,673,74,2018-04-09T10:29:09,2022-12-31T01:31:24,3rd Division,4942 Second Avenue,Pittsburgh,Pennsylvania,15207,Hazelwood,3,5,15,2-13,-79.94369999,40.4089013
+343387,674,74,2018-04-09T10:29:09,2022-09-18T13:19:28,3rd Division,4944 Second Avenue,Pittsburgh,Pennsylvania,15207,Hazelwood,3,5,15,2-13,-79.94380373,40.40868681
+343388,676,74,2018-04-09T10:29:09,2022-12-31T01:33:08,2nd Division,6112 Penn Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,8,3-8,-79.92314903,40.46073394
+343389,677,74,2018-04-09T10:29:09,2022-11-06T12:17:17,5th Division,1115 Grandview Avenue,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-1,-80.01801173,40.43761722
+343390,678,74,2018-04-09T10:29:09,2022-12-31T01:42:01,2nd Division,6007 Centre Ave,Pittsburgh,Pennsylvania,15206,Shadyside,2,8,7,3-11,-79.92491564,40.45990604
+343391,679,74,2018-04-09T10:29:09,2022-12-31T01:45:21,1st Division,2703 Penn Avenue,Pittsburgh,Pennsylvania,15222,Strip District,6,7,6,2-25,-79.97701832,40.45599178
+343392,680,74,2018-04-09T10:29:09,2022-11-10T13:26:30,3rd Division,4912 Glenwood Avenue,Pittsburgh,Pennsylvania,15207,Hazelwood,3,5,15,2-13,-79.94075313,40.41090494
+343393,681,74,2018-04-09T10:29:09,2022-06-02T01:52:21,3rd Division,3501 Forbes Ave,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95931797,40.43982392
+343394,682,74,2018-04-09T10:29:09,2022-12-30T13:20:09,3rd Division,221 Atwood St,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95680563,40.44059522
+343395,683,74,2018-04-09T10:29:09,2022-09-17T13:21:20,2nd Division,6325 Penn Avenue,Pittsburgh,Pennsylvania,15206,Shadyside,2,8,7,3-13,-79.92008958,40.45919966
+343396,684,74,2018-04-09T10:29:09,2022-01-22T01:33:32,4th Division,5209 Interboro Avenue,Pittsburgh,Pennsylvania,15207,Lincoln Place,3,5,31,4-20,-79.91304038,40.36993429
+343397,685,74,2018-04-09T10:29:09,2022-12-31T02:01:35,3rd Division,4940 Second Avenue,Pittsburgh,Pennsylvania,15207,Hazelwood,3,5,15,2-13,-79.94388331,40.40898439
+343398,686,74,2018-04-09T10:29:09,2022-12-31T01:34:21,3rd Division,1723 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-1,-79.98129787,40.43834004
+343399,687,74,2018-04-09T10:29:09,2022-12-31T01:53:20,3rd Division,3601 Fifth Avenue,Pittsburgh,Pennsylvania,15213,West Oakland,3,8,4,2-14,-79.9593646,40.44122713
+343400,688,74,2018-04-09T10:29:09,2022-10-11T13:14:11,2nd Division,6001 Penn Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92466355,40.46145906
+343401,689,74,2018-04-09T10:29:09,2022-12-31T01:53:21,3rd Division,1402 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Central Business District,6,6,3,2-4,-79.9863485,40.43867114
+343402,690,74,2018-04-09T10:29:09,2022-11-10T13:03:25,3rd Division,4515 Forbes Ave,Pittsburgh,Pennsylvania,15213,North Oakland,3,8,4,2-9,-79.95003399,40.44418561
+343403,691,74,2018-04-09T10:29:09,2022-12-31T01:45:36,3rd Division,402 Kirkpatrick Street,Pittsburgh,Pennsylvania,15213,Terrace Village,3,6,5,2-1,-79.97485359,40.44354374
+343404,692,74,2018-04-09T10:29:09,2022-12-31T01:32:11,3rd Division,400 Semple Street,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-11,-79.95506568,40.43712986
+343405,693,74,2018-04-09T10:29:09,2022-09-17T13:26:21,3rd Division,Zulema Street,Pittsburgh,Pennsylvania,15213,South Oakland,3,3,4,2-14,-79.95846969,40.43598884
+343406,694,74,2018-04-09T10:29:10,2022-12-31T01:57:23,3rd Division,3301 Milwaukee Street,Pittsburgh,Pennsylvania,15219,Upper Hill,3,6,5,2-5,-79.96426284,40.45240258
+343407,695,74,2018-04-09T10:29:10,2022-09-21T13:22:21,3rd Division,1700 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-18,-79.92304914,40.43787358
+343408,696,74,2018-04-09T10:29:10,2022-08-29T13:30:24,3rd Division,2507 Centre Ave,Pittsburgh,Pennsylvania,15219,Terrace Village,3,6,5,2-5,-79.97070408,40.4453868
+343409,697,74,2018-04-09T10:29:10,2022-12-31T01:39:33,4th Division,802 Brookline Boulevard,Pittsburgh,Pennsylvania,15226,Brookline,5,4,19,4-26,-80.0198049,40.39370972
+343410,698,74,2018-04-09T10:29:10,2022-12-30T13:30:36,3rd Division,2329 Beechwood Boulevard,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.91472773,40.43325793
+343411,699,74,2018-04-09T10:29:10,2022-10-11T13:02:54,3rd Division,1522 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-4,-79.98423284,40.4384626
+343412,700,74,2018-04-09T10:29:10,2022-12-31T01:58:19,3rd Division,7602 Forbes Ave,Pittsburgh,Pennsylvania,15221,Regent Square,3,5,14,3-14,-79.89784022,40.43956473
+343413,701,74,2018-04-09T10:29:10,2022-12-31T01:56:04,3rd Division,4630 Centre Ave,Pittsburgh,Pennsylvania,15213,North Oakland,3,6,5,2-23,-79.95096517,40.45231259
+343414,702,74,2018-04-09T10:29:10,2021-12-11T00:25:25,3rd Division,3714 Forbes Ave,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95708547,40.441422
+343415,703,74,2018-04-09T10:29:10,2022-12-27T01:43:34,4th Division,2343 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.98459822,40.3881281
+343416,704,74,2018-04-09T10:29:10,2022-10-25T13:18:35,3rd Division,1846 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-1,-79.97955247,40.43826186
+343417,705,74,2018-04-09T10:29:10,2022-12-31T01:59:30,3rd Division,1712 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-1,-79.98223312,40.43835844
+343418,706,74,2018-04-09T10:29:10,2022-12-29T13:11:21,3rd Division,420 South Craig Street,Pittsburgh,Pennsylvania,15213,North Oakland,3,8,4,2-9,-79.94875355,40.44453322
+343419,707,74,2018-04-09T10:29:10,2022-10-12T13:18:58,2nd Division,512 North Braddock Avenue,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.89213201,40.45138869
+343420,708,74,2018-04-09T10:29:10,2022-11-07T12:10:27,3rd Division,745 South Braddock Avenue,Pittsburgh,Pennsylvania,15221,Regent Square,3,5,14,2-16,-79.89654546,40.43695017
+343421,709,74,2018-04-09T10:29:10,2022-12-31T01:44:22,3rd Division,5003 Second Avenue,Pittsburgh,Pennsylvania,15207,Hazelwood,3,5,15,2-13,-79.94354518,40.40847176
+343422,710,74,2018-04-09T10:29:10,2022-11-21T02:00:42,4th Division,1224 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98538993,40.42874525
+343423,711,74,2018-04-09T10:29:10,2022-12-30T13:13:57,3rd Division,3300 Webster Avenue,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-5,-79.96496977,40.45277184
+343424,712,74,2018-04-09T10:29:10,2022-06-20T15:50:51,3rd Division,4353 Murray Ave,Pittsburgh,Pennsylvania,15217,Greenfield,3,5,15,2-15,-79.92836579,40.42040561
+343425,713,74,2018-04-09T10:29:11,2022-11-10T12:22:14,3rd Division,3348 Beechwood Boulevard,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,15,2-12,-79.92632219,40.41906475
+343426,714,74,2018-04-09T10:29:11,2022-12-30T13:00:21,3rd Division,3805 Forbes Ave,Pittsburgh,Pennsylvania,15213,Central Oakland,3,8,4,2-14,-79.95658402,40.44192108
+343427,715,74,2018-04-09T10:29:11,2022-11-04T13:14:20,3rd Division,712 Adelaide Street,Pittsburgh,Pennsylvania,15219,Upper Hill,3,6,5,2-22,-79.96067079,40.45467415
+343428,716,74,2018-04-09T10:29:11,2022-09-21T13:26:21,3rd Division,3503 Beechwood Boulevard,Pittsburgh,Pennsylvania,15217,Greenfield,3,5,15,2-15,-79.92769013,40.42295371
+343429,717,74,2018-04-09T10:29:11,2022-10-29T13:21:29,3rd Division,2201 Wylie Avenue,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-1,-79.97675989,40.44603022
+343430,719,74,2018-04-09T10:29:11,2022-12-30T13:11:10,3rd Division,2503 Centre Ave,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-5,-79.97039464,40.44562874
+343431,720,74,2018-04-09T10:29:11,2022-09-22T12:35:23,3rd Division,1688 Murray Avenue,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,8,14,2-18,-79.9233,40.43835
+343432,721,74,2018-04-09T10:29:11,2022-12-31T01:39:28,2nd Division,6009 Penn Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92423585,40.46132374
+343433,722,74,2018-04-09T10:29:11,2022-12-31T01:49:22,3rd Division,2606 Centre Ave,Pittsburgh,Pennsylvania,15219,Terrace Village,3,6,5,2-5,-79.9682595,40.44643636
+343434,723,74,2018-04-09T10:29:11,2022-12-31T01:53:32,4th Division,1290 Mifflin Rd,Pittsburgh,Pennsylvania,15207,Lincoln Place,3,5,31,4-20,-79.91322,40.36995
+343435,724,74,2018-04-09T10:29:11,2022-12-31T01:42:22,3rd Division,301 South Craig Street,Pittsburgh,Pennsylvania,15213,North Oakland,3,8,4,2-9,-79.94876274,40.44577316
+343436,727,74,2018-04-09T10:29:11,2022-12-31T01:48:21,3rd Division,4584 Browns Hill Road,Pittsburgh,Pennsylvania,15217,Hazelwood,3,5,15,2-12,-79.9252235,40.41567102
+343437,728,74,2018-04-09T10:29:11,2022-12-31T01:43:40,3rd Division,5600 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,8,14,2-18,-79.92756956,40.43812078
+343438,729,74,2018-04-09T10:29:11,2022-06-25T13:00:23,3rd Division,1630 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-4,-79.98301352,40.43840137
+343439,730,74,2018-04-09T10:29:11,2022-06-25T13:06:42,3rd Division,2400 Centre Ave,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-5,-79.97185071,40.44560667
+343440,731,74,2018-04-09T10:29:11,2022-09-17T13:07:01,3rd Division,1833 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Crawford-Roberts,3,6,3,2-1,-79.97939,40.43838
+343441,732,74,2018-04-09T10:29:11,2022-12-30T13:30:38,3rd Division,2152 Wylie Avenue,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-1,-79.97775,40.44563
+343442,733,74,2018-04-09T10:29:12,2022-10-10T13:16:36,3rd Division,901 Bryn Mawr Road,Pittsburgh,Pennsylvania,15219,Upper Hill,3,6,5,2-22,-79.95886002,40.45207951
+343443,734,74,2018-04-09T10:29:12,2022-12-31T02:35:26,3rd Division,2105 Wightman Street,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92745682,40.43250497
+343444,736,74,2018-04-09T10:29:12,2022-06-22T13:13:11,3rd Division,205 Saline Street,Pittsburgh,Pennsylvania,15207,Greenfield,3,5,15,2-12,-79.94956404,40.42685031
+343445,737,74,2018-04-09T10:29:12,2022-12-31T02:16:35,3rd Division,2209 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92322469,40.43255846
+343446,738,74,2018-04-09T10:29:12,2022-06-13T01:50:22,1st Division,611 Second Avenue,Pittsburgh,Pennsylvania,15219,Central Business District,6,6,1,1-4,-79.99566209,40.43603822
+343447,739,74,2018-04-09T10:29:12,2022-08-12T13:24:33,1st Division,1425 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Central Business District,6,6,3,2-4,-79.98524308,40.43863502
+343448,741,74,2018-04-09T10:29:12,2022-12-31T01:48:19,3rd Division,1624 Centre Ave,Pittsburgh,Pennsylvania,15219,Crawford-Roberts,3,6,3,2-1,-79.98406897,40.44179335
+343449,742,74,2018-04-09T10:29:12,2022-08-29T13:18:09,2nd Division,7101 Hamilton Avenue,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.89950159,40.45514065
+343450,744,74,2018-04-09T10:29:12,2022-12-31T01:55:00,3rd Division,2203 Wylie Avenue,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-1,-79.97659,40.44597
+343451,745,74,2018-04-09T10:29:12,2022-08-29T11:54:50,3rd Division,1209 Forbes Ave,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-4,-79.98848,40.43792
+343452,746,74,2018-04-09T10:29:12,2022-12-31T01:39:21,3rd Division,1500 Centre Ave,Pittsburgh,Pennsylvania,15219,Crawford-Roberts,3,6,3,2-1,-79.98590355,40.44115435
+343453,747,74,2018-04-09T16:19:35,2022-12-31T01:58:22,3rd Division,601 Blessing Street,Pittsburgh,Pennsylvania,15213,Upper Hill,3,6,5,2-24,-79.95711591,40.45825835
+343454,749,74,2018-04-09T16:19:35,2022-11-05T13:26:30,2nd Division, East Busway,Pittsburgh,Pennsylvania,15206,Larimer,2,9,12,3-13,-79.91451,40.4586
+343455,750,74,2018-04-09T16:19:35,2022-12-03T07:51:08,3rd Division,Second Avenue,Pittsburgh,Pennsylvania,15219,South Oakland,3,3,4,2-2,-79.95906557,40.43090455
+343456,751,74,2018-04-09T16:19:35,2022-11-04T13:30:59,2nd Division,514 Oakwood Street,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.88427021,40.44943953
+343457,752,74,2018-04-09T16:19:35,2022-06-01T01:56:21,3rd Division,3802 Acorn Street,Pittsburgh,Pennsylvania,15207,Greenfield,3,5,15,2-12,-79.94998134,40.42674028
+343458,753,74,2018-04-09T16:19:35,2022-12-31T02:01:22,2nd Division,6369 East Liberty Boulevard,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,12,3-10,-79.91605,40.46105
+343459,754,74,2018-04-09T16:19:35,2022-12-30T20:14:22,4th Division,12 East Meyers Street,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.98888928,40.3999348
+343460,755,74,2018-04-09T16:19:35,2022-12-31T01:48:21,2nd Division,410 North Highland Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92332674,40.46454856
+343461,756,74,2018-04-09T16:19:35,2022-06-01T02:01:48,3rd Division,734 Mercer Street,Pittsburgh,Pennsylvania,15219,Crawford-Roberts,3,6,3,2-1,-79.98669,40.44374
+343462,757,74,2018-04-09T16:19:35,2022-12-30T13:08:35,2nd Division,420 North Braddock Avenue,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.8926453,40.45064986
+343463,758,74,2018-04-09T16:19:35,2022-12-30T13:18:25,1st Division,2901 North Charles Street,Pittsburgh,Pennsylvania,15214,Perry South,1,6,26,1-23,-80.01116049,40.47058571
+343464,759,74,2018-04-09T16:19:36,2022-12-31T02:00:30,3rd Division,404 South Craig Street,Pittsburgh,Pennsylvania,15213,North Oakland,3,8,4,2-9,-79.94882971,40.44510682
+343465,760,74,2018-04-09T16:19:36,2022-12-31T01:59:20,3rd Division,4800 Second Avenue,Pittsburgh,Pennsylvania,15207,Hazelwood,3,5,15,2-13,-79.94468804,40.41139066
+343466,761,74,2018-04-09T16:19:36,2022-12-31T01:35:19,4th Division,2950 South Water Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,16,4-24,-79.96216,40.42706
+343467,762,74,2018-04-12T12:34:06,2022-11-06T12:25:22,4th Division,848 E Warrington Ave,Pittsburgh,Pennsylvania,15210,Allentown,5,3,18,4-6,-79.99193196,40.42173741
+343468,763,74,2018-04-13T13:16:54,2022-09-22T02:30:22,3rd Division,1824 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92297671,40.43612526
+343469,764,74,2018-04-13T13:16:54,2022-11-18T00:56:20,3rd Division,5819 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,5,14,2-18,-79.92158334,40.4381223
+343470,765,74,2018-04-13T13:16:54,2022-12-31T01:58:07,1st Division,2800 North Charles Street,Pittsburgh,Pennsylvania,15214,Perry South,1,6,26,1-12,-80.01387536,40.47005549
+343471,766,74,2018-04-13T13:16:54,2022-12-31T01:48:35,2nd Division,6425 Penn Avenue,Pittsburgh,Pennsylvania,15206,Larimer,2,9,12,3-13,-79.91720776,40.45742507
+343472,768,74,2018-04-13T13:16:54,2022-09-25T13:16:20,4th Division,1401 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.98947549,40.40218794
+343473,769,74,2018-04-13T13:16:54,2022-12-31T01:44:34,2nd Division,6736 Reynolds Street,Pittsburgh,Pennsylvania,15206,Point Breeze,3,8,14,2-17,-79.91453318,40.45047425
+343474,771,74,2018-04-13T13:16:55,2022-09-15T13:08:51,4th Division,2714 Brownsville Rd,Pittsburgh,Pennsylvania,15227,Carrick,3,4,29,4-23,-79.97761858,40.38395816
+343475,773,74,2018-04-13T13:16:55,2022-10-25T13:09:23,3rd Division,4635 Centre Ave,Pittsburgh,Pennsylvania,15213,North Oakland,3,6,5,2-23,-79.95074489,40.45235375
+343476,774,74,2018-04-13T13:16:55,2022-09-21T13:26:20,3rd Division,1704 Shady Avenue,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,5,14,2-18,-79.91944651,40.43818324
+343477,777,74,2018-04-13T13:16:55,2022-04-07T01:50:22,3rd Division,Sennott Street,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95635592,40.44093293
+343478,778,74,2018-04-13T13:16:55,2022-12-31T01:46:09,3rd Division,1704 Shady Avenue,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.9193869,40.43771519
+343479,779,74,2018-04-13T13:16:55,2022-09-22T01:48:21,3rd Division,1648 Shady Avenue,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,5,14,2-18,-79.91946002,40.43849266
+343480,780,74,2018-04-13T13:16:55,2022-12-31T05:30:24,3rd Division,2101 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92286972,40.43367509
+343481,781,74,2018-04-13T13:16:55,2022-12-31T02:16:23,3rd Division,2104 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92301521,40.43380375
+343482,782,74,2018-04-13T13:16:55,2022-09-22T14:35:22,3rd Division,1936 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.922925,40.43514768
+343483,783,74,2018-04-13T13:16:55,2022-12-06T02:00:36,3rd Division,5865 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,5,14,2-18,-79.9205,40.43816
+343484,784,74,2018-04-13T13:16:55,2022-11-04T13:27:55,3rd Division,2211 Mahon Street,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-1,-79.97617961,40.4453937
+343485,785,74,2018-04-13T13:16:55,2022-12-30T01:33:49,4th Division,2256 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.98551694,40.38930638
+343486,786,74,2018-04-13T13:16:55,2022-11-18T01:14:36,3rd Division,5854 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-18,-79.92088122,40.43799618
+343487,787,74,2018-04-13T13:16:55,2022-11-06T12:24:34,4th Division,2201 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.98649432,40.39123046
+343488,788,74,2018-04-13T13:16:55,2022-09-22T01:36:25,3rd Division,2120 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92312383,40.43314342
+343489,789,74,2018-04-13T13:16:56,2022-09-22T01:46:21,3rd Division,5849 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,5,14,2-18,-79.92101889,40.43811413
+343490,790,74,2018-04-13T13:16:56,2022-10-12T13:15:38,4th Division,1020 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98760405,40.4286735
+343491,791,74,2018-04-13T13:16:56,2022-12-31T01:42:27,4th Division,2336 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.98483919,40.38817516
+343492,793,74,2018-04-13T13:16:56,2022-12-31T01:44:19,3rd Division,2339 Beechwood Boulevard,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.91513166,40.43276735
+343493,794,74,2018-04-13T13:16:56,2021-12-22T22:04:42,3rd Division,3845 Dawson Street,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-11,-79.95158597,40.4391617
+343494,795,74,2018-04-13T13:16:56,2022-01-26T01:45:41,2nd Division,6349-6387 Penn Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,12,3-13,-79.91844468,40.45830355
+343495,796,74,2018-04-13T13:16:56,2022-12-30T13:15:53,2nd Division,409 Gettysburg Street,Pittsburgh,Pennsylvania,15206,Point Breeze,3,8,14,2-17,-79.91470773,40.45049572
+343496,797,74,2018-04-13T13:16:56,2022-12-29T15:52:50,3rd Division,5887 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,5,14,2-18,-79.91979615,40.43811682
+343497,798,74,2018-04-13T13:16:56,2022-09-22T10:35:20,3rd Division,1916 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92293663,40.43539541
+343498,799,74,2018-04-13T13:16:56,2022-12-31T01:30:24,3rd Division,2112 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92310387,40.43329499
+343499,800,74,2018-04-13T13:16:56,2022-12-31T01:44:23,3rd Division,2125 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92298322,40.43297938
+343500,801,74,2018-04-13T13:16:56,2022-09-22T01:47:19,3rd Division,2017 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92282097,40.43415851
+343501,802,74,2018-04-13T13:16:56,2022-12-31T01:57:19,4th Division,830 E Warrington Ave,Pittsburgh,Pennsylvania,15210,Allentown,5,3,18,4-6,-79.9925,40.42177
+343502,803,74,2018-04-13T13:16:56,2022-11-24T13:20:09,3rd Division,1937 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92276101,40.43486599
+343503,804,74,2018-04-13T13:16:56,2022-10-04T13:28:54,5th Division,3272 Surban Street,Pittsburgh,Pennsylvania,15204,Sheraden,5,2,20,1-16,-80.05972,40.45847
+343504,805,74,2018-04-13T13:16:56,2022-12-30T13:07:34,1st Division,3912 Perrysville Ave,Pittsburgh,Pennsylvania,15214,Perry North,1,1,26,1-15,-80.01839,40.49007
+343505,806,74,2018-04-13T13:16:56,2022-09-20T13:00:25,3rd Division,5834 Forward Avenue,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92253689,40.42944161
+343506,807,74,2018-04-13T13:16:56,2022-12-31T01:55:20,5th Division,2901 Banksville Road,Pittsburgh,Pennsylvania,15216,Banksville,5,2,20,4-9,-80.04086,40.40325
+343507,808,74,2018-04-13T13:16:56,2022-11-26T12:35:24,1st Division,20 East General Robinson Street,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-20,-80.00408531,40.44825337
+343508,809,74,2018-04-13T13:16:57,2022-09-15T13:31:26,4th Division,503 Mountain Avenue,Pittsburgh,Pennsylvania,15210,St. Clair,3,3,16,4-8,-79.97719812,40.41143473
+343509,810,74,2018-04-13T13:16:57,2022-12-31T02:03:41,4th Division,804 E Warrington Ave,Pittsburgh,Pennsylvania,15210,Allentown,5,3,18,4-6,-79.99339134,40.42176611
+343510,811,74,2018-04-13T13:16:57,2022-12-31T01:43:32,4th Division,2216 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.98635148,40.39070062
+343511,813,74,2018-04-13T13:16:57,2022-12-29T13:31:40,4th Division,755 E Warrington Ave,Pittsburgh,Pennsylvania,15210,Allentown,5,3,18,4-6,-79.99385824,40.42176611
+343512,815,74,2018-04-13T13:16:57,2022-12-31T01:36:16,1st Division,4102 Perrysville Ave,Pittsburgh,Pennsylvania,15214,Perry North,1,1,26,1-15,-80.02196188,40.49286548
+343513,816,74,2018-04-16T13:37:07,2022-10-12T13:03:33,4th Division,1728 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.9810591,40.42872284
+343514,817,74,2018-04-16T13:37:08,2022-10-12T01:36:19,4th Division,2010 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.97704192,40.4285028
+343515,818,74,2018-04-16T13:37:08,2022-01-13T21:19:21,4th Division,2114 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,16,4-24,-79.97552599,40.4284026
+343516,819,74,2018-04-16T13:37:08,2022-11-05T13:25:44,4th Division,2134 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,16,4-24,-79.97475947,40.42834621
+343517,820,74,2018-04-16T13:37:08,2022-09-21T13:11:23,3rd Division,6428 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-18,-79.91632223,40.43798526
+343518,821,74,2018-04-16T13:37:08,2022-12-30T13:04:25,1st Division,1926 Rockledge Street,Pittsburgh,Pennsylvania,15212,Spring Hill-City View,1,1,26,1-11,-79.98982794,40.46671599
+343519,822,74,2018-04-16T13:37:08,2022-09-21T13:28:21,3rd Division,2609 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92356131,40.42987515
+343520,823,74,2018-04-16T13:37:08,2022-12-30T13:21:52,4th Division,1832 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.97935,40.42837
+343521,824,74,2018-04-16T13:37:08,2022-08-18T13:15:00,3rd Division,1835 Centre Ave,Pittsburgh,Pennsylvania,15219,Crawford-Roberts,3,6,3,2-1,-79.98181,40.44289
+343522,825,74,2018-04-16T13:37:08,2022-12-31T01:30:20,3rd Division,1850 Centre Ave,Pittsburgh,Pennsylvania,15219,Crawford-Roberts,3,6,3,2-1,-79.98198764,40.44268739
+343523,826,74,2018-04-16T13:37:08,2022-12-30T15:38:35,3rd Division,423 Grove Street,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-1,-79.9796,40.44403
+343524,827,74,2018-04-16T13:37:08,2022-12-31T01:30:50,3rd Division,2101 Centre Ave,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-1,-79.97885112,40.44443947
+343525,828,74,2018-04-16T13:37:08,2022-12-30T11:46:24,3rd Division,1901 Centre Ave,Pittsburgh,Pennsylvania,15219,Crawford-Roberts,3,6,3,2-1,-79.98114258,40.44303382
+343526,829,74,2018-04-16T13:37:08,2022-12-31T01:57:35,3rd Division,4613 Centre Ave,Pittsburgh,Pennsylvania,15213,North Oakland,3,6,5,2-23,-79.95165824,40.45207225
+343527,830,74,2018-04-16T13:37:08,2022-10-15T13:02:29,1st Division,1601 Brighton Rd,Pittsburgh,Pennsylvania,15212,California-Kirkbride,1,6,25,1-21,-80.01607293,40.45803306
+343528,831,74,2018-04-16T13:37:08,2022-12-30T01:37:19,3rd Division,4632 Centre Ave,Pittsburgh,Pennsylvania,15213,North Oakland,3,8,4,2-23,-79.95074339,40.45221789
+343529,832,74,2018-04-16T13:37:08,2022-12-31T01:48:21,3rd Division,2337 Centre Ave,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-5,-79.97276068,40.44561285
+343530,833,74,2018-04-16T13:37:08,2022-09-03T13:29:39,3rd Division,4653 Centre Ave,Pittsburgh,Pennsylvania,15213,North Oakland,3,8,4,2-23,-79.9497479,40.45247203
+343531,835,74,2018-04-16T13:37:08,2022-09-21T13:08:28,4th Division,1400 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98403591,40.42876504
+343532,836,74,2018-04-16T13:37:08,2022-11-17T01:14:30,3rd Division,5836 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-18,-79.9214833,40.43801257
+343533,837,74,2018-04-16T13:37:09,2022-08-20T13:29:30,3rd Division,2909 Centre Ave,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-5,-79.96503339,40.44886444
+343534,838,74,2018-04-16T13:37:09,2022-10-25T13:07:14,3rd Division,1901 Centre Ave,Pittsburgh,Pennsylvania,15219,Crawford-Roberts,3,6,3,2-1,-79.98079242,40.44335221
+343535,839,74,2018-04-16T13:37:09,2022-09-22T01:34:20,3rd Division,5819 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-18,-79.9221667,40.4380278
+343536,840,74,2018-04-16T13:37:09,2022-11-17T01:02:13,3rd Division,5839 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,5,14,2-18,-79.92142754,40.43813476
+343537,841,74,2018-04-16T13:37:09,2022-12-31T03:35:30,4th Division,1705 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98191917,40.42893028
+343538,843,74,2018-04-16T13:37:09,2022-08-02T13:02:53,3rd Division,2177 Centre Ave,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-1,-79.97642638,40.44537281
+343539,844,74,2018-04-16T13:37:09,2022-12-31T06:35:21,4th Division,1739 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98061,40.42884
+343540,845,74,2018-04-16T13:37:09,2022-10-12T04:30:38,4th Division,1122 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98657765,40.42868431
+343541,846,74,2018-04-16T13:37:09,2022-09-17T13:21:20,4th Division,1315 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98477134,40.42881827
+343542,847,74,2018-04-16T13:37:09,2022-11-18T02:01:40,4th Division,146 Parkfield Street,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-23,-79.98948513,40.39119817
+343543,848,74,2018-04-16T13:37:09,2022-12-31T01:45:22,5th Division,996 Saw Mill Run Boulevard,Pittsburgh,Pennsylvania,15220,Duquesne Heights,5,2,19,4-1,-80.02058,40.42593
+343544,849,74,2018-04-16T13:37:09,2022-09-22T15:35:24,3rd Division,1839 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92280289,40.43627086
+343545,851,74,2018-04-17T13:22:43,2022-09-22T02:35:24,3rd Division,5802 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-18,-79.922795,40.43799587
+343546,852,74,2018-04-17T13:22:43,2022-12-30T13:24:48,3rd Division,14 Elmore Street,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-1,-79.97733,40.44461
+343547,853,74,2018-04-17T13:22:43,2022-12-31T02:00:29,3rd Division,5017 Second Avenue,Pittsburgh,Pennsylvania,15207,Hazelwood,3,5,15,2-13,-79.94343415,40.40796005
+343548,854,74,2018-04-17T13:22:43,2022-11-17T01:11:35,3rd Division,1800 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92298555,40.43678055
+343549,855,74,2018-04-17T13:22:43,2022-09-21T13:17:22,3rd Division,2209 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.923,40.43262
+343550,856,74,2018-04-17T13:22:43,2022-09-22T01:53:20,3rd Division,5739 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-18,-79.92358725,40.43801348
+343551,857,74,2018-04-17T13:22:43,2022-09-22T01:47:27,3rd Division,5800 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,5,14,2-18,-79.92285754,40.43811273
+343552,858,74,2018-04-17T13:22:43,2022-11-06T12:12:42,3rd Division,2001 Centre Ave,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-1,-79.98030329,40.44375571
+343553,859,74,2018-04-17T13:22:43,2022-06-29T01:34:34,3rd Division,5800 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-18,-79.92318314,40.43801102
+343554,860,74,2018-04-17T13:22:43,2022-10-29T13:21:43,3rd Division,2137 Centre Ave,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-1,-79.97761235,40.44495995
+343555,861,74,2018-04-17T13:22:43,2022-09-22T01:34:28,3rd Division,1707 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-18,-79.92290067,40.43777601
+343556,862,74,2018-04-17T13:22:43,2022-12-31T02:01:29,3rd Division,5006 Second Avenue,Pittsburgh,Pennsylvania,15207,Hazelwood,3,5,15,2-13,-79.9437231,40.40830949
+343557,863,74,2018-04-17T13:22:43,2022-09-22T01:54:21,3rd Division,2338 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92339,40.43002
+343558,864,74,2018-04-17T13:22:43,2022-09-22T02:01:20,3rd Division,1720 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92303573,40.43741382
+343559,865,74,2018-04-17T13:22:43,2022-10-11T13:48:05,5th Division,1 Poplar Street,Pittsburgh,Pennsylvania,15205,Westwood,5,2,28,1-18,-80.05326505,40.42785214
+343560,868,74,2018-04-17T13:22:44,2022-09-21T16:35:22,3rd Division,5822 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-18,-79.92197226,40.438003
+343561,870,74,2018-04-17T13:22:44,2022-09-12T13:10:47,3rd Division,5804 Forward Avenue,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92333228,40.42964697
+343562,871,74,2018-04-17T13:22:44,2022-12-30T13:23:28,3rd Division,200 Flowers Avenue,Pittsburgh,Pennsylvania,15207,Hazelwood,3,5,15,2-13,-79.94242,40.4103
+343563,872,74,2018-04-17T13:22:44,2022-09-22T01:43:21,3rd Division,1730 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92300948,40.43706966
+343564,873,74,2018-04-17T13:22:44,2022-09-22T14:35:22,3rd Division,5808 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-18,-79.92249217,40.4379991
+343565,874,74,2018-04-17T13:22:44,2022-12-30T13:30:35,5th Division,2418 Durbin Street,Pittsburgh,Pennsylvania,15205,Oakwood,5,2,28,1-19,-80.06716669,40.42591357
+343566,875,74,2018-04-17T13:22:44,2022-09-24T13:24:26,4th Division,1700 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.98188628,40.42877209
+343567,876,74,2018-04-17T13:22:44,2022-12-31T01:47:22,3rd Division,2219 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.92313,40.43219
+343568,877,74,2018-04-17T13:22:44,2022-10-09T02:04:18,4th Division,1832 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.97929555,40.42861821
+343569,879,74,2018-04-17T13:22:44,2022-06-01T01:44:38,5th Division,1704 Noblestown Road,Pittsburgh,Pennsylvania,15205,Westwood,5,2,28,1-18,-80.0510889,40.43744084
+343570,880,74,2018-04-17T13:22:44,2022-12-31T01:55:16,1st Division,2648 North Charles Street,Pittsburgh,Pennsylvania,15214,Perry South,1,6,26,1-12,-80.01456,40.46912
+343571,881,74,2018-04-17T13:22:44,2022-09-03T13:23:21,4th Division,1933 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.97771345,40.42853655
+343572,882,74,2018-04-17T15:33:33,2022-09-24T13:03:47,5th Division,2100 Noblestown Road,Pittsburgh,Pennsylvania,15205,Westwood,5,2,28,1-18,-80.05322,40.43112
+343573,883,74,2018-04-17T15:33:33,2022-11-10T13:51:37,5th Division,1603 Grandview Avenue,Pittsburgh,Pennsylvania,15211,Duquesne Heights,5,2,19,4-1,-80.02323778,40.44047766
+343574,884,74,2018-04-17T15:33:33,2022-09-20T13:09:40,3rd Division,2163 Centre Ave,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-1,-79.97687,40.44527
+343575,885,74,2018-04-17T15:33:33,2022-09-17T13:05:27,3rd Division,2145 Centre Ave,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-1,-79.97742951,40.44503378
+343576,886,74,2018-04-17T15:33:33,2022-12-31T01:59:31,2nd Division,238 Shady Avenue,Pittsburgh,Pennsylvania,15206,Shadyside,2,8,7,3-11,-79.92227439,40.45836177
+343577,887,74,2018-04-17T15:33:33,2022-08-29T13:10:02,3rd Division,2000 Centre Ave,Pittsburgh,Pennsylvania,15219,Crawford-Roberts,3,6,5,2-1,-79.9802605,40.44363425
+343578,888,74,2018-04-17T15:33:33,2022-09-22T10:35:24,3rd Division,1688 Murray Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,8,14,2-18,-79.92309629,40.43828822
+343579,889,74,2018-04-17T15:33:33,2022-09-14T15:36:39,3rd Division,2121 Centre Ave,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-1,-79.97822193,40.44457195
+343580,890,74,2018-04-17T15:33:33,2022-09-22T01:49:18,3rd Division,5802 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,5,14,2-18,-79.92268189,40.43811932
+343581,891,74,2018-04-17T15:33:34,2022-09-22T01:34:20,3rd Division,5813 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,5,14,2-18,-79.92235896,40.43813834
+343582,893,74,2018-04-17T15:33:34,2022-12-28T01:44:53,3rd Division,430 Greenfield Ave,Pittsburgh,Pennsylvania,15207,Greenfield,3,5,15,2-12,-79.94264202,40.42554039
+343583,894,74,2018-04-18T10:46:41,2022-11-07T12:30:49,2nd Division,7201 Frankstown Avenue,Pittsburgh,Pennsylvania,15208,Homewood North,2,9,13,3-17,-79.89606,40.4575
+343584,895,74,2018-04-18T10:46:41,2022-09-03T13:30:22,1st Division,20 East General Robinson Street,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-20,-80.00363771,40.44843972
+343585,896,74,2018-04-18T10:46:41,2022-12-30T13:18:23,3rd Division,117 South Bouquet Street,Pittsburgh,Pennsylvania,15213,Central Oakland,3,8,4,2-14,-79.95728331,40.44236731
+343586,897,74,2018-04-18T10:46:41,2022-09-22T01:36:31,3rd Division,5876 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-18,-79.92010757,40.4379815
+343587,898,74,2018-04-18T10:46:41,2022-09-21T13:16:21,3rd Division,5819 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,5,14,2-18,-79.92204462,40.43814505
+343588,899,74,2018-04-18T10:46:41,2022-12-03T01:42:30,3rd Division,5885 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,5,14,2-18,-79.92002,40.43812
+343589,900,74,2018-04-18T10:46:41,2022-11-07T13:27:21,5th Division,2827 Chartiers Ave,Pittsburgh,Pennsylvania,15204,Sheraden,5,2,20,1-16,-80.05478,40.45351
+343590,901,74,2018-04-18T10:46:41,2022-11-05T13:08:51,5th Division,1900 Woodville Avenue,Pittsburgh,Pennsylvania,15220,West End,5,2,20,1-17,-80.03151,40.43373
+343591,902,74,2018-04-18T10:46:41,2022-09-22T01:49:48,3rd Division,5880 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-18,-79.91983815,40.43801189
+343592,903,74,2018-04-18T10:46:41,2022-12-31T01:58:17,3rd Division,3700 Forbes Ave,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95749326,40.4411137
+343593,905,74,2018-04-18T10:46:41,2022-09-22T02:30:26,3rd Division,5888 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-18,-79.91960735,40.43797732
+343594,906,74,2018-04-18T10:46:41,2022-11-05T13:33:22,3rd Division,3718 Fifth Avenue,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95785463,40.44210065
+343595,907,74,2018-04-18T10:46:41,2022-09-22T13:40:21,3rd Division,5819 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,5,14,2-18,-79.92217561,40.43813837
+343596,908,74,2018-04-18T10:46:41,2022-09-22T01:36:19,3rd Division,5846 Forbes Ave,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-18,-79.92117603,40.43798527
+343597,911,74,2018-04-18T10:46:41,2022-12-30T13:10:37,5th Division,2138 Noblestown Road,Pittsburgh,Pennsylvania,15205,Westwood,5,2,28,1-18,-80.0527,40.43176
+343598,913,74,2018-04-18T10:46:41,2022-08-26T01:35:20,5th Division,431 South Main Street,Pittsburgh,Pennsylvania,15220,West End,5,2,20,1-17,-80.03413196,40.44111261
+343599,914,74,2018-04-18T10:46:42,2022-08-26T01:38:24,5th Division,312 South Main Street,Pittsburgh,Pennsylvania,15220,West End,5,2,20,1-17,-80.03218167,40.44195407
+343600,915,74,2018-07-27T13:18:52,2022-08-09T13:30:25,2nd Division,7114 Kelly Street,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.89905816,40.45594412
+343601,917,74,2018-07-27T13:18:52,2022-12-30T13:16:19,2nd Division,7535 Penn Avenue,Pittsburgh,Pennsylvania,15221,Point Breeze North,2,9,14,3-14,-79.89487634,40.44714084
+343602,918,74,2018-07-27T13:18:52,2022-12-31T01:37:25,4th Division,702 Brookline Blvd,Pittsburgh,Pennsylvania,15226,Brookline,5,4,19,4-26,-80.02155799,40.39477631
+343603,919,74,2018-07-27T13:18:52,2022-12-31T01:37:33,2nd Division,603 Lincoln Avenue,Pittsburgh,Pennsylvania,15206,Larimer,2,9,12,3-12,-79.90779708,40.46170932
+343604,920,74,2018-07-27T13:18:53,2022-12-31T01:40:52,2nd Division,5218 Friendship Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-23,-79.93905213,40.46195336
+343605,921,74,2018-07-27T13:18:53,2022-12-31T03:02:17,2nd Division,804 North Negley Avenue,Pittsburgh,Pennsylvania,15206,Highland Park,2,7,11,3-9,-79.92607,40.47164
+343606,923,74,2018-07-27T13:18:53,2022-11-10T13:11:28,2nd Division,5482 Penn Avenue,Pittsburgh,Pennsylvania,15206,Friendship,2,9,8,3-23,-79.93256209,40.46403983
+343607,924,74,2018-07-27T13:18:53,2022-11-06T12:24:44,2nd Division,7734 Kelly Street,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.88728346,40.45326375
+343608,925,74,2018-07-27T13:18:53,2022-12-07T12:10:21,2nd Division,6640 Frankstown Avenue,Pittsburgh,Pennsylvania,15206,Larimer,2,9,12,3-10,-79.90946601,40.45892163
+343609,926,74,2018-07-27T13:18:53,2022-12-31T01:48:18,2nd Division,6490 Frankstown Avenue,Pittsburgh,Pennsylvania,15206,Larimer,2,9,12,3-10,-79.91399303,40.46043831
+343610,927,74,2018-07-27T13:18:53,2022-12-31T01:50:20,2nd Division,519 North Highland Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92255,40.46663
+343611,928,74,2018-07-27T13:18:53,2022-12-31T01:56:34,4th Division,1133 Merrick Avenue,Pittsburgh,Pennsylvania,15226,Brookline,5,4,19,4-26,-80.01325535,40.39207305
+343612,929,74,2018-07-27T13:18:53,2022-08-09T01:43:23,2nd Division,7053 Frankstown Avenue,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.89868044,40.45785464
+343613,930,74,2018-07-27T13:18:53,2022-12-30T01:54:20,2nd Division,149 South Negley Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,8,3-23,-79.93152548,40.4619967
+343614,931,74,2018-07-27T13:18:53,2022-12-31T02:01:35,2nd Division,601 North Negley Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92753076,40.46890426
+343615,932,74,2018-07-27T13:18:53,2022-12-31T01:59:58,4th Division,926 Brookline Blvd,Pittsburgh,Pennsylvania,15226,Brookline,5,4,19,4-26,-80.01842876,40.39246874
+343616,934,74,2018-07-27T13:18:53,2022-12-31T01:57:33,2nd Division,310 Paulson Avenue,Pittsburgh,Pennsylvania,15206,Larimer,2,9,12,3-12,-79.91296416,40.46282575
+343617,935,74,2018-07-27T13:18:53,2022-12-30T02:01:15,2nd Division,1153 Lincoln Avenue,Pittsburgh,Pennsylvania,15206,Lincoln-Lemington-Belmar,2,9,12,3-15,-79.89898221,40.46478028
+343618,936,74,2018-07-27T13:18:53,2022-10-06T01:40:29,2nd Division,710 North Homewood Avenue,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.89681857,40.45592772
+343619,937,74,2018-07-27T13:18:54,2022-10-13T01:33:29,2nd Division,7117 Bennett Street,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.89830436,40.45678668
+343620,938,74,2018-07-27T13:18:54,2022-12-30T13:29:44,2nd Division,6471 Frankstown Avenue,Pittsburgh,Pennsylvania,15206,Larimer,2,9,12,3-10,-79.91498291,40.46090922
+343621,939,74,2018-07-27T13:18:54,2022-10-23T13:24:13,2nd Division,6967 Frankstown Avenue,Pittsburgh,Pennsylvania,15208,Homewood West,2,9,12,3-17,-79.90138117,40.45849907
+343622,940,74,2018-07-27T13:18:54,2022-12-31T01:40:03,2nd Division,6286 East Liberty Boulevard,Pittsburgh,Pennsylvania,15206,Larimer,2,9,12,3-10,-79.91722562,40.46346259
+343623,941,74,2018-07-27T13:18:54,2022-12-30T05:35:25,2nd Division,4010 Penn Avenue,Pittsburgh,Pennsylvania,15224,Central Lawrenceville,2,7,9,3-6,-79.95773511,40.46527537
+343624,942,74,2018-07-27T13:18:54,2022-09-17T13:35:49,2nd Division,5611 Elmer Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93301621,40.4530568
+343625,943,74,2018-07-27T13:18:54,2022-12-31T01:30:52,2nd Division,6369 East Liberty Boulevard,Pittsburgh,Pennsylvania,15206,Larimer,2,9,12,3-10,-79.91557,40.46054
+343626,944,74,2018-07-27T13:18:54,2022-12-23T01:30:21,2nd Division,130 South Whitfield Street,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,8,3-11,-79.92628224,40.46107072
+343627,945,74,2018-07-27T13:18:54,2022-12-30T17:36:13,2nd Division,125 South Beatty Street,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,8,3-11,-79.92723755,40.46163201
+343628,946,74,2018-07-27T13:18:54,2022-12-23T01:58:17,2nd Division,5404 Centre Ave,Pittsburgh,Pennsylvania,15232,Bloomfield,2,7,8,3-22,-79.93813268,40.45612928
+343629,947,74,2018-07-27T13:18:54,2022-12-30T13:27:51,2nd Division,501 Larimer Avenue,Pittsburgh,Pennsylvania,15206,Larimer,2,9,12,3-12,-79.9143897,40.46539533
+343630,948,74,2018-07-27T13:18:54,2022-10-05T13:22:13,2nd Division,5538 Stanton Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,7,11,3-9,-79.92654554,40.4715552
+343631,949,74,2018-07-27T13:18:54,2022-12-31T01:59:44,2nd Division,5305 Baum Boulevard,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-23,-79.93932338,40.45662959
+343632,950,74,2018-07-27T13:18:54,2022-11-06T12:22:22,2nd Division,8200 Bennett Street,Pittsburgh,Pennsylvania,15221,East Hills,2,9,13,3-17,-79.88084859,40.45458821
+343633,951,74,2018-07-27T13:18:54,2022-11-06T14:35:21,2nd Division,3722 Penn Avenue,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-6,-79.96158474,40.46453034
+343634,952,74,2018-07-27T13:18:54,2022-12-30T13:27:30,2nd Division,119 North Sheridan Ave,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92321626,40.46163017
+343635,953,74,2018-07-27T13:18:54,2022-12-31T01:58:35,2nd Division,6648 Fifth Avenue,Pittsburgh,Pennsylvania,15206,Shadyside,2,8,7,2-17,-79.91303822,40.45403986
+343636,954,74,2018-07-27T13:18:54,2022-11-26T13:25:21,2nd Division,4951 Centre Ave,Pittsburgh,Pennsylvania,15213,Bloomfield,2,7,8,2-23,-79.94458541,40.45416934
+343637,955,74,2018-07-27T13:18:54,2022-12-31T01:55:36,2nd Division,4052 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,9,3-6,-79.95541714,40.4630473
+343638,957,74,2018-07-27T13:18:54,2022-03-01T03:35:55,4th Division,1025 Brookline Blvd,Pittsburgh,Pennsylvania,15226,Brookline,5,4,19,4-26,-80.01694723,40.39181156
+343639,958,74,2018-07-27T13:18:54,2022-10-10T02:30:32,2nd Division,Ansley Street,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92628327,40.46322012
+343640,959,74,2018-07-27T13:18:55,2022-10-25T13:23:22,2nd Division,3623 Liberty Avenue,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-6,-79.96383827,40.46194844
+343641,960,74,2018-07-27T13:18:55,2022-12-31T01:50:26,2nd Division,800 South Negley Avenue,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-11,-79.93102286,40.45195329
+343642,961,74,2018-07-27T13:18:55,2022-12-31T01:38:55,2nd Division,6600 Fifth Avenue,Pittsburgh,Pennsylvania,15206,Shadyside,2,8,7,2-17,-79.91519236,40.45372827
+343643,962,74,2018-07-27T13:18:55,2022-10-24T13:29:25,4th Division,915 Brookline Blvd,Pittsburgh,Pennsylvania,15226,Brookline,5,4,19,4-26,-80.01849942,40.39279428
+343644,963,74,2018-07-27T13:18:55,2022-10-21T13:21:31,2nd Division,120 South Whitfield Street,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,8,3-8,-79.92587274,40.46162429
+343645,964,74,2018-07-27T13:18:55,2022-08-09T01:40:23,2nd Division,7121 Bennett Street,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.89806631,40.45673236
+343646,965,74,2018-07-27T13:18:55,2022-12-30T13:31:43,2nd Division,6508 Frankstown Avenue,Pittsburgh,Pennsylvania,15206,Larimer,2,9,12,3-10,-79.91323466,40.46032319
+343647,966,74,2018-07-27T13:18:55,2022-11-07T01:35:20,2nd Division,130 South Whitfield Street,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,8,3-11,-79.92617564,40.46088198
+343648,967,74,2018-07-27T13:18:55,2022-11-07T12:21:27,2nd Division,229 Stratford Avenue,Pittsburgh,Pennsylvania,15206,Friendship,2,7,8,3-23,-79.93320367,40.46105262
+343649,968,74,2018-07-27T13:18:55,2022-09-20T13:32:28,2nd Division,7246 Kelly Street,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.89529914,40.45508056
+343650,969,74,2018-07-27T13:18:55,2022-12-30T13:21:40,2nd Division,5879 Centre Ave,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,8,3-11,-79.92878678,40.45893155
+343651,970,74,2018-07-27T13:18:55,2022-11-05T13:13:36,2nd Division,5318 Friendship Avenue,Pittsburgh,Pennsylvania,15232,Bloomfield,2,7,8,3-23,-79.9377309,40.46185775
+343652,972,74,2018-07-27T13:18:55,2022-12-31T01:50:19,2nd Division,5100 Friendship Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.94311008,40.46238371
+343653,973,74,2018-07-27T13:18:55,2022-12-07T13:28:40,2nd Division,420 Roup Avenue,Pittsburgh,Pennsylvania,15206,Friendship,2,7,8,3-23,-79.93465,40.45818
+343654,975,74,2018-07-27T13:18:56,2022-11-24T13:20:21,2nd Division,7103 Penn Avenue,Pittsburgh,Pennsylvania,15208,Point Breeze North,2,9,14,3-14,-79.9034661,40.44997259
+343655,976,74,2018-07-27T13:18:56,2022-12-31T01:47:18,4th Division,742 Brookline Blvd,Pittsburgh,Pennsylvania,15226,Brookline,5,4,19,4-26,-80.02042102,40.39391689
+343656,977,74,2018-07-27T13:18:56,2022-12-31T01:47:22,2nd Division,301 Larimer Avenue,Pittsburgh,Pennsylvania,15206,Larimer,2,9,12,3-10,-79.91599,40.46415
+343657,978,74,2018-07-27T13:18:56,2022-12-31T01:50:15,3rd Division,1854 Forbes Ave,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-1,-79.97968081,40.43736016
+343658,979,74,2018-07-27T13:18:56,2022-08-08T13:10:33,2nd Division,7237 Kelly Street,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.89560467,40.4551562
+343659,980,74,2018-07-27T13:18:56,2022-10-06T17:55:25,2nd Division,7120 Kelly Street,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.89800452,40.45582479
+343660,981,74,2018-07-27T13:18:56,2022-12-30T13:18:58,2nd Division,4901 Friendship Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.94546871,40.46273137
+343661,982,74,2018-07-27T13:18:56,2022-09-30T12:35:34,3rd Division,1730 Forbes Ave,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-1,-79.981573,40.4374555
+343662,983,74,2018-07-27T13:18:56,2022-12-31T01:45:20,3rd Division,1714 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-1,-79.98201249,40.4383587
+343663,985,74,2018-07-27T13:18:56,2022-08-28T13:25:23,3rd Division,1425 Forbes Ave,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-4,-79.98536419,40.43762173
+343664,986,74,2018-07-27T13:18:56,2022-09-24T13:23:27,2nd Division,421 North Highland Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92278,40.46568
+343665,987,74,2018-07-27T13:18:56,2022-06-15T16:08:02,2nd Division,7721 Kelly Street,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.89611986,40.45538957
+343666,988,74,2018-07-27T13:18:56,2022-09-09T13:18:34,2nd Division,534 North Braddock Avenue,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.89166,40.45205884
+343667,989,74,2018-07-27T13:18:56,2022-12-31T01:49:18,2nd Division,3950 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Lower Lawrenceville,2,7,6,3-6,-79.95737868,40.46273833
+343668,990,74,2018-07-27T13:18:56,2022-12-31T01:46:46,2nd Division,1502 Lincoln Avenue,Pittsburgh,Pennsylvania,15206,Lincoln-Lemington-Belmar,2,9,12,3-18,-79.89599213,40.46888977
+343669,991,74,2018-07-27T13:18:56,2022-10-25T13:19:21,2nd Division,1101 Lincoln Avenue,Pittsburgh,Pennsylvania,15206,Lincoln-Lemington-Belmar,2,9,12,3-15,-79.9005,40.46436
+343670,992,74,2018-07-27T13:18:56,2022-12-31T01:47:21,2nd Division,4420 Penn Avenue,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-6,-79.95261,40.46617
+343671,993,74,2018-07-27T13:18:56,2022-08-20T13:31:12,2nd Division,819 Brushton Avenue,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.88822347,40.45539959
+343672,994,74,2018-07-27T13:18:56,2022-12-03T01:36:38,2nd Division,5140 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-23,-79.94225405,40.45793178
+343673,995,74,2018-07-27T13:18:57,2022-11-10T13:22:46,2nd Division,410 North Highland Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92345725,40.46463287
+343674,996,74,2018-07-27T13:18:57,2022-09-20T13:27:21,2nd Division,3657 Penn Avenue,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-6,-79.96276551,40.46432459
+343675,997,74,2018-07-27T13:18:57,2022-11-04T13:12:47,2nd Division,3649 Liberty Avenue,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-6,-79.961843,40.46215302
+343676,998,74,2018-07-27T13:18:57,2022-12-31T01:44:22,2nd Division,804 North Negley Avenue,Pittsburgh,Pennsylvania,15206,Highland Park,2,7,11,3-9,-79.92629935,40.47166567
+343677,999,74,2018-07-27T13:18:57,2022-08-24T13:06:22,2nd Division,7317 Frankstown Avenue,Pittsburgh,Pennsylvania,15208,Homewood North,2,9,13,3-17,-79.89336099,40.45679801
+343678,1000,74,2018-07-27T13:18:57,2022-09-02T13:18:11,2nd Division,8000 Frankstown Avenue,Pittsburgh,Pennsylvania,15221,East Hills,2,9,13,3-17,-79.88462191,40.45531946
+343679,1002,74,2018-07-27T13:18:57,2022-12-30T13:22:19,2nd Division,5701 Baum Boulevard,Pittsburgh,Pennsylvania,15232,East Liberty,2,7,8,3-23,-79.93315235,40.45864751
+343680,1003,74,2018-07-27T13:18:57,2022-12-31T01:51:33,2nd Division,5905 Station Street,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92505024,40.46421564
+343681,1004,74,2018-07-27T13:18:57,2022-09-25T16:35:26,2nd Division,247 South Pacific Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-23,-79.94031,40.46225
+343682,1005,74,2018-07-27T13:18:57,2022-12-30T14:34:10,2nd Division,South Beatty Street,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,8,3-11,-79.92764132,40.45939909
+343683,1006,74,2018-07-27T13:18:57,2022-12-31T01:50:21,2nd Division,5450 Friendship Avenue,Pittsburgh,Pennsylvania,15206,Friendship,2,7,8,3-23,-79.93452893,40.46149358
+343684,1007,74,2018-07-27T13:18:57,2022-12-31T01:58:25,2nd Division,6640 Frankstown Avenue,Pittsburgh,Pennsylvania,15206,Larimer,2,9,12,3-10,-79.9095,40.45908
+343685,1008,74,2018-07-27T13:18:57,2022-12-31T01:55:28,2nd Division,1200 North Saint Clair Street,Pittsburgh,Pennsylvania,15206,Highland Park,2,7,11,3-9,-79.9207237,40.47629872
+343686,1010,74,2018-07-27T13:18:57,2022-11-06T12:17:21,2nd Division,4782 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.94739922,40.46074698
+343687,1011,74,2018-07-27T13:18:57,2022-12-30T13:17:36,2nd Division,5450 Friendship Avenue,Pittsburgh,Pennsylvania,15206,Friendship,2,9,8,3-23,-79.93619238,40.46180235
+343688,1012,74,2018-07-27T13:18:57,2022-11-07T13:02:26,2nd Division,625 Brushton Avenue,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.88885127,40.45377563
+343689,1013,74,2018-07-27T13:18:57,2022-11-07T13:08:23,2nd Division,3349 Liberty Avenue,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-2,-79.96679728,40.46170162
+343690,1014,74,2018-07-27T13:18:57,2022-12-31T02:01:27,2nd Division,825 Freeport Road,Pittsburgh,Pennsylvania,15238,Lincoln-Lemington-Belmar,2,9,12,3-24,-79.89555076,40.48722496
+343691,1015,74,2018-07-27T13:18:57,2022-12-31T01:37:24,2nd Division,5105 Fifth Avenue,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,2-26,-79.93872454,40.44777893
+343692,1016,74,2018-07-27T13:18:58,2022-11-07T13:13:21,2nd Division,211 Roup Avenue,Pittsburgh,Pennsylvania,15206,Friendship,2,9,8,3-23,-79.93494,40.46223
+343693,1017,74,2018-07-27T13:18:58,2022-11-05T13:28:45,2nd Division,4951 Centre Ave,Pittsburgh,Pennsylvania,15213,Shadyside,2,8,7,2-23,-79.94451587,40.45407442
+343694,1018,74,2018-07-27T13:18:58,2022-11-07T13:12:20,2nd Division,231 Roup Avenue,Pittsburgh,Pennsylvania,15206,Friendship,2,9,8,3-23,-79.93511655,40.46173864
+343695,1019,74,2018-07-27T13:18:58,2022-11-04T13:28:05,1st Division,416 Pressley Street,Pittsburgh,Pennsylvania,15212,East Allegheny,1,1,23,1-20,-80.00087,40.45155
+343696,1020,74,2018-07-27T13:18:58,2022-12-07T01:38:30,2nd Division,238 South Negley Avenue,Pittsburgh,Pennsylvania,15206,Friendship,2,7,8,3-23,-79.93243163,40.4607866
+343697,1021,74,2018-07-27T13:18:58,2022-12-30T01:37:19,2nd Division,1306 Lincoln Avenue,Pittsburgh,Pennsylvania,15206,Lincoln-Lemington-Belmar,2,9,12,3-15,-79.89778816,40.46643755
+343698,1022,74,2018-07-27T13:18:58,2022-12-31T02:02:27,2nd Division,6140 Station Street,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92267458,40.46346538
+343699,1023,74,2018-07-27T13:18:58,2022-12-31T01:56:21,2nd Division,622 North Homewood Avenue,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.89695185,40.45544213
+343700,1024,74,2018-07-27T13:18:58,2022-11-10T13:10:29,2nd Division,4800 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.94694791,40.46063371
+343701,1025,74,2018-07-27T13:18:58,2022-12-31T01:38:19,2nd Division,1403 Lincoln Avenue,Pittsburgh,Pennsylvania,15206,Lincoln-Lemington-Belmar,2,9,12,3-15,-79.89697214,40.46798976
+343702,1026,74,2018-07-27T13:18:58,2022-12-31T01:57:02,2nd Division,4115 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,9,3-6,-79.95340029,40.46345061
+343703,1027,74,2018-07-27T13:18:58,2022-12-31T01:31:47,2nd Division,370 South Negley Avenue,Pittsburgh,Pennsylvania,15232,Friendship,2,7,8,3-23,-79.93351085,40.45902242
+343704,1028,74,2018-07-27T13:18:58,2022-11-10T14:35:19,2nd Division,4739 Maripoe Street,Pittsburgh,Pennsylvania,15213,Bloomfield,2,7,8,2-23,-79.94783414,40.45510387
+343705,1029,74,2018-07-27T13:18:58,2022-12-29T12:51:55,2nd Division,421 North Highland Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92308935,40.46542489
+343706,1030,74,2018-07-27T13:18:58,2022-12-30T13:04:02,2nd Division,123 North Sheridan Ave,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92305987,40.46189749
+343707,1031,74,2018-07-27T13:18:58,2022-12-31T02:02:28,2nd Division,6812 Fifth Avenue,Pittsburgh,Pennsylvania,15206,Larimer,2,9,12,3-14,-79.91091381,40.4554962
+343708,1032,74,2018-07-27T13:18:59,2022-12-31T01:46:32,2nd Division,5551 Centre Ave,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93455395,40.45704371
+343709,1033,74,2018-07-27T13:18:59,2022-11-04T13:23:35,2nd Division,5862 Baum Boulevard,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,8,3-23,-79.92917813,40.45982374
+343710,1034,74,2018-07-27T13:18:59,2022-12-30T01:33:58,2nd Division,5707 Penn Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92861889,40.46287107
+343711,1035,74,2018-07-27T13:18:59,2022-12-31T01:31:51,3rd Division,409 Kirkpatrick Street,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-1,-79.9758958,40.44494948
+343712,1036,74,2018-07-27T13:18:59,2022-12-31T01:42:37,3rd Division,2229 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Bluff,3,6,4,2-1,-79.97297603,40.43772179
+343713,1037,74,2018-07-27T13:18:59,2022-12-03T10:50:34,3rd Division,3444 Forbes Ave,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95959229,40.43961598
+343714,1039,74,2018-07-27T13:18:59,2022-12-31T01:34:17,3rd Division,3347 Forbes Ave,Pittsburgh,Pennsylvania,15213,South Oakland,3,3,4,2-14,-79.96136126,40.43830576
+343715,1040,74,2018-07-27T13:18:59,2022-12-31T01:50:19,3rd Division,3301 Forbes Ave,Pittsburgh,Pennsylvania,15213,South Oakland,3,3,4,2-14,-79.96275618,40.43727576
+343716,1041,74,2018-07-27T13:18:59,2022-12-31T01:45:24,3rd Division,3455 Forbes Ave,Pittsburgh,Pennsylvania,15213,Central Oakland,3,6,4,2-14,-79.95972748,40.43971262
+343717,1043,74,2018-07-27T13:18:59,2022-09-09T13:04:25,1st Division,3752 California Ave,Pittsburgh,Pennsylvania,15212,Brighton Heights,1,1,27,1-14,-80.04107,40.4834
+343718,1044,74,2018-07-27T13:18:59,2022-09-25T13:00:31,3rd Division,2032 Forbes Ave,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-1,-79.97615208,40.43721906
+343719,1045,74,2018-07-27T13:18:59,2022-11-07T12:03:40,3rd Division,1710 Forbes Ave,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-1,-79.98205356,40.43746646
+343720,1046,74,2018-07-27T13:18:59,2022-12-30T13:15:08,3rd Division,2321 Webster Avenue,Pittsburgh,Pennsylvania,15219,Middle Hill,3,6,5,2-5,-79.97502812,40.44863766
+343721,1047,74,2018-07-27T13:18:59,2022-12-31T01:33:19,3rd Division,1801 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Crawford-Roberts,3,6,3,2-1,-79.98069489,40.438448
+343722,1048,74,2018-07-27T13:18:59,2022-10-15T13:23:58,3rd Division,2203 Fifth Avenue,Pittsburgh,Pennsylvania,15219,West Oakland,3,6,4,2-1,-79.9740385,40.43804699
+343723,1049,74,2018-07-27T13:18:59,2022-12-31T01:34:19,3rd Division,2076 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-1,-79.97608123,40.43810522
+343724,1050,74,2018-07-27T13:18:59,2022-12-29T11:35:25,4th Division,1903 East Carson Street,Pittsburgh,Pennsylvania,15203,South Side Flats,3,3,17,4-24,-79.97894842,40.42874339
+343725,1051,74,2018-07-27T13:18:59,2022-12-31T01:48:22,3rd Division,3500 Fifth Avenue,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.96009062,40.4404941
+343726,1052,74,2018-07-27T13:18:59,2022-11-07T13:14:23,3rd Division,1819 Forbes Ave,Pittsburgh,Pennsylvania,15219,Bluff,3,6,1,2-1,-79.98125256,40.4375553
+343727,1054,74,2018-07-27T13:19:00,2022-10-23T13:20:10,3rd Division,2002 Fifth Avenue,Pittsburgh,Pennsylvania,15219,West Oakland,3,6,4,2-1,-79.97736417,40.43828272
+343728,1055,74,2018-07-27T13:19:00,2022-12-31T01:45:36,3rd Division,3508 Fifth Avenue,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95967126,40.44078996
+343729,1056,74,2018-07-27T13:19:00,2022-12-31T01:59:34,3rd Division,1945 Fifth Avenue,Pittsburgh,Pennsylvania,15219,Crawford-Roberts,3,6,5,2-1,-79.97761948,40.438302
+343730,1057,74,2018-07-27T13:19:00,2022-11-06T12:19:15,2nd Division,4210 Butler Street,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-3,-79.96030623,40.47053188
+343731,1058,74,2018-07-27T13:19:00,2022-12-31T01:45:21,3rd Division,3616 Fifth Avenue,Pittsburgh,Pennsylvania,15213,West Oakland,3,8,4,2-14,-79.9586418,40.44180676
+343732,1059,74,2018-07-27T13:19:00,2022-11-29T13:32:45,1st Division,247 North Shore Drive,Pittsburgh,Pennsylvania,15212,North Shore,6,1,22,1-7,-80.00845432,40.44639492
+343733,1061,74,2018-07-27T13:19:00,2022-12-31T01:40:32,1st Division,2900 Liberty Avenue,Pittsburgh,Pennsylvania,15201,Strip District,6,7,6,3-2,-79.97336017,40.45747937
+343734,1062,74,2018-07-27T13:19:00,2022-11-30T01:46:21,2nd Division,4239 Main Street,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,9,3-6,-79.95272343,40.46390065
+343735,1063,74,2018-07-27T13:19:00,2022-12-30T13:28:39,5th Division,122 Virginia Ave,Pittsburgh,Pennsylvania,15211,Mount Washington,5,2,19,4-27,-80.00816971,40.42998537
+343736,1064,74,2018-07-27T13:19:00,2022-12-29T13:27:53,2nd Division,906 North Homewood Avenue,Pittsburgh,Pennsylvania,15208,Homewood North,2,9,13,3-17,-79.89631,40.45745
+343737,1065,74,2018-07-27T13:19:00,2022-12-31T01:42:21,2nd Division,119 McCandless Avenue,Pittsburgh,Pennsylvania,15201,Upper Lawrenceville,2,7,10,3-5,-79.95228801,40.48066661
+343738,1066,74,2018-07-27T13:19:00,2022-12-23T13:14:28,2nd Division,4707 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.9497792,40.46214627
+343739,1067,74,2018-07-27T13:19:00,2022-12-30T13:42:25,3rd Division,209 Atwood St,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95716611,40.44082109
+343740,1068,74,2018-07-27T13:19:00,2022-12-28T13:18:32,2nd Division,4734 Stanton Avenue,Pittsburgh,Pennsylvania,15201,Stanton Heights,2,9,10,3-7,-79.93492035,40.48058399
+343741,1069,74,2018-07-27T13:19:00,2022-12-31T01:54:23,3rd Division,3608 Forbes Ave,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95799436,40.44077471
+343742,1070,74,2018-07-27T13:19:00,2022-08-16T02:00:21,3rd Division,3520 Forbes Ave,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95885136,40.44012255
+343743,1071,74,2018-07-27T13:19:00,2022-12-31T01:42:35,3rd Division,3800 Forbes Ave,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95689,40.4416
+343744,1072,74,2018-07-27T13:19:00,2022-12-31T01:45:25,3rd Division,3524 Fifth Avenue,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95919322,40.44114104
+343745,1073,74,2018-07-27T13:19:00,2022-12-31T01:35:20,3rd Division,4001 Fifth Avenue,Pittsburgh,Pennsylvania,15213,North Oakland,3,8,4,2-7,-79.95644058,40.44337405
+343746,1075,74,2018-07-27T13:19:00,2022-11-10T17:35:21,2nd Division,4108 Penn Avenue,Pittsburgh,Pennsylvania,15224,Central Lawrenceville,2,7,9,3-6,-79.95468209,40.46578207
+343747,1076,74,2018-07-27T13:19:01,2022-12-23T01:31:33,3rd Division,3602 Fifth Avenue,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95899902,40.44126609
+343748,1077,74,2018-07-27T13:19:01,2022-12-29T13:12:42,3rd Division,3414 Fifth Avenue,Pittsburgh,Pennsylvania,15213,West Oakland,3,8,4,2-14,-79.9615644,40.43962897
+343749,1078,74,2018-07-27T13:19:01,2022-12-30T02:02:10,2nd Division,4115 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,9,3-6,-79.9535838,40.46358228
+343750,1079,74,2018-07-27T13:19:01,2022-12-30T01:31:19,2nd Division,4500 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.95194634,40.46309725
+343751,1080,74,2018-07-27T13:19:01,2022-09-21T11:35:26,2nd Division,4210 Main Street,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,9,3-6,-79.95407594,40.46476831
+343752,1081,74,2018-07-27T13:19:01,2022-11-06T12:13:21,2nd Division,4117 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,9,3-6,-79.9540183,40.46345856
+343753,1082,74,2018-07-27T13:19:01,2022-11-10T13:11:22,2nd Division,4505 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,9,3-6,-79.95166602,40.46315333
+343754,1083,74,2018-07-27T13:19:01,2022-11-24T13:14:58,2nd Division,4525 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,9,3-6,-79.950939,40.46276503
+343755,1084,74,2018-07-27T13:19:01,2022-12-23T02:01:23,2nd Division,312 Pearl Street,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.94993793,40.46191048
+343756,1085,74,2018-07-27T13:19:01,2022-09-21T19:30:23,2nd Division,4512 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.95139304,40.46282122
+343757,1086,74,2018-07-27T13:19:01,2022-12-21T13:21:39,2nd Division,4723 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.94906719,40.46163922
+343758,1087,74,2018-07-27T13:19:01,2022-12-03T01:31:32,2nd Division,4606 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.95054139,40.46236672
+343759,1088,74,2018-07-27T13:19:01,2022-11-11T13:05:22,2nd Division,4626 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.94999179,40.46207976
+343760,1089,74,2018-07-27T13:19:01,2022-11-11T12:01:55,2nd Division,4500 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.95181436,40.46304544
+343761,1090,74,2018-07-27T13:19:01,2022-12-30T16:38:15,4th Division,1624 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-12,-79.98890393,40.39880059
+343762,1091,74,2018-07-27T13:19:01,2022-12-30T13:09:27,2nd Division,4105 Penn Avenue,Pittsburgh,Pennsylvania,15224,Central Lawrenceville,2,7,9,3-6,-79.95507962,40.46572975
+343763,1092,74,2018-07-27T13:19:01,2022-12-31T01:58:19,2nd Division,4322 Penn Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,9,3-6,-79.95356898,40.4658836
+343764,1093,74,2018-07-27T13:19:01,2022-11-05T13:26:20,1st Division,1355 Romanhoff Street,Pittsburgh,Pennsylvania,15212,Spring Hill-City View,1,1,26,1-11,-79.99305,40.4696
+343765,1094,74,2018-07-27T13:19:01,2022-12-31T01:33:22,4th Division,8 Beltzhoover Ave,Pittsburgh,Pennsylvania,15203,Allentown,5,3,18,4-5,-79.99749434,40.42597824
+343766,1095,74,2018-07-27T13:19:01,2022-11-05T18:35:19,2nd Division,4526 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.95103208,40.46263576
+343767,1096,74,2018-07-27T13:19:01,2022-12-28T13:24:51,2nd Division,4320 Penn Avenue,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-6,-79.95352731,40.46598347
+343768,1098,74,2018-07-27T13:19:02,2022-12-31T01:40:21,2nd Division,4104 Penn Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,9,3-6,-79.95490492,40.46564181
+343769,1099,74,2018-07-27T13:19:02,2022-12-23T01:59:24,2nd Division,4727 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.94896248,40.46170765
+343770,1100,74,2018-07-27T13:19:02,2022-12-31T01:53:23,3rd Division,745 Greenfield Ave,Pittsburgh,Pennsylvania,15217,Greenfield,3,5,15,2-12,-79.93679253,40.42416163
+343771,1101,74,2018-07-27T13:19:02,2022-12-04T13:19:22,2nd Division,4924 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.94481548,40.45937451
+343772,1102,74,2018-07-27T13:19:02,2022-12-23T01:37:20,2nd Division,4800 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.9469974,40.46053024
+343773,1103,74,2018-07-27T13:19:02,2022-12-30T13:30:27,2nd Division,4826 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.9460678,40.46004055
+343774,1104,74,2018-07-27T13:19:02,2022-12-23T02:07:28,2nd Division,4626 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.94983258,40.46202629
+343775,1105,74,2018-07-27T13:19:02,2022-12-31T01:55:20,2nd Division,4320 Penn Avenue,Pittsburgh,Pennsylvania,15224,Central Lawrenceville,2,7,9,3-6,-79.95369551,40.46595089
+343776,1106,74,2018-07-27T13:19:02,2022-12-31T01:37:33,2nd Division,4117 Penn Avenue,Pittsburgh,Pennsylvania,15224,Central Lawrenceville,2,7,9,3-6,-79.95451784,40.46580915
+343777,1107,74,2018-07-27T13:19:02,2022-12-30T13:11:24,2nd Division,378 South Negley Avenue,Pittsburgh,Pennsylvania,15232,Friendship,2,7,8,3-11,-79.93421652,40.45736348
+343778,1108,74,2018-07-27T13:19:02,2022-12-19T01:58:33,2nd Division,5440 Centre Ave,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93654871,40.45645221
+343779,1109,74,2018-07-27T13:19:02,2022-12-28T13:19:46,2nd Division,5135 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-23,-79.94247633,40.45823515
+343780,1111,74,2018-07-27T13:19:02,2022-12-30T13:23:29,2nd Division,4736 Friendship Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.9478198,40.46256784
+343781,1112,74,2018-07-27T13:19:02,2022-11-07T12:30:22,2nd Division,4753 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.94742856,40.46089093
+343782,1113,74,2018-07-27T13:19:03,2022-12-31T01:43:41,2nd Division,6348 Centre Ave,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92189843,40.46178418
+343783,1114,74,2018-07-27T13:19:03,2022-12-30T13:24:18,2nd Division,5932 Centre Ave,Pittsburgh,Pennsylvania,15206,Shadyside,2,8,7,3-11,-79.9281214,40.45894602
+343784,1115,74,2018-07-27T13:19:03,2022-09-08T01:52:00,2nd Division,6701 Frankstown Avenue,Pittsburgh,Pennsylvania,15208,Homewood West,2,9,12,3-17,-79.90780602,40.45868722
+343785,1116,74,2018-07-27T13:19:03,2022-10-11T13:26:41,2nd Division,7240 Fleury Way,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.89563631,40.45571976
+343786,1117,74,2018-07-27T13:19:03,2022-12-31T01:55:21,2nd Division,5005 Friendship Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.94436595,40.46248944
+343787,1118,74,2018-07-27T13:19:03,2022-12-31T01:35:34,2nd Division,220 North Highland Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92397294,40.46316846
+343788,1119,74,2018-07-27T13:19:03,2022-12-31T01:45:30,2nd Division,211 North Whitfield Street,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92550685,40.46218497
+343789,1120,74,2018-07-27T13:19:03,2022-10-11T15:36:07,2nd Division,402 North Beatty Street,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92486586,40.46522223
+343790,1121,74,2018-07-27T13:19:03,2022-12-31T01:53:04,2nd Division,223 North Highland Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92399306,40.46348144
+343791,1122,74,2018-07-27T13:19:03,2022-10-23T13:31:20,2nd Division,5140 Friendship Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-23,-79.94147457,40.46225361
+343792,1123,74,2018-07-27T13:19:03,2022-12-16T13:10:36,2nd Division,218 South Graham Street,Pittsburgh,Pennsylvania,15206,Friendship,2,9,8,3-23,-79.93614702,40.46230096
+343793,1124,74,2018-07-27T13:19:03,2022-12-31T01:51:19,2nd Division,4512 Penn Avenue,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-6,-79.95168973,40.46624242
+343794,1125,74,2018-07-27T13:19:03,2022-08-03T01:38:23,2nd Division,3339 Penn Avenue,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-2,-79.96769913,40.4623947
+343795,1127,74,2018-07-27T13:19:03,2022-12-31T01:38:21,2nd Division,3234 Penn Avenue,Pittsburgh,Pennsylvania,15201,Strip District,6,7,6,3-2,-79.96895832,40.46136637
+343796,1128,74,2018-07-27T13:19:03,2022-11-10T12:30:29,2nd Division,3836 Penn Avenue,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-6,-79.96013018,40.46490238
+343797,1129,74,2018-07-27T13:19:03,2022-10-25T13:18:24,2nd Division,1437 North Saint Clair Street,Pittsburgh,Pennsylvania,15206,Highland Park,2,7,11,3-9,-79.91910941,40.47893424
+343798,1130,74,2018-07-27T13:19:03,2022-12-31T01:46:29,2nd Division,128 North Highland Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92434923,40.46233234
+343799,1131,74,2018-07-27T13:19:03,2022-12-31T01:57:21,2nd Division,715 North Highland Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92196965,40.46786388
+343800,1132,74,2018-07-27T13:19:03,2022-12-31T02:01:44,2nd Division,5910 Harvard Street,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92557,40.46351
+343801,1133,74,2018-07-27T13:19:04,2022-12-31T01:59:20,2nd Division,3836 Penn Avenue,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-6,-79.96007975,40.46475954
+343802,1134,74,2018-07-27T13:19:04,2022-12-31T01:39:21,2nd Division,1001 North Negley Avenue,Pittsburgh,Pennsylvania,15206,Highland Park,2,7,11,3-9,-79.92517196,40.4742053
+343803,1136,74,2018-07-27T13:19:04,2022-12-31T01:43:26,2nd Division,161 North Euclid Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92766839,40.46299229
+343804,1137,74,2018-07-27T13:19:04,2022-12-31T01:31:31,2nd Division,6378 Centre Ave,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92135341,40.46267872
+343805,1138,74,2018-07-27T13:19:04,2022-12-30T13:28:34,2nd Division,125 South Beatty Street,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,8,3-11,-79.92741017,40.4613548
+343806,1139,74,2018-07-27T13:19:04,2022-12-30T13:05:59,2nd Division,217 North Highland Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92424231,40.46293484
+343807,1140,74,2018-07-27T13:19:04,2022-12-30T13:04:51,2nd Division,5309 Hillcrest Street,Pittsburgh,Pennsylvania,15224,Garfield,2,9,10,3-4,-79.9373377,40.46812105
+343808,1141,74,2018-07-27T13:19:04,2022-12-30T13:23:54,2nd Division,211 North Whitfield Street,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92513076,40.46282646
+343809,1142,74,2018-07-27T13:19:04,2022-12-30T13:13:11,2nd Division,4445 Howley Street,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,9,3-6,-79.95134116,40.46506632
+343810,1143,74,2018-07-27T13:19:04,2022-11-10T13:23:20,2nd Division,200 South Winebiddle Street,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.94282344,40.46484513
+343811,1144,74,2018-07-27T13:19:04,2022-12-31T01:36:24,2nd Division,4420 Penn Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,9,3-6,-79.95262314,40.46603248
+343812,1145,74,2018-07-27T13:19:04,2022-12-23T01:53:32,2nd Division,4627 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,9,3-6,-79.9499486,40.46223344
+343813,1146,74,2018-07-27T13:19:04,2022-12-21T13:15:21,2nd Division,4759 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.9481357,40.46126805
+343814,1147,74,2018-07-27T13:19:04,2022-12-30T04:36:08,2nd Division,5260 Centre Ave,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-1,-79.93874696,40.45580915
+343815,1148,74,2018-07-27T13:19:04,2022-12-23T01:54:20,2nd Division,4761 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.94795134,40.46117042
+343816,1150,74,2019-03-19T08:02:58,2022-12-30T13:16:34,2nd Division,5455 Penn Avenue,Pittsburgh,Pennsylvania,15206,Garfield,2,9,11,3-23,-79.93379915,40.46461574
+343817,1151,74,2019-03-19T08:02:58,2022-12-31T01:39:53,2nd Division,5437 Penn Avenue,Pittsburgh,Pennsylvania,15206,Garfield,2,9,11,3-23,-79.93480777,40.46482617
+343818,1152,74,2019-03-19T08:02:58,2022-12-31T01:46:08,2nd Division,5461 Penn Avenue,Pittsburgh,Pennsylvania,15206,Friendship,2,9,8,3-23,-79.93405938,40.46457707
+343819,1153,74,2019-03-19T08:02:58,2022-12-30T13:11:18,2nd Division,5501 Penn Avenue,Pittsburgh,Pennsylvania,15206,Garfield,2,9,11,3-23,-79.93232011,40.46414908
+343820,1154,74,2019-03-19T08:02:58,2022-12-10T13:33:41,4th Division,17 West Cherryhill Street,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-23,-79.98903397,40.39798001
+343821,1155,74,2019-03-19T08:02:58,2022-12-31T01:51:00,2nd Division,6009 Broad Street,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92418628,40.46244959
+343822,1156,74,2019-03-19T08:02:58,2022-10-25T13:26:24,2nd Division,5401 Penn Avenue,Pittsburgh,Pennsylvania,15206,Garfield,2,9,11,3-23,-79.9362569,40.46474519
+343823,1157,74,2019-03-19T08:02:58,2022-12-31T01:35:31,2nd Division,6033 Broad Street,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92321146,40.46197843
+343824,1158,74,2019-03-19T08:02:59,2022-10-02T16:35:44,4th Division,2434 Brownsville Rd,Pittsburgh,Pennsylvania,15210,Carrick,3,4,29,4-23,-79.98189,40.38681
+343825,1159,74,2019-03-19T08:02:59,2022-12-31T01:34:32,2nd Division,6006 Broad Street,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92427022,40.46235413
+343826,1160,74,2019-03-19T08:02:59,2022-11-06T12:03:36,2nd Division,1748 Chislett Street,Pittsburgh,Pennsylvania,15206,Morningside,2,7,10,3-7,-79.9258443,40.485323
+343827,1161,74,2019-03-19T08:02:59,2022-12-03T13:15:42,2nd Division,1740 Chislett Street,Pittsburgh,Pennsylvania,15206,Morningside,2,7,10,3-7,-79.9260785,40.48512469
+343828,1163,74,2019-03-19T08:02:59,2022-12-31T01:40:32,2nd Division,6033 Broad Street,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92315356,40.46209787
+343829,1165,74,2019-03-19T08:02:59,2022-12-31T01:33:25,2nd Division,6012 Broad Street,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.9236826,40.46213692
+343830,1166,74,2019-03-19T08:02:59,2022-12-31T01:58:20,2nd Division,4200 Penn Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,9,3-6,-79.95430911,40.4657502
+343831,1167,74,2019-03-19T08:02:59,2022-12-31T01:38:33,2nd Division,6117 Broad Street,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-8,-79.92232979,40.46164813
+343832,1168,74,2019-03-19T08:02:59,2022-12-31T01:31:16,2nd Division,5255 Butler Street,Pittsburgh,Pennsylvania,15201,Upper Lawrenceville,2,7,10,3-5,-79.95338632,40.48167733
+343833,1169,74,2019-03-19T08:02:59,2022-12-30T13:45:26,2nd Division,4104 Butler Street,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-3,-79.96127039,40.46956128
+343834,1170,74,2019-03-19T08:02:59,2022-10-25T13:09:21,2nd Division,5302 Butler Street,Pittsburgh,Pennsylvania,15201,Upper Lawrenceville,2,7,10,3-5,-79.9523439,40.48226447
+343835,1171,74,2019-03-19T08:02:59,2022-06-29T01:40:16,2nd Division,3811 Butler Street,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-3,-79.9640902,40.46718185
+343836,1173,74,2019-03-19T08:02:59,2022-12-30T17:45:25,2nd Division,5208 Butler Street,Pittsburgh,Pennsylvania,15201,Upper Lawrenceville,2,7,10,3-5,-79.95448492,40.48052648
+343837,1174,74,2019-03-19T08:02:59,2022-12-31T01:55:20,2nd Division,7232 Ballard Way,Pittsburgh,Pennsylvania,15206,Morningside,2,7,10,3-7,-79.92031,40.48746
+343838,1175,74,2019-03-19T08:02:59,2022-12-31T01:52:19,2nd Division,7331 Butler Street,Pittsburgh,Pennsylvania,15206,Morningside,2,7,10,3-7,-79.92012011,40.48792872
+343839,1176,74,2019-03-19T08:02:59,2022-12-31T01:47:28,2nd Division,4617 Butler Street,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-3,-79.95834862,40.47333054
+343840,1177,74,2019-03-19T08:02:59,2022-11-10T13:11:06,2nd Division,4021 Butler Street,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-3,-79.96157911,40.4693318
+343841,1178,74,2019-03-19T08:02:59,2022-11-10T13:07:24,2nd Division,3601 Butler Street,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-3,-79.96532555,40.46548074
+343842,1179,74,2019-03-19T08:02:59,2022-12-31T01:54:21,2nd Division,4429 Stanton Avenue,Pittsburgh,Pennsylvania,15201,Stanton Heights,2,9,10,3-7,-79.93959,40.48173
+343843,1180,74,2019-03-19T08:02:59,2022-12-31T01:30:24,2nd Division,5170 Butler Street,Pittsburgh,Pennsylvania,15201,Upper Lawrenceville,2,7,10,3-5,-79.95446367,40.48028551
+343844,1181,74,2019-03-19T08:02:59,2022-12-31T01:37:22,2nd Division,4110 Butler Street,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-3,-79.96094588,40.46967908
+343845,1182,74,2019-03-19T08:02:59,2022-12-31T01:58:19,2nd Division,3400 Penn Avenue,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-6,-79.96706011,40.46266993
+343846,1183,74,2019-03-19T08:03:00,2022-12-31T01:31:20,2nd Division,4931 Butler Street,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-5,-79.95624046,40.47789039
+343847,1184,74,2019-03-19T08:03:00,2022-12-30T12:30:34,2nd Division,3701 Butler Street,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-3,-79.96472711,40.46633075
+343848,1185,74,2019-03-19T08:03:00,2022-12-31T01:33:21,2nd Division,4434 Butler Street,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-3,-79.95928837,40.47204947
+343849,1186,74,2019-03-19T08:03:00,2022-11-03T13:12:33,2nd Division,3427 Butler Street,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-3,-79.96699843,40.46310355
+343850,1187,74,2019-03-19T08:03:00,2022-12-31T01:43:21,2nd Division,4751 Butler Street,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-5,-79.95758,40.47577
+343851,1188,74,2019-03-19T08:03:00,2022-12-30T01:36:50,2nd Division,4901 Butler Street,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-5,-79.9569176,40.4771262
+343852,1189,74,2019-03-19T08:03:00,2022-12-31T01:39:23,2nd Division,4001 Butler Street,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-3,-79.96243,40.46853
+343853,1190,74,2019-03-19T08:03:00,2022-12-31T01:42:20,2nd Division,5232 Butler Street,Pittsburgh,Pennsylvania,15201,Upper Lawrenceville,2,7,10,3-5,-79.95384349,40.4811897
+343854,1191,74,2019-03-19T08:03:00,2022-12-31T01:40:29,2nd Division,4701 Butler Street,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-3,-79.95796425,40.4740827
+343855,1192,74,2019-03-19T08:03:00,2022-12-30T01:52:22,2nd Division,4113 Butler Street,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-3,-79.96095264,40.46983319
+343856,1193,74,2019-03-19T08:03:00,2022-12-31T01:31:22,2nd Division,229 40th Street,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-3,-79.96152786,40.46800779
+343857,1194,74,2019-03-19T08:03:00,2022-12-31T01:55:20,2nd Division,4929 Butler Street,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-5,-79.95613288,40.47779983
+343858,1195,74,2019-03-19T08:03:00,2022-12-31T01:54:22,2nd Division,3601 Butler Street,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-3,-79.96521316,40.46537376
+343859,1196,74,2019-03-19T08:03:00,2022-12-31T02:00:26,2nd Division,5240 Butler Street,Pittsburgh,Pennsylvania,15201,Upper Lawrenceville,2,7,10,3-5,-79.95355015,40.4814727
+343860,1197,74,2019-03-19T08:03:00,2022-12-31T01:56:20,2nd Division,5140 Butler Street,Pittsburgh,Pennsylvania,15201,Upper Lawrenceville,2,7,10,3-5,-79.95492814,40.47945972
+343861,1198,74,2019-03-19T08:03:00,2022-12-30T12:35:22,2nd Division,4900 Liberty Avenue,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-6,-79.94567351,40.45994958
+343862,1199,74,2019-03-19T08:03:00,2022-12-30T13:23:17,2nd Division,5401 Butler Street,Pittsburgh,Pennsylvania,15201,Upper Lawrenceville,2,7,10,3-5,-79.95114335,40.48294529
+343863,1201,74,2019-03-19T08:03:00,2022-12-31T01:53:43,2nd Division,5245 Centre Ave,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-1,-79.93960292,40.45552724
+343864,1202,74,2019-03-19T08:03:00,2022-12-30T11:36:53,2nd Division,5272 Butler Street,Pittsburgh,Pennsylvania,15201,Upper Lawrenceville,2,7,10,3-5,-79.95251374,40.48207824
+343865,1203,74,2019-03-19T08:03:00,2022-12-31T01:40:23,2nd Division,3495 Butler Street,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-3,-79.96645575,40.46390212
+343866,1204,74,2019-03-19T08:03:00,2022-12-31T01:55:18,2nd Division,3508 Butler Street,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-3,-79.96613,40.46409
+343867,1205,74,2019-03-19T08:03:00,2022-12-30T13:33:26,2nd Division,3820 Butler Street,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-3,-79.96381792,40.46736014
+343868,1206,74,2019-03-19T08:03:00,2022-12-31T01:42:20,2nd Division,3411 Butler Street,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-3,-79.96711014,40.46291988
+343869,1207,74,2019-03-19T08:03:00,2022-12-30T18:35:22,2nd Division,3533 Butler Street,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-3,-79.96576,40.46486
+343870,1208,74,2019-03-19T08:03:01,2022-12-31T01:44:20,2nd Division,5123 Butler Street,Pittsburgh,Pennsylvania,15201,Upper Lawrenceville,2,7,10,3-5,-79.95533737,40.47908363
+343871,1209,74,2019-03-19T08:03:01,2022-12-31T01:49:32,2nd Division,3720 Butler Street,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-3,-79.96426361,40.46675055
+343872,1210,74,2019-03-19T08:03:01,2022-12-31T01:42:18,2nd Division,4303 Butler Street,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-3,-79.96032295,40.47075803
+343873,1211,74,2019-03-19T08:03:01,2022-12-31T01:37:23,2nd Division,3520 Butler Street,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-3,-79.96588892,40.46449875
+343874,1212,74,2019-03-19T08:03:01,2022-12-30T01:56:24,2nd Division,5215 Centre Ave,Pittsburgh,Pennsylvania,15224,Bloomfield,2,7,8,3-1,-79.94063804,40.45536714
+343875,1213,74,2019-03-19T08:03:01,2022-12-31T01:57:21,2nd Division,801 North Highland Avenue,Pittsburgh,Pennsylvania,15206,Highland Park,2,7,11,3-9,-79.9210753,40.46979578
+343876,1214,74,2019-03-19T08:03:01,2022-12-31T01:44:20,2nd Division,4407 Butler Street,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-3,-79.95976257,40.4716068
+343877,1215,74,2019-03-19T08:03:01,2022-12-31T01:57:23,2nd Division,3480 Butler Street,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-3,-79.96626,40.46392
+343878,1216,74,2019-03-19T08:03:01,2022-12-30T13:21:34,2nd Division,3418 Penn Avenue,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-6,-79.96685513,40.46299435
+343879,1217,74,2019-03-19T08:03:01,2022-12-31T01:55:20,2nd Division,4635 Butler Street,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-3,-79.9580032,40.47387261
+343880,1218,74,2019-03-19T08:03:01,2022-12-31T01:51:20,2nd Division,5155 Butler Street,Pittsburgh,Pennsylvania,15201,Upper Lawrenceville,2,7,10,3-5,-79.9548,40.47999
+343881,1219,74,2019-03-19T08:03:01,2022-12-31T02:01:20,2nd Division,5601 Butler Street,Pittsburgh,Pennsylvania,15201,Upper Lawrenceville,2,7,10,3-5,-79.94818961,40.48429574
+343882,1220,74,2019-03-19T08:03:01,2022-12-31T02:16:24,2nd Division,5517 Butler Street,Pittsburgh,Pennsylvania,15201,Upper Lawrenceville,2,7,10,3-5,-79.94967119,40.48364482
+343883,1221,74,2019-03-19T08:03:01,2022-12-30T09:51:22,2nd Division,4020 Butler Street,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-3,-79.9615561,40.46919131
+343884,1222,74,2019-03-19T08:03:01,2022-12-31T01:33:19,2nd Division,5105 Butler Street,Pittsburgh,Pennsylvania,15201,Upper Lawrenceville,2,7,10,3-5,-79.95569279,40.47847753
+343885,1223,74,2019-03-19T08:03:01,2022-12-30T13:35:24,2nd Division,4601 Butler Street,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-3,-79.95878191,40.47293831
+343886,1224,74,2019-03-19T08:03:01,2022-12-31T01:33:20,2nd Division,4328 Butler Street,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-3,-79.95978258,40.47136798
+343887,1225,74,2019-03-19T08:03:01,2022-12-31T01:35:34,2nd Division,800 North Highland Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-9,-79.92096408,40.46956864
+343888,1226,74,2019-03-19T08:03:01,2022-12-31T01:53:22,2nd Division,4811 Butler Street,Pittsburgh,Pennsylvania,15201,Central Lawrenceville,2,7,9,3-5,-79.95772001,40.47598792
+343889,1227,74,2019-08-22T13:00:13,2022-12-31T01:53:21,2nd Division,524 North Homewood Avenue,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.89859037,40.45295702
+343890,1228,74,2019-08-22T13:00:14,2022-12-31T01:50:18,2nd Division,551 North Homewood Avenue,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.8977342,40.45422789
+343891,1229,74,2019-08-22T13:00:14,2022-12-31T01:56:17,2nd Division,601 North Homewood Avenue,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.89759965,40.45460176
+343892,1230,74,2019-08-22T13:00:14,2022-12-31T01:32:20,2nd Division,551 North Homewood Avenue,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.89780294,40.45427206
+343893,1231,74,2019-08-22T13:00:14,2022-12-31T01:35:33,2nd Division,531 North Homewood Avenue,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.89815889,40.45376431
+343894,1232,74,2019-08-22T13:00:14,2022-12-31T01:56:32,2nd Division,517 North Homewood Avenue,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.89864,40.45309
+343895,1233,74,2019-08-22T13:00:14,2022-12-31T01:49:21,2nd Division,601 North Homewood Avenue,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.89753073,40.4545688
+343896,1234,74,2019-08-22T13:00:14,2022-12-31T01:55:23,2nd Division,536 North Homewood Avenue,Pittsburgh,Pennsylvania,15208,Homewood South,2,9,13,3-17,-79.89809295,40.45369264
+343897,1235,74,2019-09-19T12:59:25,2022-02-23T13:31:21,2nd Division,722 Ivy Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93243373,40.45204033
+343898,1236,74,2019-09-19T12:59:25,2022-12-30T13:00:23,2nd Division,5521 Walnut Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93296636,40.45139
+343899,1238,74,2019-09-19T12:59:25,2022-12-08T13:01:21,2nd Division,5534 Walnut Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93254708,40.45154328
+343900,1239,74,2019-09-19T12:59:25,2022-12-17T02:00:28,2nd Division,5401 Walnut Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93503,40.45076
+343901,1240,74,2019-09-19T12:59:25,2022-12-30T13:29:26,2nd Division,714 Culloden Way,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93348423,40.45136376
+343902,1241,74,2019-09-19T12:59:26,2022-12-30T13:11:24,2nd Division,811 South Aiken Avenue,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93559,40.45068
+343903,1242,74,2019-09-19T12:59:26,2022-12-23T01:56:20,2nd Division,5508 Walnut Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93349,40.45121
+343904,1243,74,2019-09-19T12:59:26,2022-12-31T01:54:31,2nd Division,5431 Walnut Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93421348,40.45108226
+343905,1244,74,2019-09-19T12:59:26,2022-12-21T13:07:18,2nd Division,727 Ivy Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93217114,40.45176187
+343906,1245,74,2019-09-19T12:59:26,2022-12-31T01:43:18,2nd Division,5405 Fifth Avenue,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,2-17,-79.9341,40.44852
+343907,1246,74,2019-09-19T12:59:26,2022-12-31T01:47:21,2nd Division,806 Ivy Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93214,40.45146
+343908,1247,74,2019-09-19T12:59:26,2022-12-30T13:29:33,2nd Division,739 Bellefonte Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93401551,40.45153099
+343909,1248,74,2019-09-19T12:59:26,2022-12-31T01:47:35,2nd Division,5433 Walnut Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93392878,40.45116496
+343910,1249,74,2019-09-19T12:59:26,2022-12-31T01:49:32,2nd Division,714 Culloden Way,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.9334372,40.4513731
+343911,1250,74,2019-09-19T12:59:26,2022-12-31T01:30:24,2nd Division,5442 Walnut Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93388026,40.45110437
+343912,1251,74,2019-09-19T12:59:26,2022-12-23T02:00:26,2nd Division,5501 Walnut Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93381085,40.45120923
+343913,1252,74,2019-09-19T12:59:27,2022-12-23T01:39:21,2nd Division,5413 Walnut Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93476292,40.45095496
+343914,1253,74,2019-09-19T12:59:27,2022-12-09T13:00:38,2nd Division,5513 Walnut Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93323207,40.45140988
+343915,1254,74,2019-09-19T12:59:27,2022-12-30T13:28:32,2nd Division,5434 Walnut Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93422758,40.45097172
+343916,1255,74,2019-09-19T12:59:27,2022-12-31T01:59:22,2nd Division,5426 Walnut Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93452,40.45088
+343917,1256,74,2019-09-19T12:59:27,2022-12-30T13:05:22,2nd Division,731 Filbert Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93318861,40.45187356
+343918,1257,74,2019-09-19T12:59:27,2022-12-23T01:39:41,2nd Division,5527 Walnut Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93279,40.45155
+343919,1258,74,2019-09-19T12:59:27,2022-12-08T12:51:23,2nd Division,5411 Walnut Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.9350556,40.45085337
+343920,1259,74,2019-09-19T12:59:27,2022-12-31T01:40:35,2nd Division,5436 Walnut Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93405368,40.45103352
+343921,1260,74,2019-09-19T12:59:27,2022-12-31T01:32:25,2nd Division,806 Ivy Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93219,40.45156
+343922,1261,74,2019-09-19T12:59:27,2022-12-21T13:20:20,2nd Division,5421 Walnut Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93459758,40.45096289
+343923,1262,74,2019-09-19T12:59:27,2022-12-31T01:53:26,2nd Division,731 South Aiken Avenue,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93555571,40.45086796
+343924,1263,74,2019-09-19T12:59:27,2022-12-31T02:00:35,2nd Division,5443 Walnut Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93373335,40.45113453
+343925,1264,74,2019-09-19T12:59:27,2022-12-03T01:42:50,2nd Division,5541 Walnut Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93239551,40.45165312
+343926,1265,74,2019-09-19T12:59:27,2022-11-10T13:24:28,2nd Division,Urn Way,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93283868,40.45189778
+343927,1266,74,2019-09-19T12:59:27,2022-12-23T01:48:25,2nd Division,736 Bellefonte Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.9340991,40.4515006
+343928,1267,74,2019-09-19T12:59:27,2022-12-30T16:35:22,2nd Division,816 Ivy Street,Pittsburgh,Pennsylvania,15232,Shadyside,2,8,7,3-22,-79.93195,40.45116
+343929,1268,74,2019-09-27T11:09:10,2022-12-31T01:53:23,Frick Park,6579 English Lane,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-20,-79.91277,40.42882
+343930,1269,74,2019-09-27T11:09:11,2022-12-31T01:52:20,Frick Park,Frick Park,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.91337,40.42946
+343931,1270,74,2019-09-27T11:09:11,2022-12-31T01:51:19,Frick Park,2005 Blue Slide Park,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.91492,40.43002
+343932,1271,74,2019-09-27T11:09:11,2022-12-31T01:48:21,Frick Park,2005 Blue Slide Park,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.91461,40.43013
+343933,1272,74,2019-09-27T11:09:11,2022-12-31T01:33:23,Frick Park,155 Blue Slide Park,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.91451,40.42988
+343934,1273,74,2019-09-27T11:09:12,2022-12-31T01:38:24,Frick Park,Frick Park,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.91344,40.4296
+343935,1274,74,2019-09-27T11:09:12,2022-12-31T01:42:51,Frick Park,Jays Short Cut Trail,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.91338,40.43052
+343936,1275,74,2019-09-27T11:09:12,2022-12-31T01:51:20,Frick Park,269 Riverview Trail,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.91121,40.43143
+343937,1276,74,2019-09-27T11:09:12,2022-12-31T01:52:20,Frick Park,269 Riverview Trail,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.91022,40.43115
+343938,1277,74,2019-09-27T11:09:12,2022-12-31T01:45:20,Frick Park,Riverview Trail,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.90898,40.43104
+343939,1278,74,2019-09-27T11:09:12,2022-12-31T01:46:20,Frick Park,611 South Braddock Avenue,Pittsburgh,Pennsylvania,15221,Regent Square,3,5,14,2-16,-79.89754,40.43909
+343940,1279,74,2019-09-27T11:09:12,2022-12-31T01:56:15,Frick Park,Forbes and Braddock Playground,Pittsburgh,Pennsylvania,15221,Regent Square,3,5,14,2-16,-79.8978,40.43906
+343941,1280,74,2019-09-27T11:09:12,2022-12-31T01:36:15,Frick Park,Forbes and Braddock Playground,Pittsburgh,Pennsylvania,15221,Regent Square,3,5,14,2-16,-79.89832,40.43901
+343942,1281,74,2019-09-27T11:09:12,2022-12-31T01:39:22,Frick Park,707 South Braddock Avenue,Pittsburgh,Pennsylvania,15221,Regent Square,3,5,14,2-16,-79.89795,40.43777
+343943,1282,74,2019-09-27T11:09:12,2022-12-31T01:49:46,Frick Park,7500 Henrietta Street,Pittsburgh,Pennsylvania,15218,Regent Square,3,5,14,2-16,-79.89761,40.43547
+343944,1283,74,2019-09-27T11:09:12,2022-12-30T11:50:25,Frick Park,1100 Lancaster Avenue,Pittsburgh,Pennsylvania,15218,Regent Square,3,5,14,2-16,-79.89803,40.43121
+343945,1284,74,2019-09-27T11:09:12,2022-12-30T01:57:15,Frick Park,Sanders Street,Pittsburgh,Pennsylvania,15218,Regent Square,3,5,14,2-16,-79.89872,40.42947
+343946,1285,74,2019-09-27T11:09:12,2022-12-31T01:51:20,Frick Park,7300 Hutchinson Street,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-16,-79.90015,40.43132
+343947,1286,74,2019-09-27T11:09:12,2022-12-31T01:31:22,Frick Park,1200 Trevanion Avenue,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-16,-79.90051,40.43013
+343948,1287,74,2019-09-27T11:09:12,2022-10-25T13:20:32,Frick Park,Nine Mile Run,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-16,-79.90086,40.42949
+343949,1288,74,2019-09-27T11:09:13,2022-12-31T01:40:23,Frick Park,Falls Ravine Trail,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-16,-79.90022,40.43288
+343950,1289,74,2019-09-27T11:09:13,2022-12-31T01:41:18,Frick Park,829 Milton Street,Pittsburgh,Pennsylvania,15221,Squirrel Hill South,3,5,14,2-16,-79.89894,40.43666
+343951,1290,74,2019-09-27T11:09:13,2022-12-31T01:42:22,Frick Park,Allenby Way,Pittsburgh,Pennsylvania,15218,,,,,3-26,-79.89226,40.42812
+343952,1291,74,2019-09-27T11:09:13,2022-12-31T01:52:18,Frick Park,1220 Commercial Street,Pittsburgh,Pennsylvania,15218,Swisshelm Park,3,5,14,2-19,-79.90508,40.42437
+343953,1292,74,2019-09-27T11:09:13,2022-12-31T01:41:16,Frick Park,Commercial Street,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-20,-79.90595,40.42639
+343954,1293,74,2019-09-27T11:09:13,2022-12-31T01:41:17,Frick Park,Commercial Street,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-20,-79.90562,40.42743
+343955,1294,74,2019-09-27T11:09:13,2022-12-31T01:33:20,Frick Park,326 South Homewood Avenue,Pittsburgh,Pennsylvania,15217,Point Breeze,3,9,14,3-14,-79.9032,40.44615
+343956,1295,74,2019-09-27T11:09:13,2022-12-31T01:54:41,Frick Park,Homewood Trail Entrance,Pittsburgh,Pennsylvania,15217,Point Breeze,3,9,14,3-14,-79.90164,40.44532
+343957,1296,74,2019-09-27T11:09:13,2022-12-31T01:57:20,Frick Park,Reynolds St,Pittsburgh,Pennsylvania,15217,Point Breeze,3,9,14,3-14,-79.90114,40.445
+343958,1297,74,2019-09-27T11:09:13,2022-12-31T01:34:32,Frick Park,Reynolds St,Pittsburgh,Pennsylvania,15217,Point Breeze,3,9,14,3-14,-79.90063,40.44483
+343959,1298,74,2019-09-27T11:09:13,2022-12-31T01:44:22,Frick Park,7416 Hawthorne Trail,Pittsburgh,Pennsylvania,15217,Point Breeze,3,9,14,3-14,-79.90031,40.44404
+343960,1299,74,2019-09-27T11:09:13,2022-12-31T01:42:23,Frick Park,549 Richland Lane,Pittsburgh,Pennsylvania,15221,Point Breeze,3,9,14,3-14,-79.89923,40.44246
+343961,1300,74,2019-09-27T11:09:13,2022-11-10T13:26:22,Eastern Parks Division,5655 Solway Street,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,8,14,2-18,-79.92673,40.44321
+343962,1301,74,2019-09-27T11:09:13,2022-12-31T01:39:24,Frick Park,2024 Beechwood Boulevard,Pittsburgh,Pennsylvania,15217,Squirrel Hill South,3,5,14,2-21,-79.90921,40.43579
+343963,1302,74,2019-09-27T11:09:13,2022-12-31T01:36:21,Eastern Parks Division,912 North Braddock Avenue,Pittsburgh,Pennsylvania,15208,Homewood North,2,9,13,3-17,-79.88966,40.45631
+343964,1303,74,2019-12-09T09:33:56,2022-12-31T01:46:23,1st Division,1339 Our Way,Pittsburgh,Pennsylvania,15219,Central Business District,6,6,3,2-4,-79.98679,40.43925
+343965,1304,74,2020-06-08T14:33:32,2022-12-31T02:00:37,Eastern Parks Division,110 Bakery Square Boulevard,Pittsburgh,Pennsylvania,15206,Shadyside,2,8,7,3-13,-79.91582,40.45561
+343966,1305,74,2020-06-08T14:33:32,2022-12-31T01:45:45,Eastern Parks Division,6519 Penn Avenue,Pittsburgh,Pennsylvania,15206,Shadyside,2,8,7,3-13,-79.91525,40.45567
+343967,1308,74,2020-08-20T12:05:19,2022-12-31T01:44:04,Northeastern Parks Division,155 Larimer Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-10,-79.91875,40.46277
+343968,1309,74,2020-08-20T12:05:21,2022-12-31T01:42:02,2nd Division,6248 Kalida Drive,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-10,-79.91934,40.46375
+343969,1310,74,2020-08-20T12:05:21,2022-12-31T01:45:32,Northeastern Parks Division,106 Larimer Avenue,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-10,-79.91963,40.46214
+343970,1311,74,2020-08-20T12:05:21,2022-01-23T01:46:37,2nd Division,345 Omega Court,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-10,-79.91914,40.46349
+343971,1312,74,2020-08-20T12:05:21,2022-12-31T01:46:18,2nd Division,6262 East Liberty Boulevard,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-10,-79.91849,40.46425
+343972,1313,74,2020-08-20T12:05:21,2022-12-31T01:34:23,Northeastern Parks Division,337 Princeton Place,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-10,-79.91953,40.46283
+343973,1314,74,2020-08-20T12:05:21,2022-12-31T01:37:13,Northeastern Parks Division,6248 Station Street,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-10,-79.91995,40.46235
+343974,1315,74,2020-08-20T12:05:21,2022-12-31T01:52:50,Northeastern Parks Division,6265 Kalida Drive,Pittsburgh,Pennsylvania,15206,East Liberty,2,9,11,3-10,-79.91914,40.46318
+343975,1316,74,2020-10-01T13:40:36,2022-12-31T01:59:17,2nd Division,3629 Butler Street,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-3,-79.9647116,40.46611343
+343976,1317,74,2020-10-01T13:40:36,2022-12-31T01:53:16,2nd Division,3600 Butler Street,Pittsburgh,Pennsylvania,15201,Lower Lawrenceville,2,7,6,3-3,-79.96505004,40.46563466
+343977,1318,74,2020-10-20T14:25:09,2022-12-31T01:47:21,Eastern Parks Division,1326 Wightman Street,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,8,14,2-8,-79.92761,40.44336
+343978,1319,74,2020-10-20T14:25:09,2022-12-31T01:33:27,Eastern Parks Division,6526 Living Place,Pittsburgh,Pennsylvania,15206,Shadyside,2,8,7,3-13,-79.91563,40.45557
+343979,1320,74,2020-10-20T14:25:09,2022-12-31T01:30:25,Eastern Parks Division,5637 Solway Street,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,8,14,2-18,-79.92695,40.44316
+343980,1321,74,2020-10-20T14:25:09,2022-12-31T01:38:39,Eastern Parks Division,6515 Penn Avenue,Pittsburgh,Pennsylvania,15206,Shadyside,2,8,7,3-13,-79.91533,40.45572
+343981,1322,74,2020-10-20T14:25:09,2022-12-31T01:50:14,Eastern Parks Division,5637 Solway Street,Pittsburgh,Pennsylvania,15217,Squirrel Hill North,3,8,14,2-18,-79.92667,40.44329
+343982,1323,74,2020-10-20T14:25:09,2022-01-08T01:41:33,Western Parks Division,803 Ernie Street,Pittsburgh,Pennsylvania,15220,Elliott,5,2,20,1-17,-80.04007289,40.44335152
+343983,1324,74,2020-10-20T14:25:09,2022-05-17T11:02:22,Western Parks Division,803 Ernie Street,Pittsburgh,Pennsylvania,15220,Elliott,5,2,20,1-17,-80.04020425,40.44307235
+343984,1325,105,2020-10-21T09:57:22,2022-12-31T01:58:19,3rd Division,3701 Forbes Ave,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95776563,40.44105577
+343985,1326,105,2020-10-21T09:57:23,2022-12-31T01:36:22,3rd Division,3721 Forbes Ave,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95707959,40.44155347
+343986,1327,105,2020-10-21T09:57:23,2022-12-31T01:44:20,3rd Division,3600 Forbes Ave,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95829586,40.44067625
+343987,1328,105,2020-10-21T09:57:23,2022-12-31T01:50:28,3rd Division,3701 Forbes Ave,Pittsburgh,Pennsylvania,15213,Central Oakland,3,3,4,2-14,-79.95760291,40.44117257
+343988,1329,74,2020-11-03T12:47:18,2022-12-31T01:56:21,Schenley Parks Division,175 Granville Street,Pittsburgh,Pennsylvania,15219,Crawford-Roberts,3,6,3,2-1,-79.9831,40.44442
+343989,1330,74,2020-11-03T12:47:18,2022-12-31T01:43:19,Schenley Parks Division,175 Granville Street,Pittsburgh,Pennsylvania,15219,Crawford-Roberts,3,6,3,2-1,-79.98315,40.44454
+343990,1331,74,2021-02-16T12:02:31,2022-12-31T01:57:58,Eastern Parks Division,1796 Mcbride Street,Pittsburgh,Pennsylvania,15207,Lincoln Place,3,5,31,4-20,-79.90757,40.36997
+343991,1332,74,2021-02-16T12:02:31,2022-12-31T01:58:23,Eastern Parks Division,1796 Mcbride Street,Pittsburgh,Pennsylvania,15207,Lincoln Place,3,5,31,4-20,-79.90752,40.36969
+343992,1333,74,2021-02-16T12:02:31,2022-12-31T01:48:17,Eastern Parks Division,1796 Mcbride Street,Pittsburgh,Pennsylvania,15207,Lincoln Place,3,5,31,4-20,-79.90726,40.36974
+343993,1334,74,2021-02-16T12:02:31,2022-12-31T01:34:16,Eastern Parks Division,1796 Mcbride Street,Pittsburgh,Pennsylvania,15207,Lincoln Place,3,5,31,4-20,-79.90725,40.36986
+343994,1335,74,2021-08-17T09:17:16,2022-12-31T01:50:30,2nd Division,300 Larimer Avenue,Pittsburgh,Pennsylvania,15206,Larimer,2,9,12,3-10,-79.91579,40.46443
+343995,1336,74,2021-08-17T09:17:16,2022-12-31T01:38:18,2nd Division,25 Meadow Street,Pittsburgh,Pennsylvania,15206,Larimer,2,9,12,3-12,-79.91444945,40.46525367
+343996,1337,74,2021-08-17T09:17:16,2022-12-31T01:44:35,2nd Division,6525 Meadow Street,Pittsburgh,Pennsylvania,15206,Larimer,2,9,12,3-12,-79.9104156,40.46166949
+343997,1338,74,2021-08-17T09:17:16,2022-12-31T01:46:30,2nd Division,722 Larimer Avenue,Pittsburgh,Pennsylvania,15206,Larimer,2,9,12,3-12,-79.91043,40.46688
+343998,1339,74,2021-08-17T09:17:16,2022-12-31T01:35:23,2nd Division,160 Meadow Street,Pittsburgh,Pennsylvania,15206,Larimer,2,9,12,3-12,-79.91296,40.46379
